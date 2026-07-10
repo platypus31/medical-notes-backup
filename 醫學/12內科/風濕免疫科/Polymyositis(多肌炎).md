@@ -1,0 +1,51 @@
+---
+tags: [疾病, 風濕免疫科, RIA]
+aliases: [Polymyositis, 多肌炎]
+type: disease
+status: 🌱seedling
+sources_reviewed:
+---
+# Polymyositis（多肌炎）
+
+> [!abstract] 一句話：
+
+## 📖 定義 / 病生理（這是什麼）
+
+
+## 🩺 臨床表現（症狀 / 徵象）
+> 連症狀卡 [[]]、[[]]
+
+
+## 🔬 診斷（診斷標準 / 要開的檢查影像）
+> 檢查 [[]]　影像 [[]]
+- PM：C4取4
+  - Proximal muscle weakness
+  - AST/ALT/Aldolase/LDH/CK上升
+  - 肌電圖：肌肉病變
+  - 病理切片符合發炎性肌炎
+
+## ⭐ 特徵 / 注意（pearls & pitfalls，易漏易考）
+
+
+## 💊 治療（Acute / Chronic）
+> 用藥 [[]]
+- 高劑量Steroid(use<3m否則steroid myopathy)
+- 免疫抑制劑
+- IVIG(效果<2個月)
+- Rituximab/cyclosporine
+- ILD病人建議使用cyclophosphamide治療
+
+## ⚠️ 併發症
+
+
+## 📊 嚴重度評分 / 風險分層（scoring）
+> 用哪個 score 判斷 severity / 預後 / treatment 強度
+| 評分 | 用途 | 分數 → 意義 |
+| --- | --- | --- |
+|  |  |  |
+
+## 🔗 相關
+- 鑑別：[[]]　用藥：[[]]
+
+## 📚 來源
+[^1]:

@@ -1,0 +1,18 @@
+#值班 
+- Hypovolemic shock
+  - [[Massive Hemorrhage(大量失血)]]
+  - 血漿喪失
+  - [[Electrolyte loss(電解質留失)]]
+- [[Cardiogenic shock(心源性休克)]]
+  - 心肌性
+  - 機械性
+  - [[Arrythmia(心律不整)]]
+- Extracardiac obstruction shock
+  - [[Tension Pneumothorax(張力性氣胸)]]
+  - 心包膜疾病([[Cardiac tamponade(心包膜填塞)]], [[Constrictive pericarditis(縮窄性心包膜炎)]])
+  - [[Pulmonary embolism(肺栓塞)]]
+- Distributive shock
+  - [[Septic shock(敗血性休克)]]
+  - [[Anaphylactic shock(過敏性休克)]]
+  - [[Neurogenic shock(神經性休克)]]
+  - [[Adrenal insufficiency(腎上腺不全)]]

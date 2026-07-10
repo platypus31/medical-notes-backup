@@ -1,0 +1,2389 @@
+Hydrocortisone、Prednisolone、Methylprednisolone、Dexamethasone 的等效抗發炎劑量分別是多少？	Hydrocortisone 20mg = Prednisolone 5mg = Methylprednisolone 4mg = Dexamethasone 0.75mg
+為什麼長期使用類固醇不能驟然停藥？	HPA axis 被抑制，驟停會導致急性腎上腺功能不全（adrenal crisis）：低血壓、低血糖、休克
+哪一種類固醇幾乎沒有留鈉（mineralocorticoid）作用，最適合腦水腫？	Dexamethasone（長效、幾乎無 mineralocorticoid 效應）
+什麼是 stress dose steroid、什麼時候要用？	長期用類固醇的病人遇重大手術/感染/創傷，腎上腺無法自行增產 cortisol，需額外補充（如 hydrocortisone 50–100mg IV Q6–8H）以防 adrenal crisis
+腎上腺危象（adrenal crisis）該用哪種類固醇、劑量？	Hydrocortisone 100mg IV stat → 50mg IV Q6H + 大量輸液
+類固醇對血糖的影響是什麼？	升高血糖（尤其午後/餐後），糖尿病人給類固醇後血糖必飆，需加驗糖並調整 insulin
+類固醇長期使用對骨骼有什麼重要副作用、如何預防？	骨質疏鬆與缺血性骨壞死；需補鈣 + 維生素 D，高風險者用 bisphosphonate
+氣喘或 COPD 急性發作的類固醇療程通常需要 taper 嗎？	短療程（5–7 天）一般不需 taper，可直接停；長療程或高劑量才需逐步減量
+為什麼類固醇使用者要小心感染？	免疫抑制會掩蓋發炎/發燒徵象並加重感染，可能導致伺機感染（PCP、結核再活化）
+哪一種類固醇留鈉作用最強、主要用於腎上腺替代治療？	Hydrocortisone（相對 mineralocorticoid 力最高，短效，最接近生理 cortisol）
+Insulin 降血糖的機轉是什麼？	促進葡萄糖進入細胞、抑制肝糖新生，同時把 K⁺ 移入細胞內
+DKA 打 insulin 前一定要先看什麼電解質？為什麼？	K⁺；insulin 把鉀移入細胞內，K⁺ <3.3 要先補鉀，否則致命性低血鉀
+哪一種 insulin 可以 IV 使用？	Regular (RI) 短效胰島素（DKA 用 continuous IV drip）
+速效胰島素（Aspart/Lispro）與短效（RI）在給藥時機上的差別？	速效起效更快（10–20min），緊貼餐前；RI 起效約 30min，需提早給
+NPH 屬於哪一類、有什麼要注意？	中效 basal，有高峰（4–8h），要注意夜間低血糖風險
+長效胰島素（Glargine/Detemir）的特色是什麼？	幾乎無高峰、平穩維持 20–24h，作為 basal
+Insulin 起始總日劑量大約怎麼估？	約 0.5–1 U/kg/day
+Insulin 最致命的急性副作用是什麼？床邊怎麼處理？	低血糖；清醒給口服糖，意識障礙給 D50 IV
+β-blocker 對低血糖警覺的影響？	會遮蔽心悸、顫抖等交感警覺症狀，造成無感低血糖
+DKA 的 RI continuous IV 劑量大約是多少？	0.1 U/kg/hr（需先確認 K⁺ ≥3.3）
+Theophylline 的作用機轉是什麼？	非選擇性 PDE 抑制（cAMP↑）＋ 腺苷受體拮抗，支氣管擴張與輕度抗發炎
+為什麼 Theophylline 使用時要監測血中濃度？	治療窗窄，目標約 5–15 µg/mL，超過易中毒
+Theophylline 中毒的重要致命表現有哪些？	心律不整與癲癇（seizure），並可見低血鉀、低血鎂
+哪些藥會使 Theophylline 濃度上升導致中毒？	CYP1A2 抑制劑，如 ciprofloxacin、erythromycin、cimetidine
+哪些因素會使 Theophylline 濃度下降導致失效？	吸菸、rifampin、phenytoin、carbamazepine（CYP1A2 誘導）
+戒菸對 Theophylline 濃度有什麼影響？	清除率下降，濃度上升，需注意中毒風險
+哪些病人 Theophylline 需要減量？	心衰、肝硬化、發燒、高齡、合併 CYP1A2 抑制劑者
+Theophylline 靜脈劑型叫什麼？	Aminophylline（胺基茶鹼）
+Theophylline 在氣喘/COPD 的治療定位是什麼？	第二三線 add-on（毒性與交互作用多）
+Theophylline 中毒的處理原則有哪些？	支持性治療、多劑活性碳、控制 seizure、嚴重時血液透析
+SABA 的作用機轉是什麼？	刺激氣道平滑肌 β2 受體，cAMP 上升，快速鬆弛支氣管平滑肌
+SABA 的代表藥是哪一個？	Salbutamol（Albuterol / Ventolin）
+SABA 在氣喘治療中扮演什麼角色？	rescue（急性救急），有喘才用，不作長期單獨維持
+氣喘病人 SABA 用量增加代表什麼？	控制不良，應加上 ICS，而不是持續增加 SABA
+為什麼氣喘不應只用 SABA 而無 ICS？	GINA 不建議，單用 SABA 與氣喘死亡風險上升相關
+SABA 過量或大量 nebulize 時要監測哪個電解質？	鉀（K⁺ 會移入細胞內造成低血鉀）
+SABA 常見的全身副作用有哪些？	心悸、心搏過速、手抖、低血鉀
+急性氣喘發作 salbutamol nebulizer 的起始給法？	2.5–5 mg neb，可每 20 分鐘一次，共 3 次
+哪類藥物會拮抗 SABA 並可能誘發支氣管痙攣？	非選擇性 β-blocker（如 propranolol）
+SABA 起效與持續時間大約多久？	數分鐘起效，持續約 4–6 小時
+肥大細胞穩定劑的作用機轉是什麼？	穩定肥大細胞膜，抑制去顆粒化與 histamine、白三烯等發炎介質釋放
+肥大細胞穩定劑的代表藥有哪些？	Cromolyn（色甘酸鈉）、Nedocromil
+肥大細胞穩定劑能救急嗎？為什麼？	不能，無支氣管擴張作用，急性發作靠 SABA
+肥大細胞穩定劑的使用方式有什麼特點？	純預防性、需規律使用、起效慢（數天到數週）
+肥大細胞穩定劑最大的優點是什麼？	副作用極少、安全性高（尤其兒童）
+肥大細胞穩定劑常用於預防哪種氣喘情境？	運動誘發性支氣管收縮（運動前吸）
+為什麼肥大細胞穩定劑臨床角色現在有限？	多被更有效的 ICS 取代
+肥大細胞穩定劑除氣喘外還可治療什麼？	過敏性鼻炎、過敏性結膜炎（局部劑型）
+肥大細胞穩定劑是「有喘才用」還是「規律預防」？	規律預防，用法概念與 SABA 相反
+肥大細胞穩定劑的主要副作用是什麼？	喉嚨刺激、咳嗽、口中異味（整體很少）
+LABA 與 SABA 機轉相同，主要差別是什麼？	LABA 作用持續 12–24h，用於長期維持；SABA 短效用於救急
+氣喘使用 LABA 最重要的鐵律是什麼？	絕不可單獨使用，必須與 ICS 合併（否則增加氣喘死亡風險）
+為什麼氣喘單用 LABA 危險？	掩蓋症狀但不治療底層發炎，與氣喘相關死亡上升相關（FDA 黑框警示）
+哪一個 LABA 起效快、可用於「維持＋緩解」策略？	Formoterol（budesonide/formoterol，GINA MART/AIR）
+COPD 使用 LABA 與氣喘有何不同？	COPD 可單用 LABA 或搭 LAMA/ICS，氣喘則必須有 ICS
+Salmeterol 為何不能當救急藥？	起效慢，急性發作要用 SABA
+Indacaterol、Vilanterol 的持續時間多長、通常多久給一次？	約 24h（超長效），QD
+LABA 常見副作用有哪些？	心悸、心搏過速、手抖、低血鉀
+氣喘控制穩定後 ICS/LABA 的治療目標是什麼？	降階到最低有效劑量，而非持續加量
+代表性 LABA 藥物有哪些？	Salmeterol、Formoterol、Indacaterol、Vilanterol
+ICS 在氣喘治療的角色是什麼？	控制治療（controller）的基石，壓制氣道慢性發炎
+ICS 能不能用於急性發作救急？	不能，急性發作靠 SABA + 全身類固醇，ICS 需規律使用才見效
+ICS 最常見的局部副作用是什麼？如何預防？	口腔念珠菌（鵝口瘡）與聲音沙啞；吸完漱口吐掉、用 spacer
+代表性的 ICS 藥物有哪些？	Budesonide、Fluticasone、Beclomethasone
+COPD 使用 ICS 有什麼特別風險？	肺炎風險上升（尤其高劑量 fluticasone），且不單用 ICS
+氣喘病人可以自行突然停 ICS 嗎？	不行，會導致氣喘失控，應降階不驟停
+孕婦氣喘該停 ICS 嗎？	不該，氣喘控制優先，budesonide 孕期安全資料充分
+哪類藥物會增加吸入類固醇的全身暴露？	強效 CYP3A4 抑制劑（ritonavir、ketoconazole 等）
+GINA 對氣喘 ICS 使用的核心原則是什麼？	每一位氣喘病人都應有含 ICS 的治療
+ICS 高劑量長期使用可能有哪些全身副作用？	骨密度下降、白內障/青光眼、腎上腺抑制、兒童生長速度輕度減緩
+呼吸科最重要的 β-agonist 是哪一型？機轉為何？	β2-agonist；刺激氣道平滑肌 β2 受體，cAMP 上升，支氣管擴張
+β1 與 β2 受體的主要位置與效果差別？	β1 在心臟（心跳/收縮力增加），β2 在氣道/血管/子宮（平滑肌鬆弛）
+為什麼呼吸道用藥選 β2 選擇性藥物？	減少 β1 心臟副作用（心悸、心搏過速）
+β-agonist 依作用時間如何分類？	短效 SABA（救急）與長效 LABA（維持）
+β2-agonist 的共通全身副作用有哪些？	心悸、心搏過速、手抖、低血鉀、高血糖
+哪類藥會拮抗 β2-agonist 的支氣管擴張？	非選擇性 β-blocker（可誘發氣喘支氣管痙攣）
+β2-agonist 在產科的用途是什麼？	抑制子宮收縮安胎（tocolysis，如 terbutaline/ritodrine）
+β2-agonist 為何能輔助高血鉀急救？	促使 K⁺ 移入細胞內，暫時降血鉀
+代表性 β2-agonist 有哪些？	Salbutamol（SABA）、Salmeterol/Formoterol（LABA）、Terbutaline
+β3-agonist 的臨床用途舉例？	Mirabegron 用於膀胱過動症
+PDE 抑制劑的共通機轉是什麼？	抑制磷酸二酯酶，減少 cAMP/cGMP 分解，使其上升產生平滑肌鬆弛/抗發炎等效果
+呼吸科最重要的選擇性 PDE 抑制劑是哪一個？	Roflumilast（PDE4 抑制劑）
+Roflumilast 的臨床定位是什麼？	嚴重 COPD（慢性支氣管炎、反覆惡化）的口服抗發炎 add-on，非救急、非支氣管擴張
+Roflumilast 最具特色的副作用是什麼？	體重減輕、腹瀉、噁心，以及神經精神症狀（焦慮、憂鬱、自殺意念）
+Theophylline 屬於哪一種 PDE 抑制？	非選擇性 PDE 抑制（加上腺苷拮抗）
+PDE3 抑制劑的代表藥與用途？	Cilostazol（間歇性跛行）、Milrinone（急性心衰強心）
+PDE5 抑制劑的代表藥與用途？	Sildenafil、Tadalafil（勃起功能障礙、肺動脈高壓）
+PDE5 抑制劑最重要的禁忌併用是什麼？	與硝酸鹽（nitrate）併用會嚴重低血壓
+Roflumilast 經哪些酵素代謝？	CYP3A4 與 CYP1A2
+Roflumilast 在哪種病人禁用？	中重度肝功能不全（Child-Pugh B–C）
+咳嗽藥「鎮咳」與「化痰 / 祛痰」有何本質區別？	鎮咳（antitussive）壓抑咳嗽反射（如 DXM、codeine）；化痰 / 祛痰讓痰變稀好咳出（如 acetylcysteine、ambroxol、guaifenesin）
+有痰的濕咳為什麼不宜強力鎮咳？	壓掉咳嗽反射會使痰液滯留在肺裡，加重阻塞與感染；濕咳應以化痰 + 治病因為主
+為什麼兒童禁用 codeine 鎮咳？	FDA 禁 <12 歲；CYP2D6 超快代謝者會把 codeine 快速轉成嗎啡 → 致命呼吸抑制；哺乳母親用也可能經乳汁害嬰兒
+Dextromethorphan 的機轉與最重要的交互作用禁忌？	非鴉片中樞鎮咳（σ/NMDA）；與 MAOI 併用禁忌、與 SSRI/SNRI/linezolid/tramadol 併用可致血清素症候群
+Acetylcysteine 的兩種截然不同用途？	①化痰（口服/吸入，打斷黏蛋白雙硫鍵）②靜脈 NAC 為乙醯胺酚（acetaminophen）中毒解毒劑
+Acetylcysteine 吸入化痰在氣喘病人要注意什麼？	可能誘發支氣管痙攣，氣喘者慎用，必要時先給支氣管擴張劑
+Guaifenesin 的作用機轉是什麼？	祛痰劑，增加呼吸道分泌使痰稀化好咳出，須配合多喝水；效果溫和
+Codeine 作為鴉片類止咳藥有哪些風險？	呼吸抑制、鎮靜、便秘、成癮/濫用；與酒精/benzodiazepine/其他鴉片相加致命
+Ambroxol / Bromhexine 屬哪類、用於什麼？	黏液調節/祛痰劑，用於濃痰、慢性支氣管炎，一般耐受性佳
+高劑量 dextromethorphan 被濫用會怎樣？	產生解離 / 幻覺效果（NMDA 拮抗），屬藥物濫用
+LAMA 的作用機轉是什麼？	阻斷氣道 M3 蕈毒鹼受體，抑制副交感介導的支氣管收縮與黏液分泌
+LAMA 的代表藥是哪一個？	Tiotropium（COPD 維持治療基石）
+LAMA 主要用於哪個疾病？	COPD 維持治療（氣喘僅為 step 4–5 add-on）
+LAMA 最常見的副作用是什麼？	口乾
+哪些病人使用 LAMA 要特別小心尿滯留？	前列腺肥大（BPH）的男性
+LAMA 為何要避免噴到眼睛？	可能誘發或惡化急性隅角閉鎖性青光眼
+LAMA 是維持藥還是救急藥？	維持藥，急性發作靠 SABA
+為什麼不要同時用 LAMA 和 SAMA（ipratropium）？	抗膽鹼作用重複疊加，副作用增加
+Tiotropium 的常見給藥頻率是多少？	每天一次（QD）
+氣喘使用 LAMA 的定位是什麼？	ICS/LABA 控制不佳時的 add-on（不單用）
+白三烯調節劑分哪兩類、代表藥各是什麼？	受體拮抗劑 LTRA（Montelukast、Zafirlukast）與 5-lipoxygenase 抑制劑（Zileuton）
+Montelukast 的作用機轉是什麼？	阻斷 CysLT1 白三烯受體，抑制發炎與支氣管收縮
+Montelukast 最重要的黑框警示是什麼？	神經精神副作用（情緒改變、憂鬱、惡夢、自殺意念）
+白三烯調節劑對哪些情況特別有角色？	運動誘發氣喘、過敏性鼻炎、aspirin 敏感氣喘（AERD）
+白三烯調節劑能取代 ICS 嗎？	通常不能，效果一般不如 ICS，多為 add-on 或替代 controller
+Montelukast 成人的常用劑量與給藥時間？	10 mg PO 睡前（QHS）
+Zileuton 使用需監測什麼？	肝功能（ALT），因有肝毒性
+Zileuton 與 theophylline、warfarin 併用要注意什麼？	Zileuton 抑制 CYP 使兩者濃度上升，需監測
+白三烯調節劑是救急藥還是 controller？	每日規律使用的 controller，急性發作仍靠 SABA
+白三烯調節劑的給藥途徑是什麼？	口服（方便，兒童有顆粒/咀嚼錠劑型）
+Propafenone 屬哪一類、與 Flecainide 最大機轉差異？	Class Ic（強 Na⁺ 阻斷）；額外帶「弱 β-阻斷」作用
+Propafenone 因弱 β-阻斷特別要避開哪類病人（與 Flecainide 不同處）？	氣喘 / 支氣管痙攣性疾病（可誘發支氣管痙攣）
+Propafenone 的絕對禁忌（與所有 Class Ic 相同）？	結構性心臟病、冠心病/缺血、心衰竭、post-MI（CAST）
+Propafenone 特徵性的味覺副作用？	金屬味/味覺異常
+Propafenone 整流 AF 為何仍要併 AV 結阻斷劑？	可能造成心房撲動 1:1 下傳致心室率暴衝；自帶的弱 β-阻斷不足以完全保護
+Propafenone 主要代謝酵素？慢代謝的意義？	CYP2D6；慢代謝或併抑制劑時濃度上升、β-阻斷效應增強
+Propafenone 對 digoxin 與 warfarin 的影響？	↑ digoxin 濃度、↑ warfarin 效應（需監測 INR）
+Class Ic「pill-in-the-pocket」的前提條件？	無結構性心臟病、已在監測下驗證安全、併 AV 結阻斷劑
+Dofetilide 屬哪一類、機轉是什麼？	Class III；選擇性阻斷 IKr（快速延遲整流 K⁺ 電流）→ 延長 APD/QT，不影響 QRS/收縮力
+Dofetilide 相對 Class Ic 的最大優勢是什麼？	可用於結構性心臟病/心衰竭病人（無負性肌力、不影響傳導）
+為什麼 Dofetilide 必須「住院起始」？	TdP 風險高，需連續 ECG 監測、每劑後測 QTc 依規則調整劑量
+Dofetilide 劑量依什麼決定？哪個腎功能是禁用門檻？	依 CrCl（+QTc）；CrCl <20 mL/min 禁用
+Dofetilide 起始時 QTc 超過什麼就要減量/停藥？	QTc 增加 >15% 或 QTc >500 ms
+Dofetilide 最重要的致命副作用？哪些電解質會放大？	torsades de pointes（TdP）；低血鉀、低血鎂放大風險
+為什麼 verapamil、cimetidine、HCTZ、trimethoprim 與 Dofetilide 併用危險？	它們抑制腎小管分泌 → Dofetilide 濃度上升 → TdP，屬禁忌併用
+維持 AF 竇律、又能用於心衰竭的兩個代表藥？	Dofetilide、Amiodarone
+Procainamide 屬 Vaughan-Williams 哪一類？機轉？	Class Ia；中度阻斷 Na⁺ 通道（減慢傳導、拉長 QRS）+ 阻斷 K⁺ 通道（延長 QT）
+Procainamide 的招牌臨床適應症是什麼？	穩定型單型性寬 QRS 心搏過速，以及 WPW 合併心房顫動（pre-excited AF）首選之一
+WPW 合併 AF 為何選 Procainamide 而不用 AV 結阻斷劑？	AV 結阻斷（digoxin/CCB/腺苷）會使衝動全走旁路 → 心室率暴衝甚至 VF；Procainamide 減慢旁路傳導較安全
+Procainamide IV 輸注要停止的四個指標？	①心律不整被壓制 ②低血壓 ③QRS 增寬 >50% ④達最大劑量
+Procainamide 長期口服最典型的自體免疫副作用？	藥物性紅斑性狼瘡（抗組蛋白抗體陽性，停藥可逆）
+Procainamide 的活性代謝物、其排除途徑與意義？	NAPA（有 Class III 活性），經腎排除，腎衰時累積增 TdP 風險
+Class Ia 藥物共通的致命性心律不整風險是什麼？	QT 延長 → torsades de pointes（TdP）
+為什麼 Procainamide 不用於結構性心臟病的長期抗心律不整？	Class I 藥在結構性心臟病/缺血會增加死亡率（CAST 試驗教訓）
+Procainamide IV 過快最常見的血行動力副作用？	低血壓（需慢速輸注 ≤20–50 mg/min）
+監測 Procainamide 中毒要驗哪兩個濃度？	Procainamide 本體 + NAPA
+Flecainide 屬哪一類、機轉特色？	Class Ic；最強 Na⁺ 通道阻斷（大幅拉長 QRS），對 QT/再極化影響小
+Flecainide 最重要的絕對禁忌是什麼？出自哪個試驗？	結構性心臟病/冠心病/心衰竭/post-MI 禁用；CAST 試驗（增死亡率）
+用 Flecainide 前一定要先確認什麼？	心臟結構正常、無冠心病與心衰竭（心臟超音波/缺血評估）
+Flecainide 治療心房顫動/撲動為何要併 AV 結阻斷劑？	它減慢心房率可能導致房室 1:1 下傳使心室率暴衝，需 β-blocker/non-DHP CCB 保護
+「pill-in-the-pocket」是什麼？適用對象？	陣發性 AF 病人單次口服 Flecainide 自我整流；限無結構性心臟病、已驗證安全者
+Flecainide 常見的特殊視覺副作用？	視力模糊/視覺閃爍（blurred vision）
+Flecainide 可能顯露或惡化哪個遺傳性猝死症候群？	Brugada 症候群
+Class Ic 兩個代表藥？	Flecainide、Propafenone
+Disopyramide 屬哪一類抗心律不整？兩個最突出的「非電生理」特性？	Class Ia；最強負性肌力 + 顯著抗膽鹼作用
+Disopyramide 現在最有臨床價值的獨特適應症是什麼？為什麼？	肥厚性阻塞型心肌病（HOCM）；靠負性肌力減輕左室流出道阻塞
+Disopyramide 為什麼在收縮性心衰竭禁用？	Class Ia 中負性肌力最強，會誘發/惡化心衰竭
+Disopyramide 的抗膽鹼副作用有哪些（列 3）？	尿滯留、閉角性青光眼惡化、口乾/便秘/視力模糊
+Class Ia 藥物共通的致命心律不整？	QT 延長 → torsades de pointes
+哪些病人因抗膽鹼作用要避免 Disopyramide？	嚴重 BPH/尿滯留、閉角性青光眼、重症肌無力
+Disopyramide 主要排除途徑，對劑量的意義？	腎排除為主，腎衰要減量並延長間隔
+Class Ia 三個代表藥？	Disopyramide、Procainamide、Quinidine
+血管擴張劑依作用血管床分三型，各降什麼負荷、代表藥？	動脈型降 afterload（Hydralazine/Minoxidil）、靜脈型降 preload（硝酸鹽）、混合型（Nitroprusside）
+動脈型血管擴張劑為何常需併 β-blocker + 利尿劑？	會反射性心搏過速 + 鈉水滯留，抵銷降壓且誘發心絞痛
+Nitroprusside 最需警惕的中毒是什麼？高風險族群？	氰化物/硫氰酸中毒；長時間大劑量、肝腎功能差者
+硝酸鹽的絕對禁忌併用藥物是什麼？	PDE5 抑制劑（sildenafil 等）→ 致命性低血壓
+硝酸鹽為何要留每日無藥期（nitrate-free interval）？	避免產生耐受性（tolerance）使藥效變差
+Hydralazine 高劑量最典型的自體免疫副作用？	藥物性紅斑性狼瘡（SLE，停藥可逆）
+最強的口服降壓藥、機轉是什麼？	Minoxidil；打開鉀離子通道使血管平滑肌舒張
+孕期高血壓/子癲前症可用的血管擴張劑是哪個？	Hydralazine（IV）
+心衰竭中哪一組血管擴張劑對「非裔、不能用 ACEI/ARB」者可降死亡率？	Hydralazine + 硝酸鹽
+硝酸鹽最常見的良性副作用是什麼？	頭痛（血管擴張）
+β-blocker 的降壓/抗心絞痛機轉是什麼？	阻斷 β 受體 → 心率↓、收縮力↓、心輸出↓、腎素↓
+心衰竭（HFrEF）唯三有實證降死亡率的 β-blocker？	Bisoprolol、Metoprolol succinate（緩釋）、Carvedilol
+為什麼氣喘病人要小心 β-blocker？哪型較安全？	β2 阻斷誘發支氣管痙攣；選擇性 β1（Bisoprolol/Metoprolol/Atenolol）相對安全但非零風險
+急性失代償心衰竭可以「開始」β-blocker 嗎？	不行，負性肌力會壓垮心輸出；只在穩定期 start low go slow 慢慢加
+β-blocker 為何不能驟停？	β 受體上調，突然停會反彈性高血壓、心搏過速、心絞痛甚至心梗
+哪三個 β-blocker 有內在擬交感活性（ISA）以外要記的重點：ISA(-) 的臨床意義？	ISA(-) 才真正降死亡率、降反覆心梗；ISA(+) 較不減慢心跳
+Carvedilol 和 Labetalol 的特別之處？	同時阻斷 α1 + β（Labetalol 孕期可用、高血壓急症針劑）
+β-blocker 為什麼不與 Verapamil/Diltiazem 併用？	加乘的心搏過緩、房室傳導阻滯與心衰
+Propranolol 除了降壓還有哪些用途？	rate control、甲亢交感症狀、門脈高壓靜脈曲張預防、顫抖、偏頭痛預防
+孕期高血壓首選的 β-blocker 是哪個？	Labetalol（Atenolol 孕期避免，胎兒生長遲滯）
+ARB 的作用機轉、與 ACEI 的差別是什麼？	直接阻斷 Angiotensin II 的 AT1 受體（更下游）；不影響 bradykinin，所以不咳、angioedema 少
+ARB 藥名的字尾特徵？	-sartan（Losartan、Valsartan、Candesartan、Telmisartan）
+臨床上把 ACEI 換成 ARB 最常見的理由？	ACEI 引起無法耐受的乾咳
+心衰竭時只有哪兩個 ARB 有實證可用？	Valsartan 與 Candesartan
+哪個 ARB 附帶有降尿酸效果？	Losartan
+ARB 與 ACEI 共同的三大禁忌是什麼？	懷孕、雙側腎動脈狹窄、高血鉀（外加不與彼此併用）
+ARB 是否也會高血鉀？為什麼？	會；同樣抑制醛固酮 → 腎臟保鉀
+ARB 可以和 ACEI 併用增強效果嗎？	不建議，雙重 RAAS 阻斷增加腎衰、高血鉀、低血壓，無存活益處
+哪個 ARB 半衰期最長、可穩定 24 小時降壓？	Telmisartan
+triple whammy 指哪三種藥合用會傷腎？	ACEI 或 ARB + 利尿劑 + NSAID
+α1-Blocker 的藥名特徵與雙重臨床用途？	-zosin（Prazosin/Doxazosin/Terazosin）；降壓 + 鬆弛攝護腺/膀胱頸治 BPH
+α1-Blocker 的「首劑現象」是什麼？如何預防？	第一劑嚴重姿勢性低血壓/暈厥；睡前小劑量起始、緩慢加量
+哪個 α1-Blocker 主要治 BPH、降壓效果小？	Tamsulosin（α1A 選擇性，作用膀胱頸）
+孕期高血壓的首選藥是什麼、屬哪類？	Methyldopa（中樞 α2-agonist）
+Clonidine 為什麼不能驟停？	交感反彈 → 反彈性高血壓
+Clonidine 與 β-blocker 併用要停藥時，正確順序？	先停 β-blocker 再停 Clonidine，否則 α 反彈性高血壓惡化
+中樞 α2-agonist 為何禁用於憂鬱症患者？	憂鬱＝NE↓/5-HT↓，抑制 NE 釋放會惡化憂鬱
+Methyldopa 長期使用需監測什麼嚴重副作用？	Coombs 陽性溶血性貧血、肝炎
+嗜鉻細胞瘤術前的降壓順序原則？	先 α-blocker（Phenoxybenzamine）再 β-blocker，避免未拮抗 α 的高血壓危象
+Tamsulosin 白內障手術前為何要告知眼科？	可能造成術中虹膜鬆軟症候群（IFIS）
+高血壓降壓一線的利尿劑是哪類？	Thiazide（Hydrochlorothiazide、Chlorthalidone）
+利尿最強、用於急性肺水腫與心衰竭的是哪類？作用部位？	Loop（Furosemide）；亨利氏環上行支 Na-K-2Cl transporter
+Loop 與 Thiazide 對血鈣的影響剛好相反，各是？	Loop 降血鈣（用於高血鈣）、Thiazide 升血鈣（降尿鈣、防腎結石）
+Thiazide 的四大代謝副作用（升什麼）？	高血糖、高尿酸（痛風）、高血鈣、高血脂
+保鉀利尿劑的招牌危險副作用？哪兩個藥？	高血鉀；Spironolactone、Eplerenone（醛固酮拮抗）/ Amiloride、Triamterene（ENaC）
+心衰竭（HFrEF）能降死亡率的利尿劑是哪類？	醛固酮拮抗劑（Spironolactone / Eplerenone）
+eGFR <30 時 Thiazide 為什麼要換 Loop？	Thiazide 在低腎功能利尿效果差，Loop 仍有效
+利尿劑 + Digoxin 為什麼危險？	低血鉀會增加 digoxin 毒性 → 心律不整
+磺胺過敏病人需要 loop 利尿劑時可用哪個？	Ethacrynic acid（唯一非磺胺類 loop）
+Spironolactone 男性最常見的內分泌副作用？	男性女乳症（抗雄性素），Eplerenone 較少
+ACEI 的作用機轉是什麼？	抑制 ACE，使 Angiotensin I 無法轉為 II → 血管收縮↓、醛固酮↓；同時減少 bradykinin 分解 → 血管擴張
+ACEI 藥名的字尾特徵是什麼？	-pril（Captopril、Enalapril、Ramipril、Lisinopril）
+ACEI 最典型、最常讓病人受不了的副作用是什麼？機轉？	乾咳；bradykinin / substance P 累積刺激呼吸道
+ACEI 為什麼在懷孕時絕對禁用？	造成胎兒腎發育不全、羊水過少、致畸（所有孕期皆禁）
+為什麼雙側腎動脈狹窄時 ACEI 會造成急性腎衰竭？	出球小動脈靠 Angiotensin II 維持 GFR，ACEI 擋掉 Ang II → GFR 驟降
+ACEI 開立後 1–2 週要追蹤什麼？異常的停藥門檻？	追 Cr 與 K⁺；Cr 上升超過 30% 要停
+ACEI 為什麼會高血鉀？	抑制醛固酮分泌 → 腎臟保鉀
+ACEI 造成 angioedema 後可以換成同類 ACEI 嗎？	不行，整類終身停用；可考慮改 ARB（風險較低但仍需謹慎）
+ACEI 與 ARB 可以併用嗎？	不建議，雙重 RAAS 阻斷增加腎衰、高血鉀、低血壓且無存活效益
+哪一個 ACEI 是短效、起效快，臨床常拿來當首劑試探？	Captopril（TID 給）
+CCB 的兩大分類、各自「定調」什麼？	DHP（-dipine）定調「血管」→主降壓；Non-DHP（Verapamil/Diltiazem）定調「心臟」→主抑心率
+降血壓能力排序（三者）？	DHP > Diltiazem > Verapamil
+抑制心率能力排序（三者）？	Verapamil > Diltiazem > DHP
+值班要病人血壓「馬上」降下來，為何不能開 Amlodipine？	Amlodipine 起效慢（onset 3–4 天、peak 7 天），無法快速降壓
+DHP 造成腳踝水腫的機轉是什麼（重要觀念）？	擴張動脈>靜脈，微血管靜水壓上升 → 局部水腫，不是體液過多，加利尿劑無效
+Non-DHP 為什麼在 HFrEF 禁用？	負性肌力 → 惡化心衰
+Non-DHP 為什麼不與 β-blocker 併用？	加乘心搏過緩、房室傳導阻滯、心衰
+高血壓急症要靜脈滴定降壓時常用哪個 CCB？	Nicardipine（針劑）
+短效 Nifedipine 舌下快速降壓為何危險？	反射心搏過速、血壓驟降致心肌/腦缺血，尤其老人
+Verapamil 除了心搏過緩，最常見的惱人副作用是什麼？	便秘
+Acyclovir 的抗病毒機轉與選擇性從何而來？	經病毒 thymidine kinase 磷酸化活化，抑制病毒 DNA 聚合酶並終止 DNA 鏈；因需病毒酵素活化，故選擇性作用於受感染細胞
+Valacyclovir 與 acyclovir 的關係是什麼？	Valacyclovir 是 acyclovir 的口服前驅藥，生體可用率高 3–5 倍（約 55% vs 10–20%），口服首選、頻次較少
+Acyclovir/Valacyclovir 主要對付哪些病毒？對 CMV 呢？	主治 HSV（單純疱疹）與 VZV（水痘/帶狀疱疹）；對 CMV 幾乎無效（CMV 要用 ganciclovir）
+疑似 HSV 腦炎的處置與劑量？	急症，疑似即開始 IV acyclovir 10 mg/kg（依理想體重）Q8H ×14–21 天，不等 PCR 結果，並充分水化
+IV acyclovir 最重要的副作用與預防方式？	結晶性腎病變 → 急性腎損傷；預防：充分水化、慢速輸注 ≥1 小時、依理想體重計算、避免快速大劑量 bolus
+帶狀疱疹的口服 acyclovir 劑量是多少？	800 mg PO 每天 5 次 ×7–10 天（注意不是生殖器疱疹的 400 mg TID）
+Acyclovir 在腎功能不良病人可能出現什麼中樞副作用？	神經毒性 — 意識改變、幻覺、肌抽躍、震顫（易與腦炎本身混淆），需依 CrCl 減量
+為什麼口服治療常選 valacyclovir 而非 acyclovir？	acyclovir 口服生體可用率低（10–20%），valacyclovir 前驅藥吸收好、給藥次數少、順從性佳
+生殖器疱疹初發的 valacyclovir 劑量？	Valacyclovir 1 g PO BID ×7–10 天（復發用 500 mg BID ×3 天；抑制療法 500 mg–1 g QD）
+Valacyclovir 高劑量用於嚴重免疫低下者曾報告什麼罕見嚴重併發症？	血栓性微血管病變（TTP/HUS）
+Amantadine/Rimantadine 的抗病毒機轉是什麼？	阻斷流感 A 病毒 M2 離子通道，抑制病毒脫殼（uncoating）
+M2 抑制劑對流感 B 有效嗎？為什麼？	無效，流感 B 沒有 M2 這個標的
+為什麼 M2 抑制劑現在幾乎不用於流感？	流感 A 對其抗藥性普遍，療效不佳，改用神經胺酸酶抑制劑（Oseltamivir）
+Amantadine 除了抗流感還有什麼重要臨床用途？	帕金森氏症（增加多巴胺、NMDA 拮抗，改善左旋多巴引起的異動症）
+Amantadine 最需注意的中樞神經副作用是什麼、哪些人高風險？	幻覺、意識混亂、譫妄；老人與腎功能不全者高風險
+Amantadine 為什麼腎功能不全要減量？	主要經腎排除未代謝，腎不全會蓄積導致 CNS 毒性
+Rimantadine 與 Amantadine 在代謝上有何差異？	Rimantadine 主要經肝代謝，腎不全影響較小、CNS 副作用較少
+Amantadine 特徵性的皮膚副作用是什麼？	Livedo reticularis（網狀青斑），常伴下肢水腫
+帕金森病人可以突然停用 Amantadine 嗎？	不可，驟停可能誘發類 NMS 或帕金森症狀急性惡化
+目前流感治療的首選藥物取代了 M2 抑制劑，是哪一類？	神經胺酸酶抑制劑（如 Oseltamivir / 克流感）
+DAA 是什麼的縮寫、治療哪種病毒？	Direct-Acting Antivirals，直接作用抗病毒藥，治療 C 型肝炎（HCV）
+Sofosbuvir 屬於哪一類 DAA？	NS5B polymerase 抑制劑（核苷類，常作為骨幹）
+Ledipasvir 與 Daclatasvir 屬於哪一類 DAA？	NS5A 抑制劑
+Harvoni（夏奉寧）的組成是什麼？	Sofosbuvir + Ledipasvir 複方
+現代 C 肝 DAA 療程與治癒率大約如何？	多為 8–12 週口服，SVR（治癒率）> 95%
+治療 C 肝時選方案主要看什麼？	HCV genotype（1–6 型）與肝硬化/治療史
+Ribavirin 的兩個關鍵毒性是什麼？	致畸胎（Category X）與溶血性貧血
+使用含 Ribavirin 方案時避孕要求為何？	男女雙方用藥期間及停藥後 6 個月都需避孕
+Sofosbuvir 與哪個心臟藥併用會有嚴重心搏過緩（FDA 警語）？	Amiodarone
+DAA 治療 HCV 前為何要篩 HBV？	合併 HBV 者可能誘發 B 肝再活化，甚至猛爆性肝炎
+SVR12 是什麼？	療程結束後 12 週測不到 HCV RNA，代表持續病毒學反應（功能性治癒）
+Ganciclovir 的機轉與活化步驟為何？	核苷類似物，需病毒 UL97 kinase 首次磷酸化，再抑制 CMV DNA polymerase 終止 DNA 合成
+Ganciclovir 最重要的劑量限制毒性是什麼？	骨髓抑制（嗜中性球低下、血小板低下、貧血），需每週追 CBC
+Valganciclovir 相對於口服 ganciclovir 的優勢？	是 ganciclovir 的纈胺酸前驅藥，口服生體可用率大幅提高，用於維持與預防
+Foscarnet 的機轉有何特別、為何能打抗藥株？	直接結合 DNA polymerase 的焦磷酸位，不需病毒 kinase 活化，故可對付 UL97 突變的抗藥 CMV 與 TK-deficient 的抗藥 HSV/VZV
+Foscarnet 兩大劑量限制毒性是什麼？	腎毒性（急性腎損傷）與電解質紊亂（低鈣/鎂/鉀、磷異常）
+Foscarnet 造成的低鈣血症會有什麼臨床後果？	感覺異常、抽搐/癲癇、QT 延長與心律不整（離子鈣比總鈣更敏感）
+為降低 Foscarnet 腎毒性，給藥時要做什麼？	每劑前後大量生理食鹽水水化，並每次追腎功能與電解質
+Ganciclovir 為何孕婦禁用？	具致畸性（動物實驗）、致癌與抑制精子生成，育齡雙方需避孕
+CMV 視網膜炎最常見於哪類病人？	AIDS CD4 < 50 或移植後免疫低下者，是會失明的眼科急症
+Aciclovir 抗藥性 HSV/VZV 感染可用哪個抗病毒藥？	Foscarnet（因不需病毒 thymidine kinase 活化）
+Ganciclovir 與哪些藥併用會加重骨髓抑制？	zidovudine、mycophenolate、化療藥、TMP-SMX
+Oseltamivir 的抗病毒機轉是什麼？	抑制流感病毒的神經胺酸酶（neuraminidase），使新生病毒無法從受感染細胞釋出擴散，抑制病毒複製
+Oseltamivir 對哪些病毒有效？	A 型與 B 型流感病毒（對其他呼吸道病毒、疱疹病毒等無效）
+Oseltamivir 的黃金給藥窗口是什麼？	症狀發作 48 小時內效益最大（縮短病程約 1 天、降低併發症）
+超過 48 小時就完全不能用 oseltamivir 嗎？	不是。住院、重症、高危族群（孕婦、慢性病、免疫低下、≥65 歲）即使 >48 小時仍建議治療
+成人流感治療的 oseltamivir 標準劑量？	75 mg PO BID ×5 天
+成人流感暴露後預防的 oseltamivir 劑量？	75 mg PO QD ×7–10 天
+Oseltamivir 最常見的副作用是什麼？如何減輕？	噁心、嘔吐等腸胃道不適；隨餐服用可減輕
+Oseltamivir 在腎功能不良如何調整（治療）？	CrCl > 60 用 75 mg BID；30–60 減為 30 mg BID；10–30 用 30 mg QD；透析另給
+孕婦疑似流感該不該用 oseltamivir？	應該用 — 流感孕婦重症/併發症風險高，oseltamivir 是孕期建議治療藥，不應因懷孕而不給
+Oseltamivir 能不能取代流感疫苗？	不能。疫苗才是主要預防手段，oseltamivir 是治療/暴露後預防的輔助
+慢性B肝口服抗病毒藥的機轉是什麼？	核苷/核苷酸類似物抑制 HBV 反轉錄酶（DNA polymerase），壓制病毒複製
+慢性B肝現行首選的兩類口服藥是什麼？	Entecavir 與 Tenofovir（TDF 或 TAF），因抗藥屏障高
+為什麼B肝抗病毒藥通常要長期甚至終生服用？	NA 抑制複製但無法清除肝細胞核內的 cccDNA，停藥後病毒易再複製
+自行停B肝藥最危險的後果是什麼？	急性B肝爆發（hepatitis flare），ALT 飆升甚至急性肝衰竭
+化療或免疫抑制治療前為何要篩 HBsAg / anti-HBc？	陽性者需預防性抗病毒，否則免疫抑制中或停用後B肝再活化可致猛爆性肝炎
+Tenofovir DF (TDF) 的主要長期毒性是什麼？	近端腎小管病變（低血磷、腎功能下降）與骨密度下降；TAF 為改良較安全版
+Lamivudine 為何已非首選單藥？	抗藥屏障低，長期單用高比例產生 YMDD 突變抗藥
+Entecavir 服用時機有何講究？	建議空腹（餐前後2小時），以利吸收
+HBV/HIV 共感染用抗B肝NA要注意什麼？	tenofovir/lamivudine/emtricitabine 同時抗HIV，單用等於HIV單藥治療會誘導HIV抗藥，須用完整ART
+孕期B肝抗病毒與母嬰阻斷首選哪個藥？	Tenofovir（安全資料最多，高病毒量孕婦第三孕期使用阻斷垂直傳染）
+慢性B肝合併肝硬化者要定期做什麼監測？	肝癌篩檢（腹部超音波 + AFP）、HBV DNA、ALT，TDF 者另追腎功能
+現代 HIV 初始治療的首選骨幹組合是什麼？	2 個 NRTI + 1 個 INSTI（整合酶抑制劑），常為固定複方單顆 QD
+抗 HIV 為什麼要用「雞尾酒」多藥組合？	同時攻擊病毒生命週期不同步驟以徹底壓制複製並防止單藥抗藥突變
+HAART 五大機轉類別各是什麼？	NRTI、NNRTI、PI（蛋白酶抑制劑）、INSTI（整合酶抑制劑）、入侵/融合抑制劑
+什麼是 IRIS？何時發生？	免疫重建發炎症候群；CD4 極低者開始 ART 後免疫恢復，對潛伏感染（結核/隱球菌/CMV）過度發炎，看似惡化實為免疫重建
+Abacavir 用藥前必做的檢驗是什麼？為什麼？	檢驗 HLA-B*5701，陽性者禁用，否則發生致命性過敏反應
+NRTI 類的代表性嚴重代謝毒性是什麼？	乳酸中毒合併肝脂肪變性（粒線體毒性），舊型 NRTI 尤明顯
+蛋白酶抑制劑（PI）最重要的交互作用機轉是什麼？	強力抑制 CYP3A4（常以 ritonavir/cobicistat boost），與 statin、鎮靜劑、rifampin 等大量交互作用
+Efavirenz（NNRTI）最著名的副作用是什麼？	中樞神經症狀（頭暈、多夢/惡夢、憂鬱或精神症狀）
+INSTI 與制酸劑併用要注意什麼？	多價陽離子（鈣/鎂/鐵/鋁）會螯合降低 INSTI 吸收，需錯開服用時間
+U=U 的意思是什麼？	Undetectable = Untransmittable，病毒量測不到時不會經性行為傳染
+HIV 病人合併結核使用 rifampin 要注意什麼？	rifampin 強力誘導 CYP，降低多數 ART 濃度致失效，需改 rifabutin 或調整方案
+肌鬆劑作用在哪個受體、有無鎮靜鎮痛？	神經肌肉接合處 nicotinic ACh 受體；無鎮靜也無鎮痛，用前必先麻醉
+去極化型與非去極化型肌鬆劑代表藥各是？	去極化：Succinylcholine；非去極化：Rocuronium / Vecuronium / Cisatracurium
+Succinylcholine 的插管劑量與起效時效特點？	1–1.5 mg/kg IV；起效最快（~45–60s）、作用最短（~5–10 min），RSI 首選之一
+Succinylcholine 造成致命高血鉀的高危情境有哪些？	燒傷（>24–48h）、擠壓傷、去神經/長期臥床、上下運動神經元疾病、橫紋肌溶解 → 這些情況禁用
+Succinylcholine 與惡性高溫的關係與解毒藥？	是 MH 觸發劑，家族/個人史禁用；解毒藥為 Dantrolene（丹曲林）
+Rocuronium/Vecuronium 的專屬快速逆轉藥？	Sugammadex，即使深度阻斷也能數分鐘內逆轉
+Cisatracurium 的代謝有何優勢？	Hofmann 降解（不依賴肝腎），適合肝腎衰竭與 ICU 輸注
+拔管前如何確認肌鬆已恢復？	用 Train-of-Four（TOF），ratio ≥0.9 才算充分恢復，避免殘餘阻斷
+非去極化肌鬆劑的通用逆轉方式？	Neostigmine（+ atropine 或 glycopyrrolate 防過度膽鹼），或 rocuronium/vecuronium 用 Sugammadex
+去極化型 succinylcholine 有藥可逆轉嗎？	無，須等血漿 pseudocholinesterase 代謝
+Propofol 的作用機轉為何？	增強 GABA-A 受體氯離子通道 → 鎮靜催眠（無鎮痛）
+Propofol 全麻誘導的成人劑量？	1.5–2.5 mg/kg IV（老人/心血管不穩減至 1–1.5 mg/kg 並慢推）
+Propofol 最重要的「無」是什麼？	無任何鎮痛作用，疼痛刺激仍需另給 opioid
+什麼是 Propofol Infusion Syndrome（PRIS）？	長時間高劑量輸注（常 >4 mg/kg/hr）導致代謝性乳酸酸中毒、橫紋肌溶解、高血鉀、心律不整、心衰，可致死
+ICU 鎮靜為避免 PRIS，劑量上限大約多少？	盡量 ≤4 mg/kg/hr（≈67 µg/kg/min）且避免過長療程
+Propofol 對血壓與呼吸的影響？	降血壓（血管擴張+心肌抑制）與呼吸抑制/暫停，需備升壓與氣道
+Propofol 的溶劑是什麼、有何臨床意義？	10% 脂肪乳劑（Intralipid），提供約 1.1 kcal/mL 熱量，長期要計入營養並監測三酸甘油酯；易長菌需每 12 小時換管路
+Propofol 注射常見的局部不適及處理？	注射痛，可先給 lidocaine 或選用大靜脈
+Propofol 為何清醒快、適合每日喚醒？	再分布快、context-sensitive half-time 短，停藥後迅速甦醒
+蛋/黃豆過敏可以用 Propofol 嗎？	現行證據對多數蛋/豆過敏者風險低，非絕對禁忌，但嚴重過敏史須審慎（依仿單/院規）
+Neostigmine 的作用機轉？	可逆性抑制乙醯膽鹼酯酶（AChE），使 ACh 累積 → 增強膽鹼傳導
+Neostigmine 逆轉肌鬆時為何必須併用抗膽鹼劑？	ACh 的毒蕈鹼效應會致嚴重心搏過緩/分泌增多/支氣管痙攣，須併 glycopyrrolate 或 atropine 對抗
+逆轉非去極化肌鬆時 neostigmine 常用劑量與搭配？	約 0.05 mg/kg IV（最大約 5 mg），併 glycopyrrolate 0.2 mg 對 neostigmine 1 mg
+Neostigmine 可以逆轉 succinylcholine 嗎？	不行，對去極化型無效甚至有害（可能延長 phase II block）
+肌鬆阻斷太深時 neostigmine 為何不夠、該用什麼？	深度阻斷 neostigmine 逆轉不足易殘餘阻斷；rocuronium/vecuronium 深度阻斷改用 Sugammadex
+Neostigmine 除逆轉肌鬆外的適應症？	重症肌無力症狀治療、術後腸麻痺/尿滯留
+為什麼 neostigmine 主要是周邊作用、不影響中樞？	分子帶電荷不易穿過血腦障壁（相對 physostigmine 可過 BBB）
+Neostigmine 的毒蕈鹼副作用有哪些？	心搏過緩、分泌物增多、噁心嘔吐、腹瀉、縮瞳、多汗、支氣管痙攣
+什麼是膽鹼性危象？	AChE 抑制劑過量致 ACh 過多，反而肌無力/呼吸衰竭，需與肌無力危象區分
+Neostigmine 的禁忌情境舉例？	機械性腸阻塞或泌尿道阻塞、未給抗膽鹼劑的嚴重心搏過緩、反應性氣道疾病慎用
+Dexmedetomidine 的作用機轉？	高選擇性中樞 α₂-腎上腺素受體致效 → 鎮靜、鎮痛、抗交感
+Dexmedetomidine 相較 propofol/midazolam 的最大優點？	幾乎不抑制呼吸驅動，產生可喚醒的合作性鎮靜，且可能減少譫妄
+Dexmedetomidine 的兩大主要副作用？	心搏過緩與低血壓（抗交感效應）
+為什麼快速 loading dexmedetomidine 會先高血壓後低血壓？	快速給藥先刺激周邊 α₂B 致短暫高血壓與反射性心搏過緩，之後轉為中樞性低血壓
+Dexmedetomidine ICU 維持劑量範圍？	約 0.2–0.7 µg/kg/hr（部分院規上調更高）；負荷 1 µg/kg over ≥10 min（可省略）
+Dexmedetomidine 長時間輸注突然停藥的風險？	反彈性高血壓、心搏過速、躁動（類 clonidine 戒斷），宜漸減
+哪些併用藥會加重 dexmedetomidine 的心搏過緩？	β-blocker、digoxin、鈣通道阻斷劑等降心率藥
+Dexmedetomidine 為何適合清醒纖維支氣管鏡插管？	保留自主呼吸與氣道反射，同時提供鎮靜與鎮痛
+Dexmedetomidine 的禁忌情境舉例？	嚴重心搏過緩、無起搏器的二度以上房室傳導阻滯、未矯正的嚴重低血壓
+loading dexmedetomidine 為何要放慢≥10 分鐘？	減少雙相血壓反應與心搏過緩
+局部麻醉劑的共同作用機轉？	阻斷電壓依賴性 Na⁺ 通道，阻止動作電位傳導 → 局部感覺喪失
+amide 型與 ester 型局麻藥如何區分與代謝？	amide 型（lidocaine/bupivacaine/ropivacaine，名稱含兩個 i，肝代謝）；ester 型（procaine/tetracaine，血漿酯酶代謝，過敏較常見）
+什麼是 LAST？典型徵象順序？	局麻藥全身毒性；先 CNS（口周麻、耳鳴、金屬味、抽搐）後心臟（心律不整、傳導阻滯、心跳停止）
+LAST 的關鍵解毒治療是什麼？	20% 脂肪乳劑（Intralipid）1.5 mL/kg IV bolus 後 0.25 mL/kg/min 輸注，加上停藥、氣道、抽搐控制與 CPR
+哪一個局麻藥心臟毒性最強、為什麼？	Bupivacaine；與 Na⁺ 通道解離慢，心臟停止後極難復甦（嚴禁 IV，產科避免 0.75%）
+局麻藥心臟毒性排序？	Bupivacaine > Ropivacaine > Lidocaine
+Lidocaine 不含與含腎上腺素的最大劑量大約？	不含約 4.5 mg/kg（~300 mg）；含腎上腺素約 7 mg/kg（~500 mg）
+為什麼加腎上腺素能提高局麻藥安全上限？	血管收縮減少全身吸收 → 延長作用並降低血中濃度峰值
+含腎上腺素局麻藥為何禁用於手指腳趾等末端？	末端循環為終末動脈，血管收縮可致缺血壞死（傳統禁忌）
+Lidocaine 1% 溶液每 mL 含多少 mg？	10 mg/mL（1% = 10 mg/mL）
+注射局麻藥前必做的兩個安全動作？	回抽確認未入血管、分次小量給並邊給邊觀察 LAST 徵象
+Etomidate 的最大臨床優點？	血流動力學穩定，對血壓與心輸出量影響極小，適合心血管不穩/低血壓病人誘導
+Etomidate 的作用機轉？	增強 GABA-A 受體 → 催眠鎮靜（無鎮痛）
+Etomidate RSI 誘導劑量？	0.2–0.3 mg/kg IV（常用約 0.3 mg/kg），老人/重症減量
+Etomidate 最重要的內分泌副作用？	抑制 11β-hydroxylase → 腎上腺皮質醇合成抑制，即使單劑也短暫發生
+為什麼 etomidate 禁止用於長期連續鎮靜輸注？	持續腎上腺抑制會增加死亡率
+Etomidate 注射時常見的運動現象是什麼、如何處理？	肌陣攣（不自主抽動，非癲癇），可先給 opioid 或 benzodiazepine 減緩
+Etomidate 有鎮痛作用嗎？	沒有，RSI 須另加 opioid（如 fentanyl）處理插管疼痛與交感反應
+比較 etomidate、propofol、ketamine 對血壓的影響？	etomidate 血壓穩定；propofol 降血壓；ketamine 一般升血壓
+Etomidate 用於敗血性休克單劑誘導的爭議點？	腎上腺抑制在敗血症可能不利，是否使用需臨床權衡
+Etomidate 其他常見不適？	注射痛、術後噁心嘔吐（PONV）較高、短暫呼吸抑制
+Dantrolene 的作用機轉？	抑制骨骼肌肌漿網 ryanodine receptor（RyR1）鈣離子釋放 → 阻斷過度肌肉收縮與產熱
+Dantrolene 最重要的救命適應症？	惡性高溫（Malignant Hyperthermia）唯一有效解毒藥；也用於 NMS
+惡性高溫 dantrolene 的起始劑量與可重複上限？	起始 2.5 mg/kg IV 快速推注，每 5–10 分鐘重複，常可達總量 10 mg/kg 以上直到症狀控制
+MH 控制後為何還要繼續給 dantrolene？	MH 可復發，穩定後需 1 mg/kg IV Q4–6H（或輸注）持續 ≥24–48h
+哪些是惡性高溫的觸發藥物？	吸入性揮發麻醉劑（sevoflurane/isoflurane 等）與 succinylcholine
+懷疑 MH 的立即處置有哪些（除 dantrolene）？	停止觸發劑、100% 高流量氧、積極降溫、治療高血鉀/酸中毒/心律不整、ICU 監測
+舊劑型 Dantrium 與新劑型 Ryanodex 的差別？	Dantrium 20 mg/瓶需 60 mL 水且難溶（MH 時費時費人）；Ryanodex 250 mg/瓶 5 mL 溶解快
+Dantrolene 與哪個藥併用可致高血鉀/心血管虛脫？	鈣通道阻斷劑 verapamil（避免併用）
+Dantrolene 全身給藥最需警覺的副作用？	骨骼肌無力導致呼吸肌無力/呼吸衰竭
+Dantrolene 長期口服的重要毒性？	肝毒性（慢性痙攣治療時需監測肝功能）
+Thiopental 的藥理分類與機轉為何？	超短效巴比妥類靜脈麻醉誘導劑；增強 GABA-A 受體、延長 Cl⁻ channel 開放時間 → 中樞抑制
+Thiopental 為什麼起效快、蘇醒也快？	高脂溶性使其快速進入腦部（30–45 秒起效）；單劑作用終止靠「再分布 redistribution」到肌肉脂肪，而非代謝
+Thiopental 有哪個經典的絕對禁忌症？	急性間歇性卟啉症（porphyria）— 誘導 δ-ALA synthase 誘發致命發作
+Thiopental 誘導麻醉的成人劑量？	3–5 mg/kg IV 慢推（老年/不穩定病人減量）
+為什麼低血容量或心衰病人用 Thiopental 要特別小心？	會造成心肌抑制與靜脈擴張 → 嚴重低血壓
+Thiopental 對呼吸的主要影響是什麼？	劑量依賴性呼吸抑制與呼吸暫停（apnea），需備好正壓通氣與氣道
+Thiopental 誤打進動脈會怎樣？	強鹼性藥物造成動脈痙攣、劇痛與遠端組織壞死/壞疽
+為什麼氣喘病人用 Thiopental 要小心？	巴比妥無支氣管擴張作用，淺麻醉刺激氣道時易誘發喉痙攣/支氣管痙攣
+Thiopental 反覆給藥為何蘇醒延遲？	脂肪組織飽和後代謝變慢、半衰期長（數小時至十幾小時），藥物蓄積
+現代麻醉誘導多用什麼取代 Thiopental？	Propofol（也可用 etomidate、ketamine）
+什麼是 MAC？與效價的關係？	最小肺泡濃度，使 50% 病人對切皮無體動反應的肺泡濃度；MAC 越低代表麻醉劑越強效
+哪些吸入麻醉劑是惡性高溫觸發劑？	所有揮發性劑（sevoflurane/desflurane/isoflurane/halothane），MH 家族史改用 TIVA
+小兒吸入誘導首選哪個吸入劑、為什麼？	Sevoflurane，氣味溫和、刺激性低
+哪個吸入劑甦醒最快、有什麼缺點？	Desflurane（血氣分配係數最低），但氣道刺激強不宜面罩誘導、需特殊揮發器
+血氣分配係數與甦醒速度的關係？	係數越低，血中溶解越少、誘導與甦醒越快（desflurane<sevoflurane<isoflurane<halothane）
+N₂O 為何在氣胸/腸阻塞禁用？	N₂O 擴散進含氣腔速度快於氮氣排出，使氣胸/腸阻塞/氣泡膨脹惡化
+N₂O 長期暴露的血液/神經毒性機轉？	失活維生素 B12 依賴的甲硫氨酸合成酶 → 巨球性貧血、脊髓亞急性合併變性
+Halothane 的兩大重要毒性？	肝毒性（halothane hepatitis）與心肌對兒茶酚胺致敏引發心律不整
+哪些因素會降低 MAC？	老人、低體溫、懷孕、併用 opioid/鎮靜劑
+N₂O 單用能達到全身麻醉嗎？	不能（MAC ~104%），麻醉效價弱但鎮痛強，須與其他麻醉劑併用
+Ketamine 的作用機轉？	NMDA 受體拮抗 → 解離性麻醉（鎮靜、鎮痛、遺忘）
+Ketamine 相較其他誘導劑的三大優點？	具鎮痛作用、維持呼吸驅動與氣道反射、擬交感升血壓（適合休克/氣喘）
+Ketamine RSI 誘導的成人劑量？	1–2 mg/kg IV（休克病人減至約 0.5–1 mg/kg）；無 IV 時 4–5 mg/kg IM
+為什麼 ketamine 適合氣喘病人？	具支氣管擴張作用，可緩解支氣管痙攣
+什麼是 emergence delirium？如何減緩？	甦醒期幻覺/譫妄，成人常見；可併用 benzodiazepine（midazolam）並保持安靜昏暗環境
+Ketamine 對分泌物的影響與處置？	增加唾液/支氣管分泌，可致喉痙攣（尤其兒童），必要時給 atropine/glycopyrrolate
+Ketamine 對血壓的雙面性？	一般擬交感升血壓；但在兒茶酚胺耗竭的重症休克可能出現心肌抑制性低血壓
+Ketamine 用於頭部外傷的現代觀點？	傳統顧慮升 ICP，但維持血壓/通氣下影響有限，創傷休克 RSI 仍可用（依情境權衡）
+Ketamine 的次麻醉鎮痛劑量？	約 0.1–0.3 mg/kg IV（opioid-sparing）
+Ketamine 對缺血性心臟病人的顧慮？	升心率血壓增加心肌耗氧，可能誘發缺血，須小心
+Clindamycin 的作用機轉與位點？	結合 50S 核糖體（23S rRNA，與 macrolide 同位點）阻斷肽鏈延長，抑菌型
+Clindamycin 最惡名昭彰的嚴重副作用是什麼？	C. difficile 偽膜性結腸炎（是最易誘發 CDI 的抗生素之一）
+Clindamycin 的抗菌強項是哪兩類菌？	厭氧菌（尤橫膈以上）與 G(+)（含部分社區型 MRSA、GAS）
+為什麼壞死性筋膜炎會加 clindamycin？	它能抑制細菌外毒素合成（如鏈球菌毒素），但殺菌力弱，須與 penicillin 合併
+D-test 是在測什麼？	測 erythromycin 抗藥而 clindamycin 敏感的葡萄球菌/鏈球菌是否有誘導型 MLSb 抗藥；陽性代表治療中可能誘導失敗
+Clindamycin 需要依腎功能調整劑量嗎？	不需要（主要經肝代謝）
+Clindamycin 可以用來治療腦膜炎嗎？	不行，它不穿越血腦障壁
+發生 clindamycin 相關嚴重腹瀉該怎麼處理？	停藥、驗 C. difficile toxin、避免使用止瀉劑（以免毒性巨結腸）
+Clindamycin 與哪個抗生素有拮抗、不應併用？	Erythromycin（macrolide），因爭奪同一 50S 位點
+Clindamycin 對橫膈以下腹腔厭氧菌可靠嗎？	漸不可靠（B. fragilis 抗藥增加），重症腹腔感染別單靠它
+氟喹諾酮類的作用機轉是什麼？	抑制細菌 DNA gyrase（topoisomerase II）與 topoisomerase IV，阻斷 DNA 複製，殺菌型、濃度依賴
+三個代表性氟喹諾酮的臨床定位差異？	Ciprofloxacin 偏 G(-)/抗綠膿；Levofloxacin 呼吸道+泌尿廣用；Moxifloxacin 呼吸道+厭氧但不入尿、不治 UTI
+氟喹諾酮類最著名的肌肉骨骼黑框副作用是什麼？	肌腱炎與肌腱斷裂（阿基里斯腱最常見），老年、類固醇併用、器官移植風險高
+哪一個氟喹諾酮 QT 延長最明顯、且不需腎調整？	Moxifloxacin（QT 延長最強，主要肝代謝故不需依腎調整，但也因此不用於 UTI）
+為什麼口服氟喹諾酮不能跟制酸劑或鐵鈣一起吃？	二價/三價陽離子（Al、Mg、Ca、Fe、Zn）會與 FQ 螯合大幅降低吸收，需分開間隔服用
+氟喹諾酮在哪種神經肌肉疾病是禁忌？	重症肌無力（myasthenia gravis）—可誘發致命的肌無力惡化
+除了肌腱，氟喹諾酮還有哪兩個可能不可逆的神經黑框？	周邊神經病變、中樞神經副作用（癲癇/混亂/幻覺/譫妄）
+為什麼 FDA 建議單純鼻竇炎/支氣管炎/單純 UTI 不要首選氟喹諾酮？	因其嚴重副作用（肌腱、神經、主動脈、QT）風險超過單純感染的效益，應保留給無替代選項者
+氟喹諾酮對糖尿病病人要注意什麼？	可致血糖異常，尤其與口服降血糖藥併用時可能發生嚴重（可致命）低血糖
+Ciprofloxacin 會抑制哪個 CYP 酵素、影響哪個常見藥？	抑制 CYP1A2 → 使 theophylline / caffeine 濃度上升，增加毒性風險
+β內醯胺酶抑制劑本身有抗菌力嗎？作用是什麼？	幾乎沒有抗菌力；它抑制細菌的 β-lactamase，保護搭配的 β-lactam 不被水解、恢復並拓寬抗菌譜
+四個代表性 β內醯胺酶抑制劑各配哪個 β-lactam？	Clavulanate + amoxicillin（Augmentin）、Sulbactam + ampicillin（Unasyn）、Tazobactam + piperacillin（Tazocin）、Avibactam + ceftazidime
+傳統 BLI（clavulanate/sulbactam/tazobactam）能擋哪類酶、擋不了哪類？	主擋 class A（含多數 ESBL）；擋不了 class B 金屬酶（MBL, 如 NDM）與多數 carbapenemase
+Avibactam 與傳統 BLI 的差別是什麼？	新型（diazabicyclooctane），可擋 class A/C/部分 D（含 KPC、OXA-48）；但仍擋不了金屬酶（MBL/NDM）
+Amoxicillin-clavulanate 特有的兩個副作用？	腹瀉（clavulanate 促腸蠕動）與膽汁鬱積性肝炎（可延遲數週出現）
+Sulbactam 有什麼與眾不同的內在抗菌活性？	對 Acinetobacter baumannii 有內在抗菌活性，是 MDR Acinetobacter 治療一環
+判讀 β-lactam/BLI 複方的抗菌譜時，主軸看什麼？	看搭配的 β-lactam 本身 + 被抑制酵素種類共同決定（BLI 是盾不是劍）
+哪些新型複方保留給 CRE（KPC/OXA-48）？	Ceftazidime-avibactam、Meropenem-vaborbactam 等（但 MBL 型仍無效）
+BLI 複方遇到產金屬酶（NDM）CRE 該怎麼辦？	這類複方無效，需靠 colistin/多黏菌素或含 aztreonam 的組合等最後防線策略
+Probenecid 與 β-lactam/BLI 複方的交互作用？	延緩 β-lactam 腎排泄、升高血中濃度
+Nitrofurantoin 為什麼只能治下泌尿道（膀胱炎）？	只在尿液達治療濃度，血中/組織濃度極低，無法治腎盂腎炎、菌血症、前列腺炎
+Nitrofurantoin 在哪個腎功能界線禁用、為什麼？	CrCl/eGFR < 30 mL/min 禁用，因無法濃縮到尿路（療效差）且毒性代謝物累積
+Nitrofurantoin 在 G6PD 缺乏病人有什麼風險？	誘發溶血性貧血（氧化壓力）
+Nitrofurantoin 的兩種肺毒性型態？	急性過敏性肺炎（發燒/呼吸困難/嗜酸球）與慢性肺纖維化（長期使用，可能不可逆）
+Nitrofurantoin 治療急性單純性膀胱炎的標準療程？	Macrobid 100 mg PO Q12H × 5 天
+為什麼孕婦足月（≥38 週）禁用 nitrofurantoin？	可能誘發新生兒溶血（新生兒 G6PD/紅血球酶系統未成熟）
+服用 nitrofurantoin 尿液變色要如何衛教？	尿液變棕黃色為正常無害現象，不需驚慌
+Nitrofurantoin 的作用機轉為何抗藥性低？	經細菌還原酶活化成活性中間物、攻擊 DNA/核糖體/多種酵素等多靶點
+發燒性腎盂腎炎可以用 nitrofurantoin 嗎？	不可以，組織/血中濃度過低無效，需改 fluoroquinolone 或 ceftriaxone 等
+哪些東西會降低 nitrofurantoin 的療效？	含鎂制酸劑（降吸收）與尿液鹼化劑（如碳酸氫鈉，降尿中活性）
+Macrolide 的作用機轉與菌效性質為何？	結合 50S ribosome 抑制蛋白質合成，抑菌型（高濃度可殺菌）
+Macrolide 臨床最核心的抗菌價值是什麼？	涵蓋非典型菌（Mycoplasma、Chlamydia、Legionella）+ 社區呼吸道 G(+)，是 penicillin 過敏者社區肺炎替代
+三隻 macrolide 中哪隻幾乎不抑制 CYP3A4、多重用藥病人優先選？	Azithromycin（erythromycin 與 clarithromycin 皆為強 CYP3A4 抑制劑）
+Erythromycin / Clarithromycin 的 CYP3A4 抑制會拉高哪些高危藥物濃度？	Statin（橫紋肌溶解）、warfarin（出血）、colchicine（致命蓄積）、tacrolimus/cyclosporine、部分 CCB
+Azithromycin 為什麼能短療程（3–5 天）給藥？	組織半衰期極長（約 68 小時），停藥後組織內仍維持有效濃度
+哪隻 macrolide 孕婦應避免、哪隻相對安全？	Clarithromycin 孕期避免（動物致畸）；azithromycin/erythromycin base 相對安全
+Macrolide 共同的心臟毒性是什麼？如何預防？	QT 延長 → Torsades；開前看 QTc 與電解質，避免與其他 QT 藥併用、矯正低血鉀低血鎂
+Erythromycin 除抗菌外的一個特殊臨床用途是什麼？	促胃腸蠕動（motilin receptor agonist），用於 gastroparesis 促動
+生殖道 Chlamydia trachomatis 的 azithromycin 建議治法？	azithromycin 1 g PO 單劑
+新生兒使用 erythromycin 需警覺哪個併發症？	嬰兒肥厚性幽門狹窄（IHPS）
+Carbapenem 的抗菌譜特色是什麼？	β-lactam 中最廣效（G(+)、G(-)、厭氧菌、抗 ESBL 產酶菌），對 β-lactamase 高度穩定，留給重症/多重抗藥
+Carbapenem 的主要盲點（不涵蓋）有哪些？	MRSA、腸球菌 E. faecium、非典型菌、Stenotrophomonas、部分 CRE
+哪隻 carbapenem 不抗綠膿桿菌、也不抗腸球菌，但可 QD 給藥？	Ertapenem（適合門診/社區、療程長）
+哪隻 carbapenem 癲癇風險最高？	Imipenem（尤其腎功能不良未減量、既往癲癇/CNS 病灶、高劑量）
+Carbapenem 最經典的藥物交互作用是什麼？	與 valproic acid（丙戊酸）併用 → valproate 血中濃度驟降 → 癲癇失控，應避免併用
+Imipenem 為什麼要與 cilastatin 併用？	cilastatin 抑制腎小管 dehydropeptidase-I，防止 imipenem 被降解、減少腎毒性代謝物
+Meropenem 治療腦膜炎的劑量比一般感染高多少？	腦膜炎用 2 g IV Q8H（一般感染 1 g Q8H），因需達腦脊髓液足夠濃度
+為什麼 carbapenem 使用要節制？	過度使用選殖出 CRE（碳青黴烯抗藥腸桿菌）與抗藥綠膿桿菌，是 antibiotic stewardship 管制重點
+懷疑 MRSA 的重症敗血症用 carbapenem 時要額外加什麼？	加 vancomycin（或 linezolid/daptomycin），因 carbapenem 不涵蓋 MRSA
+Meropenem/Doripenem 為何常用延長輸注（3h）？	β-lactam 為 time-dependent 殺菌，延長輸注提高 T>MIC，對高 MIC 菌/重症療效更佳
+Daptomycin 的作用機轉是什麼？	鈣依賴插入 G(+) 細胞膜形成孔洞、鉀外流使膜去極化，快速殺菌（濃度依賴）
+Daptomycin 為什麼絕不可用於肺炎？	會被肺泡表面活性物質（surfactant）結合而失活，肺部無效
+Daptomycin 治療中必須每週監測什麼？	CPK（肌酸激酶），警覺橫紋肌溶解
+Daptomycin 與哪類藥併用會增加肌毒性？	Statin（HMG-CoA reductase 抑制劑），療程中考慮暫停 statin
+Daptomycin 主要適應症有哪些？	MRSA 菌血症/右側感染性心內膜炎、複雜性皮膚軟組織感染、VRE 感染
+腎功能不良（CrCl<30 或透析）的 daptomycin 該如何給藥？	給藥間隔改為 Q48H（透析日於透析後給）
+Daptomycin 罕見但可致命的肺部併發症是什麼？	急性嗜酸性肺炎（用藥數週後新發呼吸困難/發燒/嗜酸球增加），需停藥
+Daptomycin 對凝血檢驗有什麼干擾？	可造成 PT/INR 假性延長（試劑干擾，非真凝血異常）
+Daptomycin 屬濃度依賴還是時間依賴殺菌？	濃度依賴（concentration-dependent），故每日一次給藥
+當 vancomycin 治療 MRSA 菌血症失敗或 MIC 偏高時可考慮什麼？	改用 daptomycin（較高劑量如 8–10 mg/kg，依感染科）
+TMP-SMX 的作用機轉是什麼？	SMX 抑制 dihydropteroate synthase、TMP 抑制 dihydrofolate reductase，序列性阻斷細菌葉酸合成（人類靠外源葉酸故選擇性殺菌）
+TMP-SMX 是哪個機會性感染的治療與預防首選？	肺囊蟲肺炎（PJP / Pneumocystis jirovecii pneumonia），用於 HIV、移植、長期類固醇等免疫低下者
+為什麼 TMP-SMX 會讓血 creatinine 上升卻不是真的腎損傷？	TMP 抑制 creatinine 在近端腎小管的分泌 → 血 Cr 上升但 GFR 未真的下降（假性上升，需區辨）
+TMP-SMX 造成高血鉀的機轉是什麼？	TMP 有類 amiloride 作用，阻斷遠端腎小管 Na 通道而保鉀；高劑量、腎功能差、併 ACEI/ARB 更危險
+TMP-SMX 有哪些嚴重的皮膚反應要警覺？	Stevens-Johnson syndrome、毒性表皮壞死溶解（TEN）、DRESS；一般皮疹也很常見
+TMP-SMX 與 warfarin 併用要注意什麼？	抑制 CYP2C9 並置換蛋白結合 → 大幅增強抗凝、INR 上升、出血風險，需監測減量
+TMP-SMX 在孕婦與新生兒為何避免使用？	孕早期葉酸拮抗有致畸顧慮；孕晚期/新生兒磺胺置換膽紅素可致核黃疸（kernicterus）
+SS 與 DS 的 TMP-SMX 各含多少成分？	SS（single-strength）= TMP 80 / SMX 400 mg；DS（double-strength）= TMP 160 / SMX 800 mg
+TMP-SMX 在 G6PD 缺乏病人的風險是什麼？	溶血性貧血
+除了 PJP 與 UTI，TMP-SMX 是哪些少見菌的首選？	Nocardia 感染與 Stenotrophomonas maltophilia 感染
+Linezolid 的作用機轉為何特別？	結合 50S（23S rRNA）阻止 70S 起始複合體形成、抑制蛋白質合成起始，與其他抑蛋白質合成藥少交叉抗藥
+Linezolid 主要對付哪些抗藥菌？	MRSA、VRE、抗藥肺炎鏈球菌等抗藥 G(+)
+Linezolid 口服生體可用度多少、臨床意義？	約 100%，口服=靜脈，穩定後可 step-down 口服
+Linezolid 為什麼會引起血清素症候群？	它是可逆性非選擇性 MAO 抑制劑，與 SSRI/SNRI/tramadol/pethidine 等併用會累積血清素
+使用 linezolid 超過兩週要監測什麼、為什麼？	每週 CBC；長療程易骨髓抑制（尤血小板減少）
+Linezolid 長療程（>28 天）可能造成哪些神經毒性？	周邊神經病變與視神經炎（可能不可逆），視力模糊需停藥
+Linezolid 需要依腎功能調整劑量嗎？	不需要，但代謝物會累積增血小板低下風險，需監測 CBC
+Linezolid 為什麼會造成乳酸中毒？	抑制粒線體蛋白合成，表現反覆噁心嘔吐 + 不明代謝性酸中毒
+治療 VRE 菌血症時 linezolid 的角色？	是少數對 VRE 有效的口服藥之一（惟菌血症證據上 daptomycin 常優先，依情境）
+Linezolid 與含 tyramine 食物或擬交感藥併用的風險？	高血壓危象（因 MAO 抑制效應）
+Aminoglycoside 的作用機轉與殺菌型態？	不可逆結合 30S ribosome 造成 mRNA 誤讀，濃度依賴型殺菌 + 明顯 post-antibiotic effect
+為什麼 aminoglycoside 現行多採每日單次給藥（extended-interval）？	因濃度依賴殺菌 + 長 PAE，高峰濃度提升療效、拉長間隔讓谷濃度低降低腎毒性蓄積
+Aminoglycoside 兩大毒性及其可逆性差異？	腎毒性（近端小管，多可逆、非少尿型）與耳毒性（耳蝸/前庭，常不可逆）
+為什麼 aminoglycoside 對厭氧菌與缺氧膿腔無效？	進入菌體需氧依賴性運輸，缺氧環境無法攝入藥物
+Gentamicin 與 amikacin 的耳毒性偏向有何不同？	Gentamicin 偏前庭毒性（眩暈平衡）、amikacin 偏耳蝸毒性（聽損）
+Amikacin 相較 gentamicin 的臨床定位是什麼？	對多重抗藥 G(-)（含部分 gentamicin 抗藥株）與非結核分枝桿菌保留活性，作為保留用藥
+感染性心內膜炎使用 gentamicin 的劑量特點？	採低劑量與 β-lactam/vancomycin 協同（如 3 mg/kg/day 分次），非一般高劑量
+Aminoglycoside 為何孕婦禁用？	可致胎兒耳毒性/先天性聽損，尤其 streptomycin
+Aminoglycoside 與 β-lactam 一起給藥要注意什麼物理配伍？	兩者物理混合會使 aminoglycoside 失活，不可同針筒/同管路直接混合，須分開給
+哪些狀況會加重 aminoglycoside 的神經肌肉阻斷風險？	重症肌無力、併用麻醉肌鬆劑、快速大劑量輸注 → 可致呼吸抑制
+Metronidazole 的作用機轉是什麼？	在厭氧環境被還原成細胞毒性自由基/中間產物，破壞細菌與原蟲的 DNA，殺菌型
+Metronidazole 主要涵蓋哪類病原？	厭氧菌（尤其橫膈以下的 Bacteroides fragilis）與原蟲（滴蟲、阿米巴、梨形鞭毛蟲），以及 C. difficile
+Metronidazole 最重要的飲食衛教是什麼？	治療期間及停藥後至少 3 天禁酒（會引起 disulfiram-like reaction：潮紅、嘔吐、心悸）
+為什麼腹腔內感染不能只用 metronidazole？	它只涵蓋厭氧菌，不涵蓋好氧 G(-)，需搭配 ceftriaxone/cipro/pip-tazo 等涵蓋好氧菌
+Metronidazole 與 warfarin 併用會怎樣？	抑制 warfarin 代謝 → 增強抗凝、INR 上升、出血風險，需監測並可能減量
+Metronidazole 長療程/高劑量的神經副作用有哪些？	周邊神經病變（感覺異常）、罕見腦病變、癲癇、小腦功能障礙、無菌性腦膜炎
+Metronidazole 在肝腎功能不全該如何調整？	肝代謝為主 → 重度肝功能不全需減量；一般不需依腎調整（嚴重腎衰竭代謝物可能蓄積，依院規）
+滴蟲陰道炎用 metronidazole 治療的關鍵衛教是什麼？	性伴侶需同時治療（避免再感染），且治療期間禁酒
+C. difficile 感染現行首選是 metronidazole 嗎？	否，現行 guideline 首選多為口服 vancomycin 或 fidaxomicin；metronidazole 用於輕症或無法取得首選藥時
+Metronidazole 常見但無害、需先告知病人的兩個現象？	金屬味口感、尿液顏色變深
+Vancomycin 的作用機轉？	結合細胞壁前驅物 D-Ala-D-Ala 末端，阻斷 peptidoglycan 交聯，抑制 G(+) 菌細胞壁合成（殺菌）
+Red man syndrome 是過敏嗎？如何處置？	不是過敏，是輸注太快致組織胺釋放；處置是放慢輸注（每 1g ≥60 分鐘）±抗組織胺，不需列為禁用
+Vancomycin 口服與 IV 的適應症差別？	IV 治全身 MRSA；口服不吸收，只治腸道的 C. difficile 感染
+全身 MRSA 的 vancomycin 劑量？	15–20 mg/kg（實際體重）IV Q8–12H，嚴重可先負荷 25–30 mg/kg
+C. difficile 的口服 vancomycin 劑量？	125 mg PO QID ×10 天（重症可 500 mg QID）
+Vancomycin 現行首選的監測指標？	AUC/MIC 400–600（優於單純 trough），不足療效差、過量腎毒
+Vancomycin 兩大毒性是什麼？	腎毒性與耳毒性，與 aminoglycoside/pip-tazo/NSAID 等併用加成
+為什麼 vancomycin 要依腎功能調劑量？	經腎排除，腎功能不良易蓄積增加腎毒性，需調劑量+監測濃度
+Vancomycin 涵蓋哪些菌、不涵蓋哪些？	涵蓋 G(+)（含 MRSA）；不涵蓋 G(-) 與非典型菌，經驗治療常需另加 G(-) 涵蓋
+腦膜炎經驗治療 vancomycin 常和什麼併用？	Ceftriaxone（涵蓋抗藥性肺炎鏈球菌），必要時加 ampicillin 涵蓋 Listeria
+多黏菌素（colistin/polymyxin B）的作用機轉？	陽離子結合 G(-) 外膜 LPS 的 lipid A、破壞外膜與內膜通透性使內容物外漏，殺菌
+多黏菌素的臨床定位是什麼？	多重抗藥 G(-)（CRE、MDR Pseudomonas、Acinetobacter）的最後防線
+多黏菌素兩大劑量限制毒性是什麼？	腎毒性（急性腎損傷）與神經毒性（含神經肌肉阻斷致呼吸抑制）
+Colistin 與 Polymyxin B 在腎功能調整上的關鍵差異？	Colistin（CMS）需依腎功能調整；Polymyxin B 不需依腎調整
+為什麼多黏菌素用藥錯誤風險高？	Colistin 以前驅物 CMS 給藥、單位換算（IU vs mg CBA）複雜且需給負荷劑量，換算錯誤可致命
+多黏菌素涵蓋 G(+) 或厭氧菌嗎？	不涵蓋，只對 G(-)（且 Proteus/Serratia/Burkholderia 天然抗藥）
+為什麼靜脈多黏菌素治療 G(-) 肺炎常需合併吸入劑？	靜脈給藥肺部滲透濃度低，重症肺炎常需併吸入或合併其他抗生素
+多黏菌素在重症肌無力病人為何危險？	有神經肌肉阻斷作用，會惡化肌無力並致呼吸抑制/停止
+使用多黏菌素每天要監測什麼？	腎功能與尿量、神經症狀（麻木/無力/呼吸）、電解質
+多黏菌素與 aminoglycoside 併用要注意什麼？	疊加腎毒性（及神經毒性），需嚴密監測腎功能
+四環素類的作用機轉與抑/殺菌性質？	可逆結合 30S 核糖體、阻止 aminoacyl-tRNA 進入 A 位，抑制蛋白質合成；抑菌型（bacteriostatic）
+四環素為什麼禁用於孕婦與 8 歲以下兒童？	沉積於發育中牙齒骨骼，造成永久性牙齒黃染、琺瑯質發育不良、暫時抑制骨生長
+服用四環素前要衛教避免與哪些東西同時吃？	含鈣/鎂/鋁的制酸劑、鐵劑、乳製品、含鈣輸液（金屬陽離子螯合降吸收，須間隔 2 小時）
+四環素類中哪個對腎功能不良最安全、不需調劑量？	Doxycycline（與 Minocycline，主要經膽汁/腸道排泄）
+Tigecycline 有什麼重要的 FDA 黑框警語？	全因死亡率增加，不可用於菌血症與院內肺炎（血中濃度低、療效差）
+恙蟲病 / 洛磯山斑疹熱的首選藥是什麼、兒童也用嗎？	Doxycycline；即使 8 歲以下兒童遇致命立克次體感染仍為首選（利大於弊）
+Minocycline 特有的副作用有哪些？	藍灰色色素沉著、藥物性紅斑狼瘡、前庭症狀（頭暈）、良性顱內高壓
+四環素造成的良性顱內高壓有哪些症狀？	頭痛、視力模糊、視乳突水腫（pseudotumor cerebri），尤 Minocycline + 年輕女性
+為什麼口服 doxycycline 要配大量開水並坐直？	避免藥錠滯留食道造成食道潰瘍/刺激
+四環素與 Warfarin 併用要注意什麼？	可能增強抗凝作用（抑制腸道菌降低 Vit K）→ 監測 INR
+Cephalosporin 分代的抗菌譜總趨勢是什麼？	代數越高 G(-) 涵蓋越廣、G(+) 一度下降（三代），第四代 G(+) 回升並抗綠膿，第五代補回抗 MRSA
+Cephalosporin 共同不涵蓋的「LAME」四類是什麼？	Listeria、Atypicals（非典型菌）、MRSA（第五代除外）、Enterococci
+哪些 cephalosporin 抗綠膿桿菌 Pseudomonas？	Ceftazidime（三代）與 Cefepime（四代）
+唯一抗 MRSA 的 cephalosporin 是哪一代哪隻藥？	第五代 Ceftaroline
+Cefazolin（第一代）最主要的臨床用途是什麼？	手術預防性抗生素（涵蓋 MSSA + 鏈球菌），也用於蜂窩性組織炎/MSSA 感染
+Cefepime 在腎功能不良未減量時最需警覺什麼？	神經毒性 — 腦病變、意識改變、肌陣攣、非抽搐性癲癇
+含 NMTT 側鏈的頭孢（cefotetan/cefoperazone）有哪兩個特殊副作用？	① 低凝血酶原血症（出血，需監測 PT/INR）② disulfiram-like 戒酒反應（併酒精潮紅噁心）
+哪隻頭孢是唯一雙重排泄、腎功能不良多不需調劑量？	Ceftriaxone（約 40–50% 經膽汁排泄），其餘頭孢幾乎都需依 CrCl 調整
+第二代中哪兩隻可涵蓋厭氧菌、用於腹腔/婦科感染？	Cefoxitin 與 Cefotetan（頭黴烯 cephamycin 類）
+發熱性嗜中性白血球低下（febrile neutropenia）常選哪隻頭孢單藥經驗治療？	Cefepime（四代，抗綠膿 + 廣效 + G(+) 涵蓋）
+Aztreonam 屬哪一類抗生素、機轉為何？	唯一上市的單環 β-lactam（monobactam）；與 PBP3 結合阻斷細胞壁合成，殺菌型
+Aztreonam 的抗菌涵蓋範圍有何重大限制？	只涵蓋革蘭氏陰性「需氧」菌（含 Pseudomonas），對 G(+) 與厭氧菌完全無效
+Aztreonam 最大的臨床價值是什麼？	與 penicillin / cephalosporin 幾乎無交叉過敏，是嚴重 β-lactam 過敏病人涵蓋 G(-) 的救援選項
+Aztreonam 唯一需要警覺交叉過敏的藥物是？	Ceftazidime（兩者側鏈結構相同）
+懷疑腹腔混合感染時，單用 aztreonam 為何不夠？	不涵蓋厭氧菌，需併 metronidazole；也不涵蓋 G(+)，常需再加抗 G(+) 藥
+Aztreonam 需要依哪個器官功能調整劑量？	腎功能（主要經腎排泄，CrCl 下降需減量）
+嚴重 Pseudomonas 感染 aztreonam 的劑量頻次？	2 g IV Q6–8H
+Aztreonam 涵蓋非典型菌（Mycoplasma / Legionella）嗎？	不涵蓋
+一位對 penicillin 有 anaphylaxis 病史的病人需要涵蓋 G(-)，aztreonam 適合嗎？	適合，因與 penicillin 無交叉過敏，正是其使用時機
+Aztreonam 的吸入劑型（Cayston）用於哪種病人？	囊性纖維化（CF）病人的慢性 Pseudomonas 呼吸道感染
+Ceftriaxone 屬第幾代頭孢菌素、機轉為何？	第三代 cephalosporin；抑制 transpeptidase（PBP）阻斷細胞壁合成，殺菌型 β-lactam
+Ceftriaxone 為什麼可以一天給一次（QD）？	半衰期長約 8 小時
+Ceftriaxone 排泄途徑有何特別、對腎功能不良病人的意義？	約 40–50% 經膽汁排泄（雙重排泄），故腎功能不良多不需調整劑量
+成人細菌性腦膜炎的 Ceftriaxone 劑量是多少？	2 g IV Q12H（腦膜炎需高劑量、分兩次；因可穿 BBB）
+Ceftriaxone 對哪些重要菌「沒有」涵蓋？	Pseudomonas 綠膿桿菌、MRSA、腸球菌 Enterococcus、非典型菌（Mycoplasma/Legionella）
+無併發淋病的 Ceftriaxone 建議治法？	500 mg IM 單劑，常合併 doxycycline 涵蓋披衣菌
+Ceftriaxone 在新生兒有哪個致命禁忌？	不可與含鈣輸液併用（形成 ceftriaxone-鈣沉澱栓塞肺腎致死）；新生兒高膽紅素血症也禁（置換膽紅素致核黃疸）
+Ceftriaxone 常見但可逆的膽道副作用是什麼？	膽泥 / 假性膽結石（biliary pseudolithiasis），常在停藥後可逆
+國考藥訣怎麼記 Ceftriaxone？	「太爽(xone)就要修理(fix)」；且為第三代唯一治淋病首選、可穿 BBB 治腦膜炎
+懷疑肺炎併非典型菌時 Ceftriaxone 常搭配什麼？	加 azithromycin（macrolide）涵蓋 Mycoplasma / Legionella 等非典型菌
+磺胺類的作用機轉為何具選擇性毒性？	為 PABA 類似物、抑制 dihydropteroate synthase 阻斷細菌自行合成葉酸；人類直接攝取葉酸不受影響
+磺胺類最經典致命的皮膚副作用是什麼？	Stevens-Johnson 症候群 / 毒性表皮壞死溶解（SJS/TEN）
+磺胺類在 G6PD 缺乏病人有什麼風險？	溶血性貧血（氧化壓力誘發）
+為什麼新生兒與孕婦足月禁用磺胺？	磺胺置換白蛋白上的膽紅素，游離膽紅素沉積新生兒腦部造成核黃疸（kernicterus）
+磺胺造成腎損傷的機轉是什麼、如何預防？	代謝物在酸性尿析出結晶（結晶尿/腎結石），預防靠多喝水維持尿量、必要時鹼化尿液
+磺胺與 warfarin 併用要注意什麼？	增強抗凝（置換蛋白結合 + 抑制代謝）→ 監測 INR
+磺胺與 sulfonylurea（降血糖藥）併用的風險？	低血糖
+磺胺與 methotrexate 併用為何危險？	置換蛋白結合並疊加抑葉酸作用，增加 MTX 毒性
+磺胺最常見的複方形式與其協同意義？	TMP-SMX（sulfamethoxazole + trimethoprim），阻斷葉酸路徑兩步驟達協同殺菌
+Sulfadiazine + pyrimethamine 用於治療什麼？	弓漿蟲腦炎（toxoplasmosis）
+Penicillin 類的殺菌機轉是什麼？	抑制 transpeptidase（PBP）阻斷細胞壁 peptidoglycan 交聯；為 time-dependent 殺菌，療效看 T>MIC
+Penicillin 依抗菌譜分哪四大亞類？	天然（Pen G/VK）、胺基（Amoxicillin/Ampicillin）、抗綠膿（Piperacillin）、抗葡萄球菌（Oxacillin/Nafcillin/Dicloxacillin）
+哪一亞類 penicillin 抗 penicillinase、是 MSSA 的首選？	抗葡萄球菌類（Oxacillin/Nafcillin/Dicloxacillin）；但對 MRSA 仍無效
+梅毒的首選藥是什麼、有無等效替代？	Benzathine Penicillin G（所有期別首選）；無等效替代，孕婦過敏須減敏後仍用它
+為什麼 Ampicillin/Amoxicillin 遇到 EB 病毒感染會出皮疹？	傳染性單核球增多症時 aminopenicillin 幾乎必誘發皮疹，屬非過敏性反應，易被誤標為藥物過敏
+哪一亞類 penicillin 主要經肝膽排泄、腎功能不良不需大調？	抗葡萄球菌類（Oxacillin / Nafcillin）；其餘天然/胺基/抗綠膿類均需依 CrCl 減量
+Ampicillin 在腦膜炎經驗治療中額外涵蓋哪隻菌？	Listeria monocytogenes（李斯特菌），用於 >50 歲或免疫低下病人，加在 ceftriaxone + vancomycin 之上
+Penicillin 對哪些菌「沒有」涵蓋？	MRSA、非典型菌（Mycoplasma/Legionella/Chlamydia，因無細胞壁）；一般 penicillin 也不涵蓋綠膿桿菌（除抗綠膿類）
+Amoxicillin-clavulanate（Augmentin）加 clavulanate 的目的？	clavulanate 為 β-lactamase inhibitor，涵蓋產酶菌（如產酶 H. influenzae、部分 anaerobes）；副作用是腹瀉較明顯
+高劑量 penicillin + 腎功能不良最需警覺什麼嚴重反應？	神經毒性 / 癲癇（藥物蓄積），故腎不良須減量或延長給藥間隔
+Piperacillin-tazobactam 的兩個成分各扮演什麼角色？	Piperacillin 是廣效抗綠膿桿菌青黴素（抑制 PBP 殺菌）；tazobactam 是 β-lactamase 抑制劑，保護 piperacillin 不被水解、擴大涵蓋範圍
+Pip-tazo 的抗菌涵蓋範圍包含哪些？	G(+)、G(-)、厭氧菌，且**涵蓋綠膿桿菌 Pseudomonas**
+Pip-tazo「不」涵蓋哪些重要菌？	MRSA、非典型菌（Mycoplasma/Legionella），且對 ESBL 涵蓋不可靠（ESBL 菌血症應改 carbapenem）
+Pip-tazo 一般感染與重症/綠膿桿菌的標準劑量各是多少？	一般 4.5 g IV Q8H（或 3.375 g Q6H）；重症/綠膿桿菌 4.5 g IV Q6H，重症可用延長輸注每次輸 4 小時
+為什麼 piperacillin 適合延長輸注（extended infusion）？	它是時間依賴型殺菌（%T>MIC），拉長輸注時間可提升藥效，對高 MIC 綠膿桿菌尤其有利
+Pip-tazo 與哪個常見抗生素併用會增加急性腎損傷風險？	Vancomycin（vanco + pip-tazo 併用 AKI 發生率高於 vanco + cefepime），需每日監測 Cr / 尿量
+Pip-tazo 為什麼腹腔內感染常可單用、免加 metronidazole？	因為它本身已涵蓋腸道厭氧菌（如 Bacteroides）
+Pip-tazo 在腎功能不良為何一定要減量？	主要經腎排泄，累積會導致神經毒性（意識改變、肌抽躍、癲癇）；CrCl < 40 需調整劑量頻次
+嗜中性白血球低下發燒（febrile neutropenia）常用的經驗性單藥是什麼？	Pip-tazo 4.5 g IV Q6H（因涵蓋綠膿桿菌），懷疑 MRSA 或導管相關再加 vancomycin
+Pip-tazo 每 4.5g 含約多少鈉？對什麼病人重要？	約 11 mEq Na；對心衰、腎衰、水腫病人的鈉負荷要注意
+Teicoplanin 的作用機轉為何？	醣肽類，結合細胞壁前驅物 D-Ala-D-Ala 末端阻斷細胞壁合成（近似 vancomycin），殺菌型僅對 G(+)
+Teicoplanin 相較 vancomycin 的三大臨床優點？	半衰期長可 QD 給藥、可 IM 注射、輸注（red man）反應較少
+為什麼 teicoplanin 一定要給負荷劑量？	半衰期很長，不給 loading 血中濃度數天達不到治療區，是治療失敗主因
+Teicoplanin 涵蓋 G(-) 菌嗎？	完全不涵蓋，只對 G(+)；敗血症經驗性用須另配 G(-) 藥
+Teicoplanin 與 vancomycin 對 VRE 的交叉抗藥情形？	VanA 型 VRE 對兩者皆抗藥；VanB 型可能對 teicoplanin 仍敏感
+深部感染（心內膜炎/骨髓炎）使用 teicoplanin 要監測什麼？	血中 trough 濃度（TDM），目標較高（依院規常 ≥ 20 mg/L）
+Teicoplanin 可以肌肉注射嗎？vancomycin 呢？	Teicoplanin 可 IM；vancomycin 不能 IM（此為 teicoplanin 優勢之一）
+腎功能不良時 teicoplanin 如何調整？	延長給藥間隔（如 Q48H），一般維持期第 4 天起減量並依 TDM
+Teicoplanin 與哪些藥併用會疊加腎毒性/耳毒性？	aminoglycoside、amphotericin B、loop diuretic、cyclosporine 等
+Teicoplanin 適合什麼臨床場景取代 vancomycin？	需長期或門診靜脈治療（OPAT）、vancomycin 不耐（red man/腎毒性）之 G(+) 感染
+高血鉀處置的三大步驟依序是什麼？	① 穩膜（Calcium）② 移鉀入細胞（Insulin+D50 / β-agonist / NaHCO3）③ 排鉀（利尿劑 / 陽離子交換樹脂 / 透析）
+接到高血鉀報告的第一件事該做什麼？	立刻做 12 導程 EKG 並評估症狀；有變化或 K≥6.5 立即給鈣穩膜，不空等複驗
+Calcium gluconate 在高血鉀的作用與劑量？	穩定心肌細胞膜、對抗心律不整（**不降鉀**）；10% 10 mL IV 慢推 2–3 分，心電監測下，5–10 分可重複；起效 1–3 分、持續約 30–60 分
+高血鉀 EKG 變化由早到晚的順序？	帳篷狀 T 波 (peaked T) → PR 延長、P 波變平/消失 → QRS 增寬 → 正弦波 (sine wave) → VF/asystole
+Insulin 降鉀為什麼一定要配 D50 並追血糖？	insulin 把鉀驅入細胞但會造成低血糖（腎衰病人清除慢可遲發），故配 D50W 並於 1/2/4/6 小時追蹤血糖
+高血鉀用的 β2-agonist 是哪個、劑量特點？	salbutamol 10–20 mg nebulized，劑量遠高於氣喘常規；降 K 約 0.5–1，心搏過速者慎用
+哪一步驟才是「真正把鉀排出體外」？	第三步排鉀 — 利尿劑（需有尿量）、陽離子交換樹脂（Kayexalate/patiromer/SZC）、血液透析；前兩步只是暫時穩膜與藏鉀
+NaHCO3 在高血鉀什麼時候才用、有何限制？	僅在合併代謝性酸中毒時輔助使用；單獨降鉀效果差，且不可與鈣走同一條 IV line（會沉澱）
+Kayexalate 的主要安全疑慮是什麼？	腸道壞死（FDA 黑框警告），尤其術後/腸阻塞/與 sorbitol 併用；起效慢非急救藥
+無尿或腎衰竭且藥物無效的高血鉀終極解方？	血液透析（最快最徹底移除鉀）
+如何懷疑假性高血鉀、該怎麼處理？	病人無症狀、EKG 正常但數字很高，常因溶血/握拳採血/檢體延遲/白血球血小板極高；重抽一管（不綁壓脈帶、快速送驗）確認，但勿延誤真高血鉀急救
+高血鉀要停掉哪些常見升鉀藥物？	ACEi/ARB、spironolactone、NSAID、trimethoprim(TMP-SMX)、heparin、非選擇性 β-blocker，以及含鉀點滴/KCl
+碳酸氫鈉的作用機轉是什麼？	補充體內主要緩衝鹼 HCO₃⁻，中和過多的氫離子、提高血 pH
+碳酸氫鈉的主要適應症有哪些？	嚴重代謝性酸中毒（一般 pH<7.1）、TCA 中毒、水楊酸中毒（尿液鹼化促排）、合併代酸的高血鉀輔助、特定心跳停止情境
+為什麼不是所有代謝性酸中毒都給 bicarb？	多數（尤其 DKA、乳酸酸中毒）根治是處理病因（補液/insulin/恢復灌流）；bicarb 只在嚴重或需鹼化時考慮，過度使用弊多於利
+碳酸氫鈉過度矯正會造成什麼？	代謝性鹼中毒、氧釋放下降（曲線左移）、反常性細胞內/腦脊液酸中毒（CO₂ 穿 BBB）
+給 bicarb 為什麼會惡化低血鉀與低血鈣？	鹼化使鉀移入細胞（暴露/惡化低鉀致心律不整），並使游離鈣下降（可誘發抽搐/心律不整）
+碳酸氫鈉為什麼不可與含鈣輸液或兒茶酚胺同管？	與鈣會形成碳酸鈣沉澱；鹼性環境會使兒茶酚胺（norepinephrine 等）失效
+TCA（三環抗憂鬱劑）中毒為什麼用 bicarb、目標是什麼？	鈉負荷 + 血液鹼化可穩定心肌鈉通道、縮窄 QRS；目標血 pH 約 7.45–7.55（滴定至 QRS 變窄/血壓改善）
+水楊酸中毒用 bicarb 的目的？	鹼化尿液（目標尿 pH 7.5–8）促進水楊酸排泄；須同時補鉀否則尿液無法鹼化
+呼吸衰竭無法過度換氣的病人給 bicarb 有何危險？	中和產生的 CO₂ 排不掉會蓄積，穿越細胞膜/BBB 反使細胞內更酸
+給 bicarb 期間該監測哪些項目？	動脈血氣（pH/HCO₃⁻/pCO₂）、鉀、游離鈣、鈉、容積狀態、EKG，中毒時追尿液 pH
+MgSO4 中毒的臨床進展順序？	深腱反射消失（早期）→ 呼吸抑制 → 心臟傳導阻滯/停搏
+MgSO4 中毒的解毒劑是什麼？	Calcium Gluconate（1 g IV slow）
+子癇前症/子癇 MgSO4 的負荷與維持劑量？	負荷 4–6 g IV 於 15–20 分鐘，維持 1–2 g/hr IV 持續輸注
+子癇維持輸注中要監測哪 4 件事？	呼吸 ≥12/min、深腱反射（DTR）存在、尿量 ≥30 mL/hr、必要時血鎂濃度
+MgSO4 在 Torsades de Pointes 的用法？	1–2 g IV 於 5–20 分鐘（心停可 push），即使血鎂正常也給
+為什麼腎功能不良病人給 MgSO4 特別危險？	鎂經腎排除，腎功能差時排不掉易蓄積中毒，需減量+密集監測
+MgSO4 的主要禁忌症有哪些？	重症肌無力、心臟傳導阻滯、高血鎂症；嚴重腎衰竭需大幅減量
+床邊監測鎂毒性最實用的指標是什麼？	深腱反射（DTR）——消失是早期警訊，應立即停藥查濃度
+難治性低血鉀為何要先補鎂？	低血鎂使腎持續漏鉀、補鉀無效，需先矯正低鎂
+MgSO4 在氣喘的角色與劑量？	重症/難治性氣喘急性發作輔助支氣管舒張，2 g IV 於 20 分鐘單劑
+高血鉀時給 calcium gluconate 的作用是什麼？	穩定心肌細胞膜對抗鉀毒性（心臟保護），**不降血鉀**，仍需接續移鉀/排鉀
+高血鉀心臟保護的 calcium gluconate 標準劑量？	10% Calcium Gluconate 10 mL（1 g）IV 於 2–3 分鐘，效力約 30–60 分鐘，未改善可重複
+Calcium Gluconate 與 Calcium Chloride 元素鈣差多少？	CaCl₂ 元素鈣約為 gluconate 的 3 倍（10mL 10% CaCl₂≈272mg vs gluconate≈90mg）
+為什麼周邊靜脈優先用 gluconate 而非 CaCl₂？	CaCl₂ 刺激性強、外滲組織壞死嚴重，一般走中央靜脈；周邊優先 gluconate
+Calcium gluconate 可解哪個藥的中毒？	硫酸鎂（MgSO4）中毒——1 g IV slow
+為什麼服用 digoxin 的病人給鈣要極謹慎？	快速高鈣 + 洋地黃可致「stone heart」心肌強直/致命心律不整，非緊急勿快推
+高血鉀給鈣後為什麼還不能停？	鈣只穩膜不降鉀、效力約 30–60 分鐘，需接 insulin/glucose、β-agonist 移鉀 + 利尿/樹脂/透析排鉀
+Calcium 不可與哪些藥同一條 IV line？	碳酸氫鈉、磷酸鹽（沉澱）；新生兒禁與 ceftriaxone 併用
+Calcium gluconate 外滲的後果？	嚴重組織壞死與鈣化（CaCl₂ 更重），需確保 line 通暢
+症狀性低血鈣的臨床表現？	手足搐搦、Chvostek/Trousseau 徵、抽搐、QT 延長
+磷結合劑的作用機轉是什麼？	在腸道與食物中的磷酸鹽結合成不可吸收複合物、隨糞便排出，降低血磷
+磷結合劑最關鍵的服藥時機是什麼、為什麼？	隨餐服用（with meals）；要與食物同時在腸道才能結合飲食磷，空腹幾乎無效
+磷結合劑主要用於哪類病人？	慢性腎臟病（CKD）合併高血磷，尤其維持性透析病人
+含鈣型磷結合劑（calcium acetate/carbonate）過量的主要風險？	高血鈣與血管/軟組織鈣化、adynamic bone disease；每日結合劑元素鈣有上限
+Sevelamer 的優缺點各是什麼？	優：不增鈣負荷、可略降 LDL；缺：便秘腹脹、HCl 型可致代謝性酸中毒（carbonate 型改善此點）
+Lanthanum carbonate 的服用方式與注意？	隨餐咀嚼服；效力強、藥丸負擔少，但有長期金屬組織堆積疑慮與腸胃副作用
+為什麼 aluminum hydroxide 雖強效卻不長期使用？	長期會鋁中毒（腦病變、骨軟化、微球性貧血），僅短期急性極高血磷偶用
+磷結合劑會干擾哪些口服藥吸收、怎麼辦？	降低 levothyroxine、fluoroquinolone/tetracycline、口服鐵劑等吸收；建議錯開服藥時間 ≥1–2 小時
+已有高血鈣或嚴重血管鈣化的 CKD 病人該選哪類磷結合劑？	改用非含鈣型（sevelamer 或 lanthanum），避免加重鈣負荷
+含鐵型磷結合劑有什麼額外作用與副作用？	兼可補鐵；副作用糞便變黑、腹瀉，需監測 ferritin/TSAT 防鐵過載
+KCl 為什麼絕對不能 IV push？	高濃度鉀瞬間進入血流會造成致命性心律不整（心跳停止 asystole），必須稀釋後限速輸注
+周邊靜脈輸注 KCl 的濃度與速度上限是多少？	濃度 ≤10 mEq/100mL（≤0.1 mEq/mL）、速度 ≤10 mEq/hr；更高需走中央靜脈 + ECG 監測（依院規）
+補鉀前一定要先確認哪兩件事？	腎功能與尿量（排鉀能力差者補鉀易變致命高血鉀）
+為什麼難治性低血鉀要先補鎂？	低血鎂會讓腎臟持續漏鉀、補鉀無效，需先矯正低鎂（Magnesium Sulfate）
+高血鉀的心電圖進展順序？	高尖 T 波 → PR 延長/P 波變平 → QRS 增寬 → sine wave → VF/asystole
+DKA 治療時鉀怎麼處理？	胰島素會把 K⁺ 打進細胞，血鉀 <3.3 應先補鉀再給胰島素，治療中預防性補鉀
+血清 K⁺ 每降 0.3 mEq/L 大約缺多少總體鉀？	約缺 100 mEq（粗估，個體差異大）
+口服補鉀緩釋錠使用注意事項？	隨餐配大量水、不可磨碎（避免消化道潰瘍/穿孔），刺激性較液劑低
+哪些藥物與 KCl 併用會增加高血鉀風險？	保鉀利尿劑（spironolactone）、ACEI、ARB、NSAID、trimethoprim
+KCl 的絕對禁忌有哪些？	高血鉀、嚴重腎衰竭/無尿、未矯正 Addison 病，以及禁止 IV push
+5-FC 在真菌細胞內靠哪個酵素轉成 5-FU？	Cytosine deaminase（人類細胞缺乏，故有選擇性）
+5-FU 抗真菌的下游機轉是什麼？	干擾 DNA/RNA 合成（抑制核酸合成與蛋白質合成）
+為什麼 5-FC 幾乎不單獨使用？	單用會快速產生抗藥性，臨床須與 Amphotericin B 併用
+5-FC 最經典的臨床適應症是什麼？	隱球菌腦膜炎誘導期，與 Amphotericin B 併用（協同）
+5-FC 最重要的劑量依賴毒性是什麼？	骨髓抑制（白血球/血小板低下）
+為什麼 5-FC 在腎功能不全時要嚴格調降劑量？	5-FC 主要經腎排除，腎不全會蓄積並增加骨髓毒性
+併用 Amphotericin B 為何會加重 5-FC 毒性？	AmB 腎毒性使 5-FC 排除下降、血中濃度升高
+使用 5-FC 期間必須監測哪些項目？	CBC、LFT、腎功能，以及藥物血中濃度
+5-FC 除骨髓抑制外還有什麼重要毒性？	肝毒性（肝酵素上升）與腸胃道副作用
+為什麼人類使用 5-FC 相對有選擇性？	人類細胞缺乏 cytosine deaminase，不易把 5-FC 轉成 5-FU
+棘白菌素類的抗黴菌機轉是什麼？	抑制真菌細胞壁的 β-1,3-glucan 合成酶，破壞細胞壁完整性
+棘白菌素三個代表藥是什麼？（字尾提示）	Caspofungin、Micafungin、Anidulafungin（字尾都是 -fungin）
+棘白菌素最主要的臨床適應症是什麼？	侵襲性念珠菌病 / 念珠菌血症的第一線經驗治療（尤其血流不穩或疑 azole 抗藥株）
+棘白菌素「打不到」哪些重要真菌？	Cryptococcus（隱球菌）、Fusarium、Mucorales（毛黴菌）、Trichosporon
+棘白菌素對念珠菌與麴菌各是殺菌還是抑菌？	對念珠菌殺菌、對麴菌抑菌（麴菌首選仍是 voriconazole）
+為什麼棘白菌素不適合治療念珠菌泌尿道感染或眼內炎/CNS 感染？	尿中濃度低、對眼房水與中樞神經滲透差
+棘白菌素中哪一個需要依肝功能調整？	Caspofungin（中度肝損減量至維持 35 mg）；Micafungin、Anidulafungin 一般不需
+棘白菌素需要依腎功能調整或被透析清除嗎？	不需依腎功能調整，且不被血液透析清除
+棘白菌素相較 azole 與 amphotericin B 的最大優點是什麼？	安全性高、藥物交互作用少、無嚴重腎毒性
+Caspofungin 與 rifampin 併用要如何調整？	rifampin 為誘導劑，需將 caspofungin 增量至 70 mg QD
+棘白菌素常見的輸注相關反應是什麼？	組織胺媒介的臉潮紅、皮疹（輸注過快尤明顯）
+Terbinafine 的作用機轉是什麼？	抑制 squalene epoxidase（角鯊烯環氧化酶），阻斷麥角固醇合成、角鯊烯堆積殺菌
+Terbinafine 目前是哪種感染的口服首選？	甲癬/灰指甲（onychomycosis）以及皮癬菌感染
+Terbinafine 兩個必記的重要副作用是什麼？	肝毒性（需監測 LFT）與味覺喪失/障礙（dysgeusia）
+Griseofulvin 的作用機轉是什麼？	干擾真菌微管、抑制有絲分裂，並沉積於新生角質
+Griseofulvin 為什麼要與高脂飲食併服？	高脂飲食可顯著增加其口服吸收
+Griseofulvin 對孕婦的關鍵禁忌是什麼？	致畸胎，孕婦禁用，用藥期間需避孕
+Griseofulvin 誘導 CYP450 會影響哪兩個常見藥？	降低 Warfarin 抗凝效果、降低口服避孕藥效（可能避孕失敗）
+Griseofulvin 與酒精併用會發生什麼？	disulfiram-like 反應（潮紅、心悸、噁心）
+Terbinafine 與 Azoles 機轉差異在哪？	都打麥角固醇合成，但 Terbinafine 抑 squalene epoxidase，Azoles 抑 14-α-demethylase
+這兩類藥主要對付哪類真菌？對念珠菌如何？	主要對付皮癬菌（dermatophyte），對念珠菌/酵母菌效果有限
+Fluconazole 的抗黴菌機轉是什麼？	抑制真菌 CYP450（14-α-demethylase），阻斷 ergosterol 合成，破壞細胞膜（三唑類，抑菌型）
+Fluconazole 有哪三個藥動學上的優點？	口服生體可用率極高（>90%，PO=IV）、可穿血腦障壁（BBB）、半衰期長可 QD 給藥
+Fluconazole 對哪些真菌無效或抗藥？	Candida krusei 天然抗藥、C. glabrata 劑量依賴/常抗藥、Aspergillus 完全無效
+念珠菌血症的 fluconazole 劑量怎麼給？	負荷 800 mg（12 mg/kg），之後 400 mg（6 mg/kg）QD；因半衰期長需負荷劑量快速達標
+為什麼 fluconazole 交互作用特別多？	它是強 CYP2C9 / CYP3A4 抑制劑，會拉高 warfarin、phenytoin、statin、sulfonylurea、tacrolimus 等濃度
+單純外陰陰道念珠菌感染的 fluconazole 治法？	150 mg PO 單劑
+隱球菌腦膜炎中 fluconazole 扮演什麼角色？	鞏固期與維持期用藥；急性期用 amphotericin B + flucytosine，之後由 fluconazole 接手
+Fluconazole 在腎功能不良如何調整？	主要經腎排泄，CrCl ≤ 50 維持劑量減半（負荷劑量照給）；透析後補一劑
+Fluconazole 有哪個重要的心臟副作用？	QT 延長 → Torsades de pointes，尤其併用其他延長 QT 藥或電解質異常時
+重症或未知菌種的念珠菌血症為什麼常先用 echinocandin 而非 fluconazole？	echinocandin（如 micafungin）涵蓋 azole 抗藥菌株（C. glabrata/krusei）且殺菌力強，穩定後再依培養降階為 fluconazole
+Amphotericin B 的抗黴菌機轉是什麼？	與黴菌細胞膜的 ergosterol（麥角固醇）結合形成孔洞，導致離子外漏使黴菌死亡（殺黴菌型）
+為什麼 Amphotericin B 被戲稱為 "amphoterrible"？	毒性大——輸注反應（發燒寒顫僵直）+ 劑量依賴性腎毒性 + 低血鉀低血鎂
+Amphotericin B 最需要監測補充的兩個電解質是？	鉀（K⁺）與鎂（Mg²⁺）——腎小管失鉀失鎂顯著，低鉀又加重心律不整
+如何減輕 Amphotericin B 的腎毒性？	給藥前後充分輸注生理食鹽水（saline loading）＋監測 Cr、必要時改脂質體劑型
+脂質體 Amphotericin B（L-AmB / AmBisome）相較傳統 deoxycholate 劑型有何優勢？	毒性顯著較低（腎毒性與輸注反應皆較輕），為現代重症首選
+傳統 deoxycholate Amphotericin B 只能用什麼溶液稀釋、為什麼？	只能用 5% dextrose（D5W）；遇電解質（如生理食鹽水）會沉澱
+毛黴菌病（Mucormycosis）的一線抗黴菌藥是？	Liposomal amphotericin B（L-AmB）——多數 azole 無效，僅 posaconazole/isavuconazole 有效
+隱球菌腦膜炎誘導期的黃金組合是？	Liposomal amphotericin B + flucytosine（5-FC）
+如何減輕 Amphotericin B 的輸注反應？	緩慢輸注（2–4 小時）＋ 前置給藥 acetaminophen ± antihistamine，頑固僵直可用少量 meperidine（依院規）
+Amphotericin B 造成的貧血屬哪種型態、機轉為何？	正常球性正常色素性貧血，因抑制紅血球生成素（EPO）
+Azole 類抗黴菌的共同機轉是什麼？	抑制黴菌 14-α-demethylase（CYP51），阻斷 lanosterol→ergosterol 的合成，使細胞膜缺陷（抑黴菌型）
+為什麼 azole 類是最需要查交互作用的抗黴菌？	它們抑制人體 CYP450（尤其 CYP3A4），會升高 statin、warfarin、tacrolimus 等藥物濃度
+侵襲性麴菌病（Aspergillosis）的首選 azole 是？	Voriconazole
+Voriconazole 最具特徵的副作用是什麼？	視覺障礙（一過性視力模糊、畏光、色覺改變、幻覺），常於初期、多可逆
+哪些 azole 對毛黴菌（Mucor）有效？	Posaconazole 與 isavuconazole（fluconazole/voriconazole 對毛黴菌無效）
+Itraconazole 為什麼在充血性心衰竭禁用？	具負性肌力作用，會惡化心衰竭
+為什麼 Ketoconazole 全身口服已被淘汰？	嚴重肝毒性 + 抑制皮質醇與睪固酮合成（男性女乳症、腎上腺抑制）
+Itraconazole 膠囊的吸收需要什麼條件？	需要胃酸；PPI/H2 blocker/制酸劑會降低其吸收
+Fluconazole 抗菌譜的關鍵缺口是什麼？	對麴菌（Aspergillus）無效，且對 C. krusei / glabrata 效果差
+為什麼 voriconazole 建議做血中濃度監測（TDM）？	CYP2C19 基因多型性使個體代謝差異大，濃度不足療效差、過高毒性大
+Azole 類共通需監測的臟器功能與心電圖變化是？	肝功能（肝毒性）＋ QT 延長
+Nystatin 屬哪一類抗黴菌藥、機轉為何？	多烯類（polyene），結合真菌細胞膜 ergosterol 形成孔洞使內容物外漏，對念珠菌殺菌
+Nystatin 與 amphotericin B 機轉相同，為何一個只能局部用？	Nystatin 幾乎不被腸胃道吸收，全身毒性太適合局部；全身治療用靜脈 amphotericin B
+Nystatin 的主要適應症有哪些？	口腔鵝口瘡、皮膚黏膜念珠菌、陰道念珠菌等局部念珠菌感染
+治療鵝口瘡時 nystatin 懸液的正確用法是什麼？	含漱使藥液充分接觸口腔黏膜停留數分鐘後再吞下（swish and swallow），每日4次
+為什麼 nystatin 不能治療念珠菌血症或侵襲性感染？	不吸收無法達到全身治療濃度，只作用於接觸到的黏膜表面
+食道念珠菌感染為何不能只用 nystatin？	食道侵犯屬全身性治療範疇，需 fluconazole 等全身性藥物，局部 nystatin 不足
+Nystatin 的副作用為什麼很少？	幾乎不吸收，故無全身性腎毒性或輸注反應，主要僅口感苦與局部刺激
+使用吸入型類固醇者反覆口腔念珠菌該如何預防？	每次吸藥後漱口，並檢視免疫、血糖等背景因素
+假牙病人治療口腔念珠菌要額外做什麼？	假牙一併浸泡消毒，避免真菌殘留再感染
+Nystatin 有靜脈劑型嗎？	沒有；需要全身多烯類治療時使用 amphotericin B
+Vasopressin 的兩種受體與各自作用？	V1（血管平滑肌）→ 強力收縮血管升壓；V2（腎集尿管）→ 插入 aquaporin 抗利尿保水
+Vasopressin 升壓為什麼對心律影響較小？	它作用於 V1 受體收縮血管，不經腎上腺素受體（非兒茶酚胺），故較少直接引起心搏過速
+Vasopressin 的三大臨床用途？	① 敗血性休克第二線升壓（加在 norepinephrine 上）② 食道靜脈瘤出血（內臟血管收縮止血）③ 中樞性尿崩症（補充 ADH）
+敗血性休克 vasopressin 的常規劑量與 titration 特點？	固定 0.03 U/min IV 輸注加在 norepinephrine 之上；一般不依血壓大幅 titrate（避免過量缺血），目的是減少兒茶酚胺用量
+Vasopressin 最需警覺的缺血併發症有哪些？	指趾/肢體缺血壞死、腸繫膜缺血、心肌缺血；建議中央靜脈給藥、密切看末梢與腹部
+Vasopressin 的 V2 作用會造成什麼電解質異常？	抗利尿留水 → 稀釋性低血鈉，需監測血鈉
+為什麼食道靜脈瘤出血現在多改用 terlipressin？	純 vasopressin 全身缺血副作用大；terlipressin 較選擇性、副作用較少（若用 vasopressin 常合併 nitroglycerin 減少心臟缺血）
+Vasopressin 在 2020 ACLS 心跳停止流程的地位如何？	已被移除，因不優於 epinephrine
+哪些病人用 vasopressin 要特別謹慎？	冠狀動脈疾病/心肌缺血、周邊血管疾病、腸繫膜缺血病史、嚴重心衰、低血鈉
+中樞性尿崩症門診多用哪個 vasopressin 類似物？	desmopressin（DDAVP，選擇性 V2、抗利尿為主、血管收縮少）
+Milrinone 的機轉是什麼？	抑制磷酸二酯酶 III（PDE3）使 cAMP 上升；心肌增強收縮力、血管擴張降前後負荷 → inodilator（強心+血管擴張）
+為什麼 milrinone 對長期用 β-blocker 的心衰病人仍有效？	它作用在 β 受體下游（抑 PDE3、cAMP↑），不經 β 受體，故 β-blocker 或 β 受體下調病人仍有效
+Milrinone 相較 dobutamine 最需警覺的兩個問題？	低血壓（血管擴張）與心律不整；另外 milrinone 經腎排出、半衰期較長會蓄積
+Milrinone 的排泄途徑與半衰期特點？	主要經腎排出，半衰期約 2.3 小時、腎功能不良時延長蓄積，需依 CrCl 減量；停藥後作用退得慢
+為什麼血流動力不穩時常省略 milrinone 的 loading dose？	loading（50 mcg/kg over 10 分）常致血壓驟降，不穩者省略 bolus 直接維持輸注較安全
+Milrinone 對右心衰 / 肺高壓為什麼特別有利？	血管擴張可降低肺血管阻力、減輕右心後負荷，同時增強收縮力
+Milrinone 長期口服為什麼被禁用於慢性治療？	PROMISE trial 顯示長期口服增加死亡率（心律不整），故僅限短期靜脈使用
+哪些瓣膜/心肌病病人應避免 milrinone？	重度主動脈瓣狹窄、肥厚性阻塞型心肌病等嚴重阻塞性病變（增強收縮/降後負荷會惡化血流動力）
+Milrinone 常與哪類藥併用、為什麼？	常與升壓劑（如 norepinephrine）併用，以對抗其血管擴張造成的低血壓、維持灌流
+使用 milrinone 期間主要監測哪些項目？	連續血壓/MAP、心電圖（心律不整）、心輸出、腎功能、鉀、容積狀態與末梢灌流
+Dobutamine 的主要受體作用與血流動力學效果？	β1 為主（β1 > β2 >> α1）；增強心收縮力、提高心輸出量（CO），β2 輕度擴血管常使 SVR/血壓略降
+Dobutamine 屬於升壓劑還是正性肌力藥？	正性肌力藥（inotrope）——增加的是收縮力/CO，不是直接升壓；低血壓者常需併用升壓劑
+Dobutamine 的主要適應症？	心因性休克、急性失代償性心衰（低 CO、灌流不足的「cold」表型）短期血流動力學支持
+Dobutamine 常見起始與滴定劑量範圍？	起始 2–5 mcg/kg/min，常用範圍 2–20 mcg/kg/min，依 CO/灌流/心律調整
+為什麼低血壓病人單用 dobutamine 可能更糟？	β2 血管擴張會降低 SVR/血壓，SBP 過低者需先/併用 norepinephrine 撐住 MAP
+Dobutamine 的主要心臟風險是什麼？	增加心肌耗氧、誘發心搏過速與心律不整（房顫、室性），冠心病者可惡化缺血
+Dobutamine 可以 IV push 嗎？	不可；半衰期約 2 分鐘，須 infusion pump 連續泵注滴定
+哪種心肌病是 dobutamine 的禁忌？	肥厚型阻塞性心肌病（HOCM/IHSS）——增強收縮力加重左室流出道阻塞
+心因性休克常見的「升壓 + 強心」組合是什麼？	norepinephrine 撐住 MAP + dobutamine 提升 CO
+Dobutamine 與非選擇性 β 阻斷劑併用會怎樣？	β 效應被拮抗、療效下降（α 效應相對凸顯可能反而升壓）
+Norepinephrine 的主要受體作用與血流動力學效果？	α1 > β1；強力血管收縮升高 SVR 拉高 MAP，中度正性肌力，α 為主
+敗血性休克的第一線升壓劑是哪一個？	Norepinephrine（Surviving Sepsis 首選，目標 MAP ≥ 65 mmHg）
+Norepinephrine 為什麼首選中央靜脈導管給藥？	強力 α1 血管收縮，外滲會致組織缺血壞死，故經 central line 泵注最安全
+Norepinephrine 外滲的處置藥物是什麼？	局部浸潤注射 phentolamine（α 拮抗劑）逆轉血管收縮，並立即停該 line、抽回殘液
+Norepinephrine 常見起始劑量範圍？	約 0.05–0.1 mcg/kg/min（或 ~5 mcg/min）起始，依 MAP 滴定，常見 0.05–0.5 mcg/kg/min
+為什麼 Norepinephrine 較不易誘發心律不整（相對 adrenaline/dopamine）？	以 α1 為主、β 效應相對少，且升壓後反射性心搏減緩
+使用 Norepinephrine 前的重要前提是什麼？	先/同時做容積復甦，不可單以升壓劑掩蓋低血容量
+Norepinephrine 可以 IV push（bolus）嗎？	不可；半衰期極短需 infusion pump 連續泵注滴定
+Norepinephrine 劑量表達有哪兩種、有何陷阱？	mcg/min（固定）與 mcg/kg/min（體重校正）；交班需講清楚避免十倍誤差
+Norepinephrine 與 MAO 抑制劑或 TCA 併用有何風險？	升壓效應被大幅加強，可能引發嚴重高血壓危象，需大幅減量並嚴密監測
+Atropine 的作用機轉是什麼？	阻斷 muscarinic 膽鹼受體，拮抗迷走神經 → 加快心率、加速 AV 傳導
+ACLS 症狀性心搏過緩 Atropine 的劑量與上限？	1 mg IV，每 3–5 分鐘一次，最多 3 mg
+為什麼 Atropine 單劑不能給太低（<0.5mg）？	小劑量可能造成反常性（中樞性）心搏過緩
+哪些心搏過緩對 Atropine 常無效、該怎麼辦？	Mobitz II 型二度、三度 AV block（阻斷點在 node 以下）、移植心臟；應改用經皮節律器或 dopamine/epinephrine infusion
+有機磷中毒 Atropine 怎麼給、終點是什麼？	2–4mg 起每 3–5 分倍增，titrate 到呼吸道分泌物乾掉（atropinization 終點是肺部乾淨）
+抗膽鹼中毒的典型症候群怎麼記？	紅、乾、熱、盲、瘋、脹（hot/dry/red/blind/mad，加尿滯留腸阻）
+Atropine 為什麼會造成發燒、皮膚乾熱？	阻斷汗腺的膽鹼傳導 → 無汗 → 散熱障礙，兒童老人特別危險
+心臟移植病人心搏過緩為何 atropine 無效？	去神經心臟沒有迷走張力可阻斷
+Atropine 有哪些常見禁忌（非急救時）？	閉角性青光眼、前列腺肥大/尿滯留、腸阻塞、重症肌無力
+有機磷中毒除了 atropine 還要合併什麼藥？	Pralidoxime（2-PAM），重活化膽鹼酯酶（處理菸鹼症狀/肌肉無力）
+Adenosine 終止 SVT 的機轉是什麼？	活化 AV node 的 A1 腺苷受體，短暫完全阻斷 AV node 傳導，中斷折返性 SVT
+Adenosine 的第一劑與第二劑劑量分別是多少？	6 mg，無效後 12 mg（極速 IV push）
+為什麼 Adenosine 一定要極速 IV push 並立刻沖生理食鹽水？	半衰期 <10 秒，若不快推快沖，藥還沒到心臟就被代謝掉，等於沒給
+Adenosine 給藥後病人短暫 asystole、胸悶、瀕死感，代表什麼？	這是預期反應（藥效導致短暫心臟停跳），數秒內自行恢復，事前要告知病人與團隊
+哪些情況要把 Adenosine 起始劑量減到 3mg？	中央靜脈給藥、心臟移植病人、併用 dipyridamole 或 carbamazepine
+Theophylline / caffeine 對 Adenosine 有什麼影響？	拮抗腺苷受體，減弱效果，可能需要加量
+Adenosine 對 AF、atrial flutter、VT 有效嗎？	無終止效果，但可短暫阻斷 AV node 揭露 flutter 波幫助診斷
+為什麼 WPW 併心房顫動不能給 Adenosine？	阻斷 AV node 可能反使旁路加速傳導，惡化成 VF
+給 Adenosine 前應該先做什麼非藥物處置？	迷走刺激（Valsalva、改良式抬腿 Valsalva、頸動脈竇按摩）
+Adenosine 只適用於哪一種血流動力學狀態的 SVT？	血流動力學穩定的規則窄 QRS SVT；不穩定則直接同步電擊
+Digoxin 的正性肌力機轉是什麼？	抑制 Na⁺/K⁺-ATPase → 細胞內 Na⁺↑ → Na/Ca 交換使 Ca²⁺↑ → 心肌收縮增強
+Digoxin 如何減慢心率？	增加迷走張力，減慢 AV node 傳導
+心衰竭使用 Digoxin 較安全的目標血中濃度是多少？	0.5–0.9 ng/mL（AF rate control 可到 0.5–2.0）
+哪些電解質異常會加重 Digoxin 毒性？	低鉀、低鎂、高鈣（利尿劑併用最常誘發）
+Digoxin 中毒的典型視覺症狀是什麼？	黃綠視、光暈、視力模糊
+Digoxin 中毒特徵性的心律不整是什麼？	雙向性室性心搏過速（bidirectional VT），以及 PVC、AF 併完全 AV block、加速交界節律
+Digoxin 中毒危及生命時的解毒劑是什麼？	Digoxin immune Fab（DigiFab）
+哪些藥會顯著升高 Digoxin 濃度？	amiodarone、verapamil、quinidine（常需把 digoxin 減半）
+「毛地黃效應」的心電圖變化是中毒嗎？	不是；治療濃度即會出現杓狀（scooped）ST 下降、T 波變平/反轉，屬正常變化，需與缺血鑑別
+為什麼老人與腎功能不全者要減量 Digoxin？	Digoxin 主要經腎排除，腎功能差會使濃度累積飆升致中毒
+Dopamine 低劑量（2–5 mcg/kg/min）作用在什麼受體、有何效果？	Dopaminergic（D1），腎/腸系膜血管擴張（腎劑量，現已不推薦用於腎保護）
+Dopamine 中劑量（5–10 mcg/kg/min）作用在什麼受體？	β1 為主 → ↑心收縮力、心率、心輸出
+Dopamine 高劑量（10–20 mcg/kg/min）作用在什麼受體？	α1 為主 → 血管收縮、↑SVR、↑血壓
+為什麼多數休克現在首選 norepinephrine 而非 dopamine？	SOAP II 顯示 dopamine 心律不整發生率較高，norepinephrine 較安全
+Dopamine infusion 為什麼要走中央靜脈？	強 α 血管收縮，外滲會造成組織壞死；外滲用 phentolamine 解
+Dopamine 在 ACLS 用於哪個情境？	症狀性心搏過緩、atropine 無效或等待節律器時（infusion 5–20 mcg/kg/min）
+Dopamine 與 MAOI 併用會怎樣？	升壓效應被大幅放大，需大幅減量
+Dopamine 最主要的嚴重副作用是什麼？	心律不整（劑量越高越明顯）與心肌缺血、外滲壞死
+「腎劑量」dopamine 現在的臨床地位如何？	已不建議用於腎保護，證據不支持
+Dopamine 外滲導致末梢缺血怎麼處理？	局部注射 phentolamine（α 拮抗）逆轉血管收縮
+NTG 的血管擴張機轉是什麼？	釋放 NO → ↑cGMP → 血管平滑肌鬆弛，以靜脈擴張為主降低前負荷（preload）
+急性胸痛的舌下 NTG 怎麼給？	0.3–0.4 mg SL，每 5 分鐘一次，最多 3 次；仍痛疑 ACS 就醫
+為什麼下壁 MI / 右心室梗塞要禁用或極謹慎給 NTG？	這類病人前負荷依賴，NTG 降 preload 會造成嚴重低血壓/休克
+用過威而鋼（sildenafil）多久內不能給 NTG？	24 小時內（tadalafil 48 小時）；併用會致命性低血壓，是絕對禁忌
+NTG 最常見的副作用是什麼？	搏動性頭痛（也常見潮紅、姿勢性低血壓、反射性心搏過速）
+NTG 的 IV drip 起始劑量與調整？	5–10 mcg/min 起，每 3–5 分鐘增加 5–10，titrate 到症狀/血壓（維持 SBP >90）
+給 NTG 時血壓要維持在哪個底線？	SBP >90（或不低於基礎值 25%）
+為什麼長期使用 NTG 要保留 nitrate-free interval？	避免產生耐受性（tolerance），每日留 10–12h 無藥時段
+除了 ACS，NTG 還常用於哪些急症？	急性肺水腫、高血壓危症、冠狀動脈痙攣
+主動脈瓣狹窄或 HOCM 為何要小心 NTG？	前負荷依賴，降 preload 可致暈厥甚至猝死
+Amiodarone 屬於哪一類抗心律不整藥、主要機轉？	Class III（阻斷 K⁺ channel 延長動作電位與 QT），兼具 I/II/IV 類特性
+電擊無效的 VF / 無脈性 VT，Amiodarone 怎麼給？	300 mg IV/IO push，無效再給 150 mg
+穩定型 VT 的 Amiodarone 給法？	150 mg IV over 10 min，接著 1 mg/min ×6h → 0.5 mg/min ×18h
+Amiodarone IV 快速輸注最常見的急性副作用？	低血壓與心搏過緩（部分因賦形劑 polysorbate 80）
+Amiodarone 最致命的長期器官毒性是什麼？	肺纖維化 / 間質性肺炎
+為什麼 Amiodarone 會造成甲狀腺功能異常？	分子含大量碘，可致高甲（AIT）或低甲（AIH）
+Amiodarone 與 warfarin、digoxin 併用要注意什麼？	會升高兩者濃度，warfarin 出血風險、digoxin 中毒；需減量（digoxin 約減半）並監測
+長期使用 Amiodarone 需要定期監測哪些項目？	TFT、LFT、CXR/肺功能、眼科、心電圖 QT
+Amiodarone 導致的皮膚變化是什麼？	光敏感與藍灰色皮膚變色
+Amiodarone 24 小時總劑量上限大約是多少？	約 2.2 g
+心跳停止（ACLS）時 Epinephrine 的劑量、濃度、途徑、頻率？	1 mg（1:10,000）IV/IO push，每 3–5 分鐘一次，推後沖 20mL
+過敏性休克時 Epinephrine 的劑量、濃度、途徑？	0.3–0.5 mg（1:1,000）IM 打大腿外側（vastus lateralis）
+1:1,000 與 1:10,000 分別是多少 mg/mL、各用在什麼情境？	1:1,000＝1mg/mL（IM，過敏）；1:10,000＝0.1mg/mL（IV，心跳停止，10mL 一支＝1mg）
+為什麼過敏性休克不能像心跳停止那樣 IV push 1mg？	高劑量 IV 會誘發致命性高血壓、心律不整、腦出血；過敏用低劑量 IM
+Epinephrine 作用在哪些受體、各產生什麼效果？	α1（血管收縮↑SVR）、β1（↑心收縮力與心率）、β2（支氣管擴張）
+過敏時 Epinephrine 為何選大腿外側 IM 而非 SC 或三角肌？	大腿外側（vastus lateralis）吸收最快最穩定
+非選擇性 β-blocker 病人打 Epinephrine 會怎樣？	β 被阻斷只剩無對抗的 α 作用 → 反常性嚴重高血壓 + 反射性心搏過緩
+Epinephrine infusion 外滲造成組織壞死怎麼處理？	強 α 血管收縮所致；用 phentolamine 局部注射解，高濃度應走中央靜脈
+小兒心跳停止 Epinephrine 劑量怎麼算？	0.01 mg/kg（0.1 mL/kg of 1:10,000）IV/IO，Q3–5min
+Epinephrine 用於升壓 infusion 的常見範圍？	2–10 mcg/min（心搏過緩）或 0.01–0.5 mcg/kg/min（休克），titrate 到目標
+Ezetimibe 的機轉是什麼？	抑制小腸 NPC1L1 轉運蛋白，減少膽固醇吸收 → 降 LDL
+Ezetimibe 單用大約能降多少 LDL？	約 18–25%
+Ezetimibe 在臨床上的主要定位？	statin 已最大耐受劑量仍未達標時的加成藥（或 statin 不耐替代）
+哪個試驗證實 statin + ezetimibe 進一步降心血管事件？	IMPROVE-IT
+Ezetimibe 的標準劑量？	10 mg PO QD（單一劑量，不需滴定）
+Ezetimibe 與哪類降脂藥併用需間隔服用？為什麼？	膽酸結合樹脂；樹脂會結合 ezetimibe 降低吸收
+Ezetimibe 的副作用特性？	一般耐受良好、副作用少；與 statin 併用時肝酵素/肌肉症狀可能加乘
+Fibrate 的機轉是什麼？	PPAR-α 促效劑，活化 lipoprotein lipase 加速 VLDL/TG 分解
+Fibrate 主要降什麼血脂？	主降三酸甘油酯（TG）、升 HDL；降 LDL 有限
+Fibrate 的首要臨床適應症？	嚴重高 TG（>500）預防急性胰臟炎
+哪個 fibrate 與 statin 併用肌病風險最高？該選哪個？	gemfibrozil 最高（抑制 statin glucuronidation）；併 statin 應選 fenofibrate
+為什麼不能用 fibrate 取代 statin 做 ASCVD 預防？	fibrate 降 LDL 效果與心血管保護遠不如 statin
+Fibrate 特有的膽道相關副作用？	增加膽固醇性膽結石風險
+Gemfibrozil 的標準劑量？	600 mg PO BID（餐前 30 分）
+Fibrate 與 warfarin 併用要注意什麼？	增強 warfarin 藥效、INR 升高，需回驗 INR
+Fenofibrate 在腎功能不全時如何處理？	依 CrCl 減量，嚴重腎衰禁用；可致可逆 creatinine 上升
+Statin 的機轉是什麼？	抑制 HMG-CoA reductase（膽固醇合成限速酶）→ 上調肝 LDL receptor → 清除血中 LDL
+Statin 最需警覺的肌肉相關嚴重副作用？如何偵測？	橫紋肌溶解（rhabdomyolysis）；肌肉痛 + CK 大幅上升 ± 深色尿
+哪兩種是 high-intensity statin？	Atorvastatin 40–80mg、Rosuvastatin 20–40mg（LDL 降 ≥50%）
+哪個 fibrate 與 statin 併用肌病風險最高？為什麼？	Gemfibrozil；它抑制 statin 的 glucuronidation 使濃度升高
+短效 statin（如 simvastatin）為何建議睡前服？	膽固醇合成在夜間最旺盛，睡前服效果較佳
+哪些 statin 較不依賴 CYP3A4、交互作用較少？	Rosuvastatin、Pravastatin、Pitavastatin
+Statin 為何孕婦禁用？	膽固醇為胎兒發育所需，statin 可能致畸
+Statin 有無症狀輕度肝酵素上升該停藥嗎？	不需，只有明顯上升（>3× ULN）或症狀性才停
+LDL 用 statin 未達標可加哪些藥？	Ezetimibe 或 PCSK9 抑制劑
+Statin 與 CYP3A4 抑制劑（如 clarithromycin、葡萄柚汁）併用的風險？	升高 simvastatin/atorvastatin 濃度，增加肌病/橫紋肌溶解
+膽酸結合樹脂的機轉是什麼？	腸道結合膽酸、阻斷腸肝循環 → 肝耗膽固醇造膽酸 → 上調 LDL receptor 降 LDL
+膽酸結合樹脂為何全身安全、可用於孕婦？	藥物不被吸收，只在腸道作用
+膽酸結合樹脂對三酸甘油酯的影響？臨床限制？	可能升高 TG；嚴重高 TG（>400）者慎用/禁用
+膽酸結合樹脂最常見、限制順從性的副作用？	便秘、腹脹、脹氣等腸胃不適
+膽酸結合樹脂與其他口服藥該如何安排服用時間？	其他藥須錯開（樹脂前 1h 或後 4h），避免結合降吸收
+膽酸結合樹脂長期使用可能造成哪類維生素缺乏？	脂溶性維生素 A/D/E/K（vit K↓ 可影響凝血/INR）
+哪個膽酸結合樹脂腸胃耐受較佳、藥物交互較少？還有什麼額外好處？	Colesevelam；額外可輔助降血糖（第 2 型糖尿病）
+膽酸結合樹脂與 warfarin 併用要注意什麼？	結合 warfarin + 減 vit K 吸收 → INR 波動，需錯開並監測
+Niacin 的降脂機轉是什麼？	抑制脂肪組織脂解與肝 VLDL 合成，降 TG/LDL、升 HDL
+Niacin 在降脂藥中對哪項血脂效果最強？	升 HDL（升高幅度最強）
+Niacin 招牌副作用 flushing 由什麼介導？如何減緩？	prostaglandin（PGD2）；服藥前 30 分給 aspirin、隨餐、緩慢滴定
+Niacin 對血糖與尿酸的影響？	惡化高血糖（增胰島素阻抗）、升尿酸誘發痛風
+為什麼 niacin 臨床已少用？	AIM-HIGH/HPS2-THRIVE 未顯示心血管 outcome 益處反增副作用
+Niacin 的緩釋劑型有什麼特別風險？	肝毒性風險較高
+Niacin 與 statin 併用需注意？	增加肌病風險
+Niacin 對心血管的教訓說明什麼概念？	升高 HDL 不等於帶來心血管益處
+第二代（atypical）抗精神病藥的核心機轉與相較第一代的優缺點？	拮抗 D2 + 5-HT2A；優點 EPS 與高泌乳素較少，缺點代謝症候群（體重/血糖/血脂↑）明顯
+值班遇到譫妄躁動，尤其帕金森/Lewy body 病人，SGA 首選哪一支、為什麼？	低劑量 quetiapine；D2 阻斷最弱、EPS 最少，較不惡化錐體外症狀
+Clozapine 最著名需定期監測的致命血液副作用是什麼？如何監測？	顆粒球缺乏症 agranulocytosis；需定期監測 ANC/CBC，ANC < 500 立即停藥
+Clozapine 除了 agranulocytosis 還有哪兩大致命風險？	① 心肌炎/心肌病變（早期胸痛、troponin/CK-MB/嗜酸性球↑）② 癲癇閾值下降（高劑量劑量依賴）；另有便祕致腸阻塞
+哪兩支 SGA 代謝副作用（增重、血糖、血脂）最嚴重？	olanzapine 與 clozapine；可誘發 DKA / 高血糖高滲透壓（HHS）
+Risperidone 相較其他 SGA 最突出的副作用是什麼？	高泌乳素血症（溢乳、月經失調、性功能障礙）；且劑量升高 EPS 增加
+Aripiprazole 機轉有何特別、副作用特點？	D2 部分促效（partial agonist）；代謝/泌乳素/鎮靜最輕，但易致靜坐不能與失眠
+抽菸對 clozapine / olanzapine 血中濃度的影響？	菸誘導 CYP1A2 加速代謝；戒菸或住院禁菸時濃度驟升，需監測與減量
+Olanzapine IM 針劑與何者併用會造成嚴重心肺抑制？	腸道外 benzodiazepine（IM/IV BZD）；兩者併用致嚴重低血壓與心肺抑制，應避免
+失智症老人使用任何抗精神病藥的重要警示？	黑框警告增加死亡率（心血管/感染/中風）；非首選，用最低劑量最短療程
+EPS 四型依「發作時序由快到慢」排列為何？	急性肌張力不全（數小時–數天）→ 靜坐不能（數天–數週）→ 藥物性帕金森（數週–數月）→ 遲發性運動異常（數月–數年）
+急性肌張力不全（acute dystonia）的第一線處置？	抗膽鹼藥——benztropine 1–2mg IM/IV 或 diphenhydramine 25–50mg IM/IV
+靜坐不能（akathisia）的正確處置？為何不能加抗精神病藥？	減抗精神病藥劑量 + propranolol（β-blocker），或加 BZD；加抗精神病藥會被誤當精神病惡化而越加越糟
+遲發性運動異常（TD）的處置原則、為何禁抗膽鹼？	停 / 減藥或換 clozapine、用 VMAT2 抑制劑（valbenazine）；抗膽鹼會「惡化」TD 故禁用
+NMS 的五大臨床特徵？	高燒、鉛管樣僵直、意識改變、自主神經不穩、CK 大幅升高（常合併白血球升高）
+NMS 的處置三步驟？	立即停所有抗精神病藥 + 支持治療（降溫 / 輸液 / 電解質）+ dantrolene（解僵直）± bromocriptine（DA 促效）
+NMS 與血清素症候群如何鑑別？	NMS＝鉛管樣僵直、反射↓、數天緩起；血清素症候群＝陣攣 clonus、反射亢進、腹瀉、數小時急起
+藥物性帕金森的處置？	減量 / 換非典型抗精神病藥 + benztropine 或 amantadine
+哪一類止吐劑也會引起 EPS？	多巴胺拮抗類止吐劑，如 metoclopramide、prochlorperazine
+「dystonia 與 TD 都是運動障礙，處置卻相反」指的是什麼？	dystonia 要「給」抗膽鹼；TD 則「禁」抗膽鹼（會惡化），是常見錯誤
+NMS 為何要監測 CK 與腎功能？	肌肉持續僵直造成橫紋肌溶解，CK 大幅升高並可致急性腎損傷
+MAOI 的基本機轉是什麼？	抑制單胺氧化酶（MAO-A / MAO-B），阻止正腎上腺素 / 血清素 / 多巴胺被分解，使神經傳導物累積
+Tyramine 高血壓危象是怎麼發生的？	不可逆 MAOI 併用高酪胺食物，tyramine 無法被分解，大量釋放正腎上腺素造成高血壓危象
+哪些食物是高酪胺、服用不可逆 MAOI 時要避免？	陳年起司、醃製 / 煙燻肉品、紅酒 / 生啤、發酵豆製品、蠶豆等
+血清素症候群會在 MAOI 與哪些藥併用時發生？	SSRI / SNRI / TCA / meperidine（pethidine）/ tramadol / dextromethorphan / linezolid 等血清素能藥物
+MAOI 與其他抗憂鬱互換的洗滌期一般多久？Fluoxetine 例外多久？	一般約 2 週；Fluoxetine 因半衰期長需約 5 週
+Moclobemide 屬於哪一類？為何相對安全？	可逆性 MAO-A 選擇性抑制劑（RIMA），tyramine 可競爭性置換藥物，飲食 / 藥物交互作用風險較低
+Selegiline 低劑量的選擇性與用途是什麼？	低劑量選擇性抑制 MAO-B，用於帕金森氏症
+Selegiline 高劑量或貼片劑型有什麼隱憂？	會失去 MAO-B 選擇性，恢復 tyramine 高血壓危象的風險
+MAOI 在現代憂鬱症治療中的地位為何？	多為三、四線用藥，用於難治型 / 非典型憂鬱，因交互作用多已被 SSRI / SNRI 取代
+除了食物，還有哪類常見成藥與 MAOI 併用會誘發高血壓危象？	含擬交感神經成分的感冒藥 / 鼻塞藥（pseudoephedrine / phenylephrine）
+SNRI 的作用機轉為何？與劑量有什麼關係？	同時抑制 5-HT 與 NE 再回收；低劑量偏血清素（SRI）作用，高劑量才顯現正腎上腺素（NRI）作用
+Venlafaxine 高劑量最需監測的副作用是什麼？	劑量依賴性高血壓（NE 作用增強），須量血壓
+SNRI 為什麼容易出現停藥（戒斷）症候群？典型症狀是？	半衰期短（venlafaxine 尤甚），突停會出現頭暈、電擊感（brain zaps）、噁心、焦慮、流感樣症狀；停藥須逐步減量
+哪一個 SNRI 特別用於神經病理性疼痛與纖維肌痛？	Duloxetine（糖尿病神經痛、纖維肌痛、慢性肌肉骨骼痛）
+Duloxetine 有哪個重要器官毒性、應避免哪類病人？	肝毒性；避免用於慢性肝病或大量飲酒者
+SNRI 併用 MAOI 有何風險？間隔多久？	血清素症候群 / 高血壓危象，須 washout ≥ 14 天
+SNRI 最常見的初期副作用是什麼？	噁心（通常初期，多可耐受後緩解）
+SNRI（及所有抗憂鬱藥）的黑框警語針對哪個族群？	年輕族群（< 25 歲）自殺意念增加
+Venlafaxine 的活性代謝物是什麼？經何處排泄需注意？	Desvenlafaxine；經腎排泄，腎功能不全需減量
+開 SNRI 前為何要先篩雙相情感疾患？	未診斷的雙相病人使用抗憂鬱藥可能誘發轉躁
+SSRI 的機轉與臨床定位？	選擇性抑制突觸前 5-HT（血清素）回收提升突觸濃度；憂鬱與焦慮症第一線，較 TCA 過量安全、心毒性低
+SSRI 抗憂鬱起效需要多久？初期病人常先感受到什麼？	情緒改善需 2–4 週（充分試驗 4–6 週）；初期常先出現副作用（噁心、焦躁、失眠）
+血清素症候群的三大類表現與處置？	神經肌肉亢進（陣攣/反射亢進/肌僵）+ 自律神經不穩（高燒/心搏過速/出汗）+ 意識改變；停藥、支持降溫、BZD，嚴重用 cyproheptadine
+SSRI 與 MAOI 之間需間隔多久？fluoxetine 為何不同？	一般至少 14 天；fluoxetine 半衰期極長需間隔約 5 週，避免血清素症候群
+哪些族群使用 SSRI 特別容易低鈉血症 / SIADH？	老人、併用利尿劑者；新開藥數週內意識改變/倦怠應驗 Na⁺
+哪些 SSRI 停藥症候群最明顯、哪個最不明顯？	paroxetine、sertraline（短半衰期）最明顯（頭暈、電擊感 brain zaps）；fluoxetine 半衰期長最不明顯
+Citalopram 有何劑量限制、原因為何？	劑量依賴 QT 延長；成人上限 40 mg，老人/肝損/CYP2C19 抑制 ≤ 20 mg
+孕哺期 SSRI 首選與應避免者分別為何？	sertraline 常為首選；paroxetine 孕期較不建議（心臟畸形疑慮）
+SSRI 的黑框警語針對哪個族群？	青少年與年輕成人（< 25 歲）治療初期自殺意念增加，需密切追蹤
+fluoxetine 與 paroxetine 共同的重要藥物交互機轉？	強效 CYP2D6 抑制，會升高 TCA、部分 β-blocker 濃度、並可能使 tamoxifen 失效
+Lithium 的主要臨床適應症是什麼？有何獨特益處？	雙相情感疾患的急性躁症治療與長期維持；獨特能降低自殺風險
+Lithium 的治療血中濃度範圍與中毒/危急閾值？	治療 0.6–1.2 mEq/L；> 1.5 中毒；> 2.5 危及生命（考慮血液透析）
+哪些藥物與狀況會升高鋰濃度而致中毒？	脫水/低鈉、NSAID、Thiazide 利尿劑、ACEI/ARB（皆減少腎鋰排泄）
+Lithium 中毒的漸進性表現為何？	早期粗大震顫、噁心腹瀉、無力 → 共濟失調、構音障礙、意識改變 → 抽搐、昏迷、心律不整
+Lithium 的兩大長期毒性是什麼？	甲狀腺功能低下（甲狀腺腫）與腎性尿崩症（nephrogenic DI）／慢性腎損傷
+Lithium 在孕婦會造成何種胎兒畸形？	Ebstein anomaly（三尖瓣下移的心臟畸形），第一孕期尤須避免
+驗鋰濃度的正確時機是什麼？	調藥後穩態約 5 天再驗，且抽在下次給藥前（trough，通常上次給藥後 12 小時）
+Lithium 主要經何處排泄？這對交互作用有何意義？	幾乎完全經腎排泄，故任何影響腎血流/鈉平衡（脫水、NSAID、利尿劑、ACEI/ARB）的因素都會改變鋰濃度
+Lithium 中毒的處置原則為何？	停藥、以生理食鹽水積極水化恢復腎排泄、監測濃度電解質；嚴重（> 2.5 或神經/腎衰）行血液透析
+用 Lithium 前應做哪些基線檢查？	腎功能、TSH（甲狀腺）、電解質、（有心臟史）EKG、育齡女性驗孕
+Haloperidol 屬哪類抗精神病藥、主要機轉？	第一代（typical）高效價 butyrophenone；強力拮抗 D2 受體
+值班處理急性躁動，Haloperidol 成人常用劑量？	2–5 mg IM/IV，可 Q4–6H 重複；輕度或老人從 0.25–2 mg 起減量
+譫妄用 Haloperidol 的原則？	低劑量短期控制躁動（老人 0.25–0.5 mg 起），只是症狀控制不治本，須先找並處理誘因，並監測 QT
+Haloperidol 引起急性肌張力不全（眼球上吊/斜頸/喉痙攣）如何處理？	立即給抗膽鹼藥 benztropine 1–2 mg IM/IV 或 diphenhydramine 25–50 mg IM/IV；喉痙攣為急症
+Haloperidol 哪種給藥途徑 QT/Torsades 風險最高？	IV（FDA 警告為非仿單用法，需連續心電監測）；給藥前查 QTc 與 K⁺/Mg²⁺
+相較 chlorpromazine，Haloperidol 的副作用特點？	EPS（錐體外症狀）最多，但鎮靜、姿勢性低血壓與抗膽鹼作用較少（高效價特徵）
+Haloperidol 在哪類失智/帕金森病人應避免？	Parkinson's disease 與 Lewy body 失智（D2 阻斷惡化 EPS）；此類躁動改用 quetiapine 或 clozapine
+NMS（抗精神病藥惡性症候群）的四大特徵與處置？	高燒、肌肉僵硬、意識改變、自律神經不穩（CK 上升）；立即停藥、支持治療、dantrolene / bromocriptine
+Akathisia（靜坐不能）為何容易誤判？	表現坐立難安、焦躁，常被誤認為躁動加重而錯誤加量 haloperidol，實為 EPS，應減量或處理
+失智症老人使用 haloperidol 有何重要警示？	黑框警告增加死亡率（心血管/感染），非首選，用最低劑量最短療程
+TCA（三環抗憂鬱劑）的核心抗憂鬱機轉為何？	抑制 NE（正腎上腺素）與 5-HT（血清素）再回收，提升突觸單胺濃度
+TCA 的多數副作用來自阻斷哪三種受體？	Muscarinic（抗膽鹼：口乾便秘尿滯留視力模糊譫妄）、H1（鎮靜、體重增加）、α1（姿勢性低血壓）
+TCA 過量的致死三聯徵「3C」是什麼？	Cardiotoxicity（心臟毒性，QRS 增寬）、Convulsion（抽搐）、Coma（昏迷）
+TCA 過量出現 QRS > 100 ms 時的關鍵處置是什麼？	靜脈給 NaHCO₃（碳酸氫鈉），鹼化血液並提供 Na⁺ 逆轉 Na⁺ 通道阻斷、縮窄 QRS 穩定心肌
+為什麼 TCA 對有自殺風險的病人要特別小心？	治療窗窄、過量致死性高（約一週劑量即可致命），須少量給藥並密切追蹤
+Imipramine 有哪個經典的兒科適應症？	兒童夜間遺尿症（nocturnal enuresis）
+三種 TCA 中，哪一種鎮靜與抗膽鹼副作用最強、常用於疼痛/偏頭痛/失眠？	Amitriptyline
+Nortriptyline 相較 Amitriptyline 有何優點？	它是 Amitriptyline 的活性代謝物，鎮靜/姿勢性低血壓/抗膽鹼副作用較輕、老人較耐受，且有治療濃度區間可監測
+TCA 與 MAOI 併用有何風險？為何要 washout？	血清素症候群與高血壓危象，兩者間須間隔約 14 天 washout
+TCA 過量時為何禁用 class IA/IC 抗心律不整藥（如 procainamide）？	它們同樣阻斷 Na⁺ 通道，會加重心臟傳導障礙與心律不整
+用 TCA 前（尤其老人或心臟病史）建議先做哪項檢查？	EKG（評估 QRS/QT 與傳導障礙）
+Chlorpromazine 屬哪類抗精神病藥？	第一代（typical）低效價 phenothiazine；除 D2 外強力阻斷 α₁、H1、M 受體
+Chlorpromazine 與 haloperidol 的副作用譜差異？	Chlorpromazine 鎮靜與姿勢性低血壓、抗膽鹼作用強，但 EPS 較少；haloperidol 反之（EPS 多、自律神經副作用少）
+Chlorpromazine 的經典特殊適應症是什麼？	頑固性呃逆（intractable hiccups）
+Chlorpromazine 為什麼會造成姿勢性低血壓？	強力阻斷 α₁ 腎上腺素受體 → 血管擴張
+Chlorpromazine 病人低血壓時為何不能用 epinephrine？	α 受體被阻斷後，epinephrine 的 β₂ 血管擴張效應不被拮抗，反使血壓更低（epinephrine reversal）；應用 phenylephrine/norepinephrine
+Chlorpromazine 具特徵性的肝副作用是？	膽汁鬱積型肝炎（cholestatic jaundice）
+Chlorpromazine 的皮膚相關副作用？	光敏感（photosensitivity）、長期使用皮膚灰藍色素沉著；藥液接觸致接觸性皮膚炎
+Chlorpromazine 對癲癇病人的顧慮？	降低癲癇閾值，可能誘發抽搐，癲癇病史者慎用
+Chlorpromazine 的抗膽鹼副作用有哪些？	口乾、便秘、尿瀦留、視力模糊、加重狹角青光眼與譫妄
+低效價 phenothiazine 仍需監測的心臟風險？	QT 延長 → Torsades；給藥前查 QTc 與 K⁺/Mg²⁺
+Mirtazapine 的核心機轉為何？	α2 腎上腺素受體拮抗（增加 NE/5-HT 釋放）＋ H1 組織胺拮抗（鎮靜、增食慾）
+為什麼 Mirtazapine 低劑量反而比高劑量更鎮靜？	低劑量以 H1 抗組織胺鎮靜效應為主；高劑量正腎上腺素效應增強會部分抵銷鎮靜
+Mirtazapine 罕見但要命的血液副作用是什麼？	顆粒球缺乏（agranulocytosis）；出現發燒 / 喉嚨痛 / 感染徵象要查 CBC
+Trazodone 低劑量最常見的臨床用途？	當助眠劑（25–100mg QHS），非管制、不成癮
+Trazodone 有哪個泌尿科急症紅旗？	陰莖異常勃起（priapism），勃起 > 4 小時須緊急就醫處理
+Bupropion 的機轉與兩大「優點」是什麼？	NDRI（正腎上腺素 / 多巴胺回收抑制）；不造成性功能障礙、不增重
+Bupropion 最重要的禁忌有哪些？	癲癇病史、暴食症 / 神經性厭食症、酒精或 BZD 戒斷（皆因降低癲癇閾值）
+Bupropion 除了抗憂鬱還有什麼適應症？	戒菸輔助（Zyban）
+Buspirone 的機轉與定位？	5-HT1A 部分促效劑，用於廣泛性焦慮症（GAD）
+Buspirone 為什麼不能當急性焦慮 PRN 用？	起效慢（約 2 週），但優點是不鎮靜、不成癮、無戒斷症狀
+一位失眠 + 食慾差 + 體重下降的憂鬱病人，最適合哪支？	Mirtazapine（助眠、增進食慾與體重）
+Rifampin 的抗菌機轉是什麼？	抑制細菌 DNA-dependent RNA polymerase，阻斷 mRNA 轉錄
+Rifampin 在抗結核 RIPE 方案中是哪一個字母、搭配哪些藥？	R；搭配 Isoniazid(I)、Pyrazinamide(P)、Ethambutol(E)
+Rifampin 最著名的無害但需衛教的副作用是什麼？	尿、汗、淚等體液變紅橙色，並會永久染色隱形眼鏡
+為什麼服用 Rifampin 的女性口服避孕會失效？	Rifampin 是超強 CYP450 誘導劑，加速避孕藥代謝 → 避孕失敗，需改屏障避孕
+Rifampin 會降低哪些重要藥物的濃度？	warfarin/DOAC、口服避孕藥、HIV 蛋白酶抑制劑、azole、類固醇、methadone、statin、digoxin 等
+Rifampin 的活動性 TB 標準劑量與服法？	10 mg/kg/day（常 600mg）PO QD，空腹服用
+Rifampin 併用哪個抗結核藥會加重肝毒性？	Isoniazid（INH）
+Rifampin 間歇給藥可能出現什麼免疫相關反應？	flu-like syndrome（發燒肌痛寒顫）、血小板減少、溶血、急性間質性腎炎
+HIV 病人使用蛋白酶抑制劑時，為何常用 rifabutin 取代 rifampin？	Rifampin CYP 誘導太強會大幅降低 PI 濃度；rifabutin 誘導較弱
+Rifampin 使用期間要監測哪些項目？	LFT（肝功能）、CBC（血小板）、腎功能與 TB 治療反應
+Gabapentin / Pregabalin 的真正作用機轉是什麼？	結合電壓門控鈣通道的 α2δ 次單元，減少突觸前興奮性神經傳導物（glutamate / substance P / CGRP）釋放；並非直接作用於 GABA 受體
+為什麼說 gabapentinoids 的名稱有誤導性？	名稱含「GABA」但實際上不直接與 GABA 受體結合，也不影響 GABA 再回收；作用點是鈣通道 α2δ 次單元
+Gabapentin / Pregabalin 的排泄途徑為何、有何臨床意義？	幾乎 100% 經腎以原形排出、不經肝 CYP 代謝；腎功能不良必須依 CrCl 大幅減量以免蓄積
+Gabapentinoids 與哪類藥物併用會增加致命呼吸抑制風險？	鴉片類 opioids（及 benzodiazepine、酒精等 CNS 抑制劑），FDA 已發出警示
+Pregabalin 相較 gabapentin 在藥動學上有何優勢？	生體可用率高（≥90%）、吸收呈線性、效價較高；gabapentin 吸收有飽和性，高劑量需分 3 次
+Gabapentin 神經病理性疼痛的常用有效劑量範圍？	約 900–3600 mg/day 分 3 次（逐步加量，start low go slow）
+Pregabalin 神經病理性疼痛 / 纖維肌痛的起始劑量？	75 mg BID（或 50 mg TID），一週內可加至 300 mg/day
+服用含鋁/鎂制酸劑會如何影響 gabapentin？該怎麼辦？	降低 gabapentin 吸收；兩者應間隔至少 2 小時服用
+Gabapentinoids 常見會被誤認為心衰惡化的副作用是什麼？	周邊水腫與體重增加
+為什麼即使只用於止痛，也不應驟然停用 gabapentinoids？	突然停藥可能誘發癲癇（癲癇患者）或戒斷症狀（焦慮、失眠、盜汗、噁心），應逐步減量
+Pregabalin 在管制上有何特別？	具濫用/成癮潛能，台灣及多國已列為管制藥（第 4 級）
+Levetiracetam 的獨特作用機轉是什麼？	結合突觸前膜 SV2A（synaptic vesicle protein 2A）調節神經傳導物質釋放，與傳統 Na/Ca channel 藥不同
+為什麼 levetiracetam 是值班/多重用藥病人的首選抗癲癇藥？	幾乎無 CYP 交互作用、線性藥動不需常規測濃度、IV↔PO 1:1 轉換、致畸與肝毒風險低
+Levetiracetam 主要排泄途徑為何、有何臨床意義？	約 66% 以原型經腎排出，腎功能不良必須依 CrCl 減量並調整間隔
+Levetiracetam 最具特色的副作用類別是什麼？	行為/情緒副作用——易怒、攻擊、焦慮、憂鬱，俗稱「Keppra rage」
+癲癇重積時 levetiracetam 的 IV loading 劑量？	60 mg/kg IV（上限 4500 mg，依 ESETT），為 benzodiazepine 後第二線之一
+Levetiracetam 與 warfarin、口服避孕藥併用需要擔心交互作用嗎？	幾乎不需要——非 CYP 代謝、不誘導不抑制酵素，是相對安全的併用選擇
+育齡女性癲癇為何常選 levetiracetam 而非 valproate？	LEV 致畸風險相對低；valproate 為神經管缺損高危、孕期禁用
+Levetiracetam 一般成人維持劑量範圍？	500–1500 mg BID（常用上限 3000 mg/day）
+出現 levetiracetam 行為副作用時可考慮的緩解方式？	換藥或加 pyridoxine（維生素 B6，部分文獻支持，需查證）
+Levetiracetam 的 IV 與口服如何轉換？	1:1 等劑量，生體可用率接近 100%
+Valproate 的作用機轉為何？	多機轉——增強 GABA、阻斷 Na channel、抑制 T 型 Ca channel，故為最廣效傳統抗癲癇藥
+Valproate 的治療血中濃度範圍？	50–100 µg/mL
+Valproate 造成意識改變時，即使肝功能與濃度正常也要驗什麼？	血氨——高血氨腦病可在肝功能正常下發生，處置為停藥±L-carnitine
+Valproate 肝毒性最高風險族群？	<2 歲、多重抗癲癇藥併用、粒線體疾病（POLG 突變，屬絕對禁忌）
+為何育齡女性/孕婦應避免 valproate？	強致畸——神經管缺損（脊柱裂）、顱面/心臟缺陷、認知障礙與自閉風險上升
+Valproate 與 carbapenem 併用會發生什麼？	valproate 血中濃度暴跌，可能致癲癇復發，應避免併用
+Valproate 與 lamotrigine 併用要注意什麼？	valproate 抑制其代謝使 lamotrigine 濃度上升，SJS/皮疹風險大增，lamotrigine 需減量並更緩慢增量
+Valproate 三個需監測的嚴重血液/腹部副作用？	血小板低下/出血傾向、急性胰臟炎、肝毒性
+Valproate 常見的外觀/代謝副作用？	體重增加、掉髮、震顫、鎮靜
+Valproate 除癲癇外的兩大適應症？	雙相情感障礙（急性躁期與維持）、偏頭痛預防
+Ethosuximide 的作用機轉是什麼？	抑制丘腦（thalamus）神經元的 T-type 鈣離子通道，阻斷失神發作的 3-Hz 棘慢波振盪
+Ethosuximide 是哪一種癲癇發作的第一線首選？	失神性癲癇發作（absence seizure / 小發作）
+Ethosuximide 對強直陣攣發作（GTC / 大發作）有效嗎？	無效，只對失神性發作有效
+病人同時有失神發作與全身強直陣攣發作時，藥物該怎麼選？	改用或併用 Valproic acid（同時涵蓋 absence 與 GTC），因 Ethosuximide 無法保護大發作
+Ethosuximide 最常見的副作用是什麼？	腸胃不適（噁心、嘔吐、腹痛、食慾不振）
+Ethosuximide 有哪些罕見但嚴重的血液 / 皮膚副作用？	骨髓抑制（血球低下）、Stevens-Johnson syndrome、藥物引起狼瘡樣症候群
+Ethosuximide 的機轉與 Phenytoin 有何不同？	Ethosuximide 抑制丘腦 T-type 鈣通道；Phenytoin 阻斷電壓依賴性鈉通道，適應症也不同
+單純失神性癲癇為何常優先選 Ethosuximide 而非 Valproic acid？	療效相當但副作用較少，可避開 valproate 的肝毒性、致畸性與體重增加
+Ethosuximide 屬於哪一類化學結構？	Succinimide 類
+病人服用 Ethosuximide 出現發燒、喉嚨痛、瘀青時該做什麼檢查？	驗 CBC，警覺骨髓抑制
+Carbamazepine 的作用機轉為何？	阻斷電壓依賴性 Na channel、穩定其失活態，抑制神經元高頻放電
+開 Carbamazepine 前台灣病人必做哪項篩檢、為什麼？	HLA-B*1502 基因篩檢；陽性者用 CBZ 罹患 SJS/TEN 風險大增（台灣/漢族陽性率高），健保有給付
+Carbamazepine 的「自體誘導（auto-induction）」臨床意義是什麼？	CBZ 起始 2–4 週會誘導自身代謝 → 血中濃度下降、療效變差，需回頭加量並追蹤濃度
+Carbamazepine 與 Oxcarbazepine 相比，低血鈉哪個更常見？	Oxcarbazepine（OXC）低血鈉更常見；OXC 不自體誘導、CYP 誘導較弱、SJS 風險略低但仍在
+Carbamazepine 是哪種藥物的首選（非癲癇適應症）？	三叉神經痛（Trigeminal Neuralgia）的藥物首選
+Carbamazepine 的治療血中濃度範圍？	4–12 µg/mL
+Carbamazepine 對哪些癲癇發作型態無效甚至惡化？	Absence（失神）與 myoclonic（肌陣攣）發作
+Carbamazepine 罕見但致命的血液副作用有哪些？	Agranulocytosis、aplastic anemia、血小板低下（發燒/喉嚨痛/瘀青要驗 CBC）
+Carbamazepine 作為 CYP 誘導劑會如何影響口服避孕藥與 warfarin？	強 CYP3A4 誘導 → 降低口服避孕藥（避孕失效）、warfarin/DOAC 等藥物濃度，開停藥都要重審用藥
+Oxcarbazepine 相對 Carbamazepine 的三個優點？	① 不自體誘導 ② CYP 誘導較弱、交互作用少 ③ SJS 風險略低（但低血鈉更明顯、腎功能差需減量）
+CBZ/OXC 過量或濃度過高的神經徵象？	複視、眼球震顫、共濟失調、嗜睡（小腦徵象，同 phenytoin）
+Phenobarbital 屬於哪一類、機轉為何？	長效 barbiturate，作用於 GABA-A 受體延長 Cl⁻ 通道開放時間
+Phenobarbital 在 status epilepticus 的角色與 loading 劑量？	BZD→phenytoin/levetiracetam 之後的選項；loading 約 15–20 mg/kg IV 緩慢輸注
+Phenobarbital 在新生兒癲癇的地位？	常為第一線用藥（新生兒癲癇 / 戒斷症候群）
+Phenobarbital IV 快速給藥的主要危險？	呼吸抑制與低血壓，需備呼吸道與監測
+Phenobarbital 的治療血中濃度範圍？	約 15–40 μg/mL
+Phenobarbital 為何造成避孕失敗與抗凝不足？	強力 CYP 酶誘導，加速口服避孕藥、warfarin/DOAC、cyclosporine 等代謝
+Phenobarbital 的半衰期特性對調藥的影響？	半衰期很長（約 3–5 天），達穩態慢，調整後需較久才評估
+Phenobarbital 孕期的胎兒風險有哪些？	致畸胎（心臟缺陷/顏面裂）、新生兒戒斷、維生素K依賴凝血因子缺乏出血；需補葉酸與產前維生素K
+Phenytoin 的作用機轉為何？	阻斷電壓依賴性 Na channel、穩定其失活態，抑制神經元高頻異常放電
+Phenytoin 的治療血中濃度範圍是多少？	總濃度 10–20 µg/mL（游離型 1–2 µg/mL）
+低白蛋白病人為何要校正 phenytoin 濃度？如何校正？	phenytoin 高度蛋白結合，低白蛋白使游離型上升；corrected = measured /（0.2 × albumin + 0.1）（尿毒改 0.1 × albumin + 0.1），或直接測游離型
+Phenytoin IV 輸注速率上限與風險？	≤50 mg/min（老人/心臟病 ≤25 mg/min）；過快致低血壓、心律不整、心跳停止
+什麼是 purple glove syndrome？如何降低風險？	IV phenytoin 外滲致肢體水腫、變色、缺血壞死；改用 fosphenytoin 風險較低
+Phenytoin「零階（飽和）動力學」的臨床意義？	飽和後小幅加量血中濃度暴增，加量要小步並測濃度
+Phenytoin 兩個典型長期外觀副作用？	牙齦增生（gingival hyperplasia）與多毛（hirsutism）
+Phenytoin 濃度過高的神經徵象進展順序？	眼球震顫 → 共濟失調/複視 → 嗜睡 → 意識混亂/昏迷（劑量相關小腦徵象）
+Phenytoin 對其他藥物的主要交互作用類型？	強效 CYP 誘導劑，降低 warfarin、口服避孕藥、DOAC、免疫抑制劑等濃度
+Fosphenytoin 劑量如何表示、有何優點？	以 PE（phenytoin equivalent）表示；水溶性佳可肌注、輸注較快（150 mg PE/min）、purple glove 風險低
+Phenytoin 的致畸症候群名稱與特徵？	Fetal hydantoin syndrome — 顱面異常、指甲/指骨發育不良、發育遲緩、心臟缺陷
+Barbiturate 作用在哪個受體、如何影響 Cl⁻ 通道？	GABA-A 受體，延長 Cl⁻ 通道「開放時間」
+Barbiturate 與 Benzodiazepine 在 GABA-A 通道的機轉差別？	Barbiturate 增加 Cl⁻ 通道「開放時間」；BZD 增加「開放頻率」
+Barbiturate 過量最致命的問題是什麼？	呼吸抑制與中樞抑制，尤其與酒精/BZD/opioid 併用加乘
+Barbiturate 過量有專一解毒劑嗎？如何處理 phenobarbital 過量？	無專一解毒劑；支持性治療 + 鹼化尿液（碳酸氫鈉）促進 phenobarbital 排除
+為什麼 barbiturate 有大量藥物交互作用？	是強力 CYP 酶誘導劑，加速 warfarin、口服避孕藥、cyclosporine、其他抗癲癇藥代謝
+Barbiturate 戒斷為何危險？	生理依賴，驟停戒斷可致癲癇、譫妄甚至死亡（比 BZD 戒斷更危險），需漸減
+哪個代表性 barbiturate 用於抗癲癇與 status epilepticus？	Phenobarbital（長效）
+Barbiturate 在哪個代謝疾病絕對禁用？	急性間歇性紫質症（porphyria），會誘導 ALA synthase 惡化
+Lamotrigine 的作用機轉為何？	阻斷電壓依賴性 Na channel，並抑制突觸前麩胺酸（glutamate）釋放
+Lamotrigine 最危險的副作用是什麼、與什麼因素相關？	SJS/TEN/DRESS；與起始劑量過高、加量太快、併用 valproate 直接相關，故務必慢速滴定
+Lamotrigine 與 valproate 併用時劑量要如何調整、為什麼？	起始劑量與加量速度減半；VPA 抑制 LTG 的 glucuronidation 使其濃度倍增、皮疹風險大增
+Lamotrigine 與 carbamazepine/phenytoin 併用時濃度會如何變化？	酵素誘導使 LTG 代謝加快、濃度下降，需要較高劑量
+口服避孕藥或懷孕如何影響 Lamotrigine 濃度？	雌激素誘導代謝使 LTG 濃度下降（避孕藥服用期需加量、停藥週反彈；懷孕清除率上升需追蹤調量）
+Lamotrigine 在雙相情緒障礙主要防哪一期？	防鬱期（維持治療對防止憂鬱復發優於防躁）
+Lamotrigine 連續漏藥數天後可以直接回原劑量嗎？	不行，需從低劑量重新緩慢滴定，否則皮疹風險升高
+Lamotrigine 在情緒與鎮靜面的特點？	偏活化、較不鎮靜（甚至可能失眠），與 phenytoin/CBZ 的鎮靜不同
+Lamotrigine 需要常規監測血中濃度嗎？	不需常規監測（治療窗寬），以臨床療效與皮膚監測為主
+Lamotrigine 除 SJS 外還有哪個罕見致命免疫併發症？	HLH 噬血症候群（發燒、脾腫、血球低下、鐵蛋白升高）
+青光眼藥降眼壓的兩大策略是什麼？	① 減少房水生成（β-blocker、碳酸酐酶抑制劑、α2 agonist）；② 增加房水排出（前列腺素類似物、縮瞳劑）
+目前開放隅角青光眼的第一線首選藥是什麼？為什麼？	Latanoprost（前列腺素類似物），每日一次、副作用少、降壓效果好
+Latanoprost 增加房水排出的路徑是哪一條？	葡萄膜鞏膜路徑（uveoscleral outflow）
+Latanoprost 的特殊局部副作用有哪些？	虹膜色素沉著加深（可能永久）、睫毛增長變濃、眼周色素沉著
+Timolol 是哪類藥？最重要的全身副作用是什麼？	β-blocker（減少房水生成）；全身吸收可致心搏過緩、支氣管痙攣（氣喘 / COPD、心衰竭、心搏過緩者禁用）
+Pilocarpine 的機轉與主要用途是什麼？	膽鹼激動劑 / 縮瞳劑，收縮睫狀肌拉開小樑網增加排出；用於急性隅角閉鎖性青光眼
+Pilocarpine 常見的副作用是什麼？	縮瞳造成視力模糊（暗處更明顯）、近視偏移、眉／額頭痛
+Acetazolamide 是哪類藥？急症如何給？	碳酸酐酶抑制劑（減少房水生成）；急性隅角閉鎖時全身給藥（口服 / IV）
+Acetazolamide 的全身副作用有哪些？	代謝性酸中毒、低血鉀、手足麻感、腎結石、味覺改變；屬磺胺類，磺胺過敏者交叉反應
+Brimonidine 是哪類藥？哪個族群絕對禁用？	α2 agonist（減少生成+增加排出）；嬰幼兒禁用（中樞神經抑制、可致呼吸暫停）
+Dorzolamide 相對 Acetazolamide 的優點是什麼？常與誰做複方？	局部（眼藥水）碳酸酐酶抑制劑，全身副作用少；常與 Timolol 複方（Cosopt）
+急性隅角閉鎖性青光眼的臨床表現有哪些？	劇烈眼痛、頭痛、噁心嘔吐、視力模糊、瞳孔中度放大且固定、眼球堅硬如石
+哪類藥物會誘發或惡化隅角閉鎖性青光眼？	抗膽鹼藥物 / 散瞳劑（如 atropine、部分抗組織胺 / 抗憂鬱 / 抗精神病藥）
+Z-drugs 有哪些藥、名字的共同特徵？	Zolpidem、Zopiclone、Eszopiclone、Zaleplon（多以「Z」開頭），非苯二氮平類安眠藥
+Z-drugs 與 BZD 機轉差異為何？	Z-drugs 選擇性作用於 GABA-A 受體含 **α1 次單元的 BZ₁ 位點** → 主催眠，較少抗焦慮/抗癲癇/肌鬆作用；BZD 則作用較廣
+Z-drugs 最重要的黑框警示是什麼？	**複雜睡眠行為**（夢遊、**夢中駕車 sleep-driving**、睡眠進食）且事後失憶；**發生一次即應永久停藥**
+為什麼 FDA 下修女性 zolpidem 起始劑量？	女性對 zolpidem 清除較慢，血中濃度較高 → 次晨殘餘鎮靜與駕駛損害風險大，起始改 5 mg（速效）/6.25 mg（CR）
+Zaleplon 的定位為何、半夜補救使用條件？	半衰期最短（~1h），適合入睡困難或半夜醒來補救，但需**剩餘睡眠時間 ≥4 小時**避免次晨殘餘
+Z-drugs 服藥時機的原則是什麼？	上床前立即服用，且確保能有完整睡眠時間（zolpidem 約 7–8h），提前起床會殘餘鎮靜
+Zopiclone/eszopiclone 有什麼特徵性副作用？	口中苦味/金屬味
+Z-drugs 過量時可用什麼逆轉？	Flumazenil（同 BZD，因作用於 GABA-A/BZ 位點）
+Z-drugs 在老人為什麼要小心？	屬 Beers Criteria，增加跌倒、髖骨骨折、譫妄；劑量應減半並優先非藥物治療
+慢性失眠的首選治療是藥物嗎？	不是；首選為**失眠認知行為治療（CBT-I）**，Z-drugs 為短期/輔助
+Ramelteon 的作用機轉是什麼？	選擇性促效褪黑激素受體 MT1 / MT2，調節生理時鐘、促進入睡
+Ramelteon 與 BZD / Z-drugs 相比最大的安全性優勢是什麼？	非管制、無成癮 / 無依賴 / 無戒斷、無明顯呼吸抑制、跌倒風險低
+Ramelteon 主要針對哪一型失眠？	入睡困難型（sleep-onset insomnia），縮短入睡潛伏期
+哪一類病人特別適合用 Ramelteon？	有物質濫用 / 成癮病史者、老年人（因無成癮與跌倒 / 呼吸抑制風險）
+Ramelteon 經哪個酵素代謝？臨床上的關鍵禁忌是什麼？	主要經 CYP1A2 代謝；禁與強效 CYP1A2 抑制劑 Fluvoxamine 併用
+為什麼 Ramelteon 不建議與高脂餐同服？	高脂餐會降低 / 延緩吸收，影響入睡效果
+Ramelteon 可能的內分泌副作用有哪些？	泌乳素上升（溢乳 / 月經異常）、睪固酮下降
+Ramelteon 與吸菸（CYP1A2 誘導）併存會怎樣？	吸菸誘導 CYP1A2，降低 Ramelteon 血中濃度與療效
+Ramelteon 是不是管制 / 成癮藥物？	不是，屬非管制、無成癮性的安眠藥
+Ramelteon 對「半夜易醒 / 早醒型」失眠效果如何？	效果有限，它主打入睡困難而非睡眠維持
+BZD 的分子機轉為何、與巴比妥類差在哪？	正向異位調節 GABA-A 受體，增加 Cl⁻ 通道**開啟頻率**；巴比妥類則增加**開啟時間**（高劑量可自行開通道，故巴比妥安全窗較窄）
+BZD 單用為什麼相對安全、什麼情況會致命？	單用過量少致命（安全窗寬）；但與 **opioid / 酒精 / 其他 CNS 抑制劑併用**會協同呼吸抑制致死
+肝功能不良或老人該優選哪些 BZD？為什麼？	「**LOT**」= Lorazepam、Oxazepam、Temazepam；因走 **glucuronidation** 代謝、**無活性代謝物**，不經 CYP，不易蓄積
+癲癇重積狀態的第一線 BZD 用法？	Lorazepam 4 mg IV（可重複）或 Diazepam IV；無 IV 管路時 Midazolam 10 mg IM
+BZD 逆轉劑是什麼、有什麼陷阱？	Flumazenil（GABA-A 競爭性拮抗）；陷阱：半衰期短易再鎮靜、且在長期使用者/混合三環過量者可**誘發難治性癲癇**，非常規使用
+為什麼長期使用 BZD 不能突然停藥？	會出現戒斷（癲癇、譫妄、自律神經不穩、反彈焦慮/失眠），需逐步減量 taper
+BZD 依半衰期如何分類、各舉一代表藥？	短效（Midazolam）程序鎮靜；中效（Lorazepam）焦慮/酒精戒斷/癲癇重積；長效（Diazepam）長效抗焦慮/抗癲癇
+為什麼老人要避免 BZD？	列入 Beers Criteria，增加跌倒骨折、譫妄、認知惡化、車禍風險
+BZD 的「反常反應」是什麼、好發族群？	paradoxical reaction — 激動、攻擊、去抑制；好發於兒童與老人
+酒精戒斷為什麼用 BZD、如何給藥？	BZD 是酒精戒斷首選（同作用於 GABA-A，預防戒斷癲癇與震顫譫妄 DTs）；常採 CIWA-Ar 症狀導向給藥（symptom-triggered）
+BZD 臨產前使用對新生兒的風險？	floppy baby syndrome（低張、呼吸抑制、餵食困難）與新生兒戒斷
+Lorazepam 代謝上有什麼特別、臨床意義為何？	走 glucuronidation、**無活性代謝物**、不經 CYP → 肝損、老人、腎損相對安全，蓄積與藥物交互作用少
+癲癇重積狀態 IV 第一線為什麼常選 lorazepam 而非 diazepam？	Lorazepam 腦內再分布較慢、抗癲癇作用時間較長（diazepam 脂溶性高、起效快但很快從腦部再分布、抗癲癇維持短）
+Lorazepam 高劑量連續 IV 輸注要警覺什麼毒性？	溶劑**丙二醇（propylene glycol）毒性** → 陰離子間隙代謝性酸中毒、急性腎損傷、高滲透壓間隙；監測 osmolar gap / lactate
+Lorazepam 可經哪些途徑給藥？	PO / IM（可靠吸收，優於 diazepam IM）/ IV
+Lorazepam 癲癇重積成人劑量與推注速度？	4 mg IV，緩推 ≤2 mg/min，無效 10–15 分鐘可重複一次
+Lorazepam 半衰期大約多少、屬短中長效哪一種？	約 10–20 小時，屬**中效** BZD
+為什麼酒精戒斷的肝硬化病人優選 lorazepam？	無活性代謝物、不依賴 CYP，肝功能不良時不易蓄積，較 diazepam/chlordiazepoxide 安全
+Lorazepam 與其他 BZD 相比在藥物交互作用上有何優勢？	不經 CYP 代謝，與 CYP 抑制/誘導劑交互作用少（midazolam/diazepam 則受 CYP3A4 影響大）
+急診躁動病人 IM 給藥常用什麼組合？	IM lorazepam ± haloperidol（lorazepam IM 吸收可靠）
+Flumazenil 的機轉為何？	GABA-A 受體上 BZD 結合位點的競爭性拮抗劑，逆轉 BZD 的鎮靜與呼吸抑制
+Flumazenil 的兩大主要適應症？	術後 / 檢查鎮靜逆轉、單純苯二氮平（BZD）過量逆轉
+為什麼長期服用 BZD 者不能給 flumazenil？	會誘發急性戒斷與癲癇發作（GABA 系統依賴 BZD，突然拮抗去除抑制）
+為什麼疑似 TCA 混合過量時禁用 flumazenil？	BZD 有抗癲癇保護作用，flumazenil 去除此保護會讓 TCA 的致癲癇 / 心律不整效應爆發，可致命
+Flumazenil 半衰期約多久？有何臨床意義？	約 1 小時，比多數 BZD 短 → 病人可能再鎮靜（resedation），需持續監測、重複給藥或連續輸注
+Flumazenil 逆轉鎮靜的起始劑量與給法？	0.2mg IV over 15 秒，未醒每分鐘追加 0.2mg，鎮靜逆轉總量常 ≤ 1mg
+疑似 BZD 過量時 flumazenil 的總量上限約多少？	漸增至總量約 1–3mg
+Flumazenil 能逆轉鴉片類或酒精過量嗎？	不能；它只拮抗 BZD 位點，鴉片過量要用 naloxone
+給完 flumazenil 為何要持續留觀 1–2 小時？	半衰期短於 BZD，可能再鎮靜與再度呼吸抑制
+哪些病況「正靠 BZD 控制」時禁用 flumazenil？	癲癇持續狀態、顱內壓升高、酒精 / BZD 戒斷中者
+Albendazole / Mebendazole 的抗蟲機轉是什麼？	抑制蟲體 microtubule（β-tubulin）聚合，阻斷葡萄糖攝取使蟲餓死
+哪一類驅蟲藥主要用於線蟲（蛔蟲、鉤蟲、鞭蟲、蟯蟲）？	苯并咪唑類（Albendazole / Mebendazole）
+Praziquantel 主要用於哪兩大類寄生蟲？	吸蟲（如血吸蟲）與絛蟲
+Praziquantel 的機轉是什麼？	增加蟲體細胞膜對鈣離子的通透性，使鈣內流造成蟲體痙攣麻痺與外皮受損
+Ivermectin 的機轉是什麼？	活化蟲體 glutamate / GABA-gated 氯離子通道使蟲體過極化、麻痺癱瘓
+用 Ivermectin 治療糞線蟲前要先評估什麼風險？	hyperinfection syndrome（免疫抑制 / 長期類固醇者的自體感染大爆發）
+用 Albendazole 治療神經囊蟲症時為何常需併用類固醇？	殺蟲後蟲體崩解引起腦部發炎，類固醇可降低發炎反應與癲癇惡化風險
+Pyrantel 的機轉是什麼？	去極化神經肌肉阻斷，使蟲體痙攣性癱瘓後隨腸蠕動排出
+蟯蟲感染的治療除了用藥還要注意什麼？	建議全家一起治療並在 2 週後重複一劑，打斷再感染循環
+長療程 Albendazole 需要監測哪些檢驗值？	CBC（骨髓抑制 / 白血球低下）與 LFT（肝毒性）
+哪一種抗瘧藥是唯一能清除肝內休眠體（hypnozoite）的？	Primaquine（用於 P. vivax / P. ovale 的根除治療）
+開立 Primaquine 之前一定要檢查什麼？為什麼？	G6PD，缺乏者會爆發溶血性貧血；孕婦也禁用
+重症瘧疾（腦型瘧）的首選治療是什麼？	靜脈 Artesunate（artemisinin 類）
+Chloroquine 的抗瘧機轉是什麼？	抑制血基質聚合（heme polymerase），使有毒的 heme 累積毒殺瘧原蟲
+Chloroquine 長期高劑量最需追蹤的器官毒性是什麼？	視網膜病變，需定期眼科檢查
+為什麼 artemisinin 類藥物要與其他抗瘧藥合併使用（ACT）？	單用易誘發抗藥性，合併長效藥可降低抗藥性風險並鞏固清除
+Mefloquine 最著名的黑框警語副作用是什麼？	神經精神副作用（生動噩夢、焦慮、憂鬱、精神病）
+Quinine 過量或治療劑量常見的一組症狀 cinchonism 包含哪些？	耳鳴、頭暈、視力模糊、頭痛
+Quinine 治療重症瘧時要監測哪個代謝異常？	低血糖（刺激胰島素分泌，孕婦尤其明顯）
+Artesunate 治療後 1–3 週要追蹤什麼血液異常？	遲發性溶血（post-artesunate delayed hemolysis），追蹤血紅素
+Tinidazole 與 Metronidazole 同屬哪一類？主要差別是什麼？	同屬 nitroimidazole；Tinidazole 半衰期更長，常可單一劑量治療
+服用 Tinidazole 期間及停藥後多久內應避免酒精？	服藥期間及停藥後至少 72 小時內（避免 disulfiram-like reaction）
+Pentamidine 最危險的代謝副作用是什麼？	低血糖（可致命），之後可能轉為高血糖 / 胰島素依賴糖尿病
+Pentamidine IV 快速輸注會造成什麼急性危險？	嚴重低血壓，故需慢速輸注並監測血壓
+PJP（肺囊蟲肺炎）的首選治療是什麼？Pentamidine 的定位是？	首選 TMP-SMX；Pentamidine 是過敏 / 禁忌時的替代（吸入或 IV）
+Paromomycin 的最大藥動學特點是什麼？	口服幾乎不吸收，作用限於腸腔，適合腸腔內原蟲（如無症狀阿米巴帶原）
+Paromomycin 屬於哪一類抗生素？機轉為何？	胺基糖苷類，抑制原蟲核糖體 30S 蛋白質合成
+無症狀阿米巴囊體帶原者為何選 Paromomycin 這類 luminal agent？	因為需清除腸腔內囊體，不吸收的藥物能在腸腔達高濃度且全身副作用少
+Pentamidine 除了血糖與血壓，還要監測哪些？	心電圖 QT、腎功能、血球、脂肪酶（胰臟炎）
+Tinidazole 與 Warfarin 併用要注意什麼？	可能增強抗凝作用，需監測 INR（同 metronidazole 家族）
+第一代與第二代 H1 抗組織胺最關鍵的差別是什麼？	第一代脂溶性過血腦障壁 → 嗜睡 + 抗膽鹼；第二代不易入腦 → 不嗜睡、較安全
+Anaphylaxis 的第一線用藥是什麼？H1 抗組織胺的角色？	第一線是 adrenaline（IM）；H1 只緩解皮膚癢/蕁麻疹，不能取代腎上腺素
+第一代抗組織胺的抗膽鹼作用在哪些病人特別危險？	老人（譫妄）、攝護腺肥大（尿滯留）、隅角閉鎖性青光眼
+慢性蕁麻疹/過敏性鼻炎首選第幾代抗組織胺？為什麼？	第二代（如 cetirizine/loratadine），不嗜睡、QD、較安全
+第一代抗組織胺的常見中樞副作用是什麼？要提醒病人什麼？	嗜睡、跌倒；提醒勿開車/操作機械，避免併酒精或鎮靜劑
+哪些第一代抗組織胺常用於止暈止吐？	Diphenhydramine、Dimenhydrinate、Meclizine（動暈症/暈眩）
+抗膽鹼中毒症候群的典型表現有哪些？	發燒、皮膚乾紅、瞳孔放大、譫妄、心搏過速、尿滯留
+老人為何依 Beers criteria 應避免第一代抗組織胺？	強抗膽鹼作用增加譫妄、認知惡化、尿滯留、跌倒風險
+Cetirizine 相較其他第二代抗組織胺的小差別？	鎮靜性略高一些，但仍遠低於第一代
+Methimazole 的作用機轉是什麼？	抑制甲狀腺過氧化酶（TPO），阻斷碘的有機化與甲狀腺素合成
+為什麼多數甲亢首選 methimazole 而非 PTU？	效力強、半衰期長可每日一次、肝毒性較 PTU 低
+服用抗甲狀腺藥出現喉嚨痛、發燒要立即怎麼做？	立即停藥並驗 CBC/ANC，警覺顆粒性白血球缺乏（agranulocytosis）
+懷孕第一孕期甲亢為何改用 PTU？	Methimazole 第一孕期致畸（aplasia cutis、後鼻孔/食道閉鎖等 embryopathy）
+甲狀腺風暴為何首選 PTU 而非 methimazole？	PTU 額外抑制周邊 T4→T3 轉換，可較快降低活性甲狀腺素
+Methimazole 與 PTU 的肝毒性型態差異？	Methimazole 多為膽汁鬱積型；PTU 可致猛爆性肝衰竭
+Carbimazole 與 methimazole 的關係？	Carbimazole 是前驅藥，在體內轉換為活性的 methimazole
+抗甲狀腺藥治療中為何不能只看 TSH 調藥？	TSH 受抑數週至數月才恢復，早期應以 free T4/T3 為調整依據
+碘劑（Lugol/SSKI）與 thionamide 的給藥順序？	先給 thionamide 再給碘，避免 Jod-Basedow 現象（碘誘發甲亢加劇）
+甲亢病人常合併哪類藥控制心悸與顫抖？	β-blocker（如 propranolol），為症狀治療
+Lugol's solution 的成分是什麼？	5% iodine + 10% potassium iodide（無機碘劑）
+高劑量碘抑制甲狀腺的機轉叫什麼？	Wolff-Chaikoff effect（短暫抑制甲狀腺素合成與釋放），並減少甲狀腺血流
+碘劑與抗甲狀腺藥的給藥順序為何？為什麼？	先給抗甲狀腺藥（PTU/MMI）阻斷合成，至少 1 小時後再給碘；否則碘會被拿去合成更多甲狀腺素（Jod-Basedow）而惡化
+為什麼碘劑只能短期使用？	長期會發生 escape（逃逸），甲狀腺重新合成甲狀腺素導致甲亢反彈
+Lugol's 在甲狀腺術前準備的作用是什麼？	減少甲狀腺血流與腺體充血，降低術中出血
+碘中毒（iodism）的表現有哪些？	金屬味、口腔灼熱、流涎、鼻炎、皮疹、唾液腺腫脹
+Lugol's 與 lithium 併用要注意什麼？	兩者都抑制甲狀腺，併用增加甲狀腺功能低下風險
+為什麼放射碘治療前後不宜給 Lugol's？	碘會稀釋並干擾 I-131 的甲狀腺攝取
+甲狀腺低下的標準治療藥物是什麼？	Levothyroxine（T4），半衰期長約 7 天、體內轉換為活性 T3、每日一次
+Levothyroxine 應如何服用以確保吸收？	早晨空腹、早餐前 30–60 分鐘，配白開水，固定時間與廠牌
+Levothyroxine 需與哪些藥物間隔至少 4 小時？	鈣片、鐵劑、含鋁鎂制酸劑、PPI、膽固醇結合樹脂（cholestyramine）
+老人或缺血性心臟病患者為何要從低劑量起始？	一次給足量可誘發心絞痛、心律不整、心肌梗塞，故從 12.5–25 µg 起緩慢增量
+黏液水腫昏迷如何治療？	內科急症，靜脈給高劑量 T4（±T3）+ 壓力劑量 hydrocortisone，並保溫矯正電解質
+甲低合併未診斷的腎上腺功能不全，給藥順序？	先給類固醇再給甲狀腺素，否則誘發腎上腺危象
+調整 Levothyroxine 劑量後多久複查 TSH？	每 4–6 週（T4 半衰期長，太早驗無意義）
+孕婦的 Levothyroxine 需求如何變化？	需求增加約 25–30%，需提早增量並密集追蹤 TSH（胎兒神經發育依賴母體 T4）
+Levothyroxine 過量的長期後果？	醫源性甲亢（心悸、心房顫動）與骨質疏鬆（尤其停經婦女、老人）
+Liothyronine 是哪種甲狀腺素、主要用途？	T3，作用快、半衰期短，主要用於黏液水腫昏迷等需快速起效情形
+SSKI 與 Lugol's 的主要差別是什麼？	SSKI 是高濃度碘化鉀（每滴約 38–50 mg 碘），濃度高於 Lugol's（每滴 6–8 mg）；機轉與用途相同
+SSKI 抑制甲狀腺的機轉？	高劑量碘經 Wolff-Chaikoff effect 抑制甲狀腺素合成與釋放，並減少甲狀腺血流
+SSKI 與抗甲狀腺藥的給藥時序？	先給抗甲狀腺藥（PTU/MMI）阻斷合成，至少 1 小時後再給 SSKI
+SSKI 因為含鉀，哪些情況要小心高血鉀？	腎功能不全、併用 ACEI/ARB/保鉀利尿劑時
+SSKI 為什麼只能短期使用？	長期碘會 escape 逃逸，甲狀腺重新合成甲狀腺素導致甲亢反彈
+SSKI 在放射暴露時的用途是什麼？	阻斷甲狀腺攝取放射碘（I-131），保護甲狀腺（核災/公衛用途）
+SSKI 除甲狀腺外的傳統適應症？	皮膚科孢子絲菌病（sporotrichosis）
+PTU 的作用機轉是什麼？	抑制甲狀腺過氧化酶（TPO）阻斷甲狀腺素合成；高劑量還抑制周邊 T4→T3 轉換
+PTU 相較 Methimazole 的獨特優勢是什麼？	高劑量可抑制周邊 T4→T3 轉換，故 thyroid storm 首選
+為什麼平時甲亢首選 Methimazole 而非 PTU？	PTU 有猛爆性肝衰竭風險、需 TID 給藥；Methimazole 可 QD、肝毒較低
+PTU 在孕期的使用時序為何？	第一孕期首選 PTU（避 Methimazole 致畸）；第二、三孕期改回 Methimazole（避 PTU 肝毒）
+抗甲狀腺藥最需警覺的致命血液副作用是什麼？如何處理？	Agranulocytosis；突發發燒＋喉嚨痛立即停藥並驗 CBC/ANC
+PTU 特有、且是它退居第二線主因的嚴重副作用？	猛爆性肝衰竭（fulminant hepatic failure）
+Thyroid storm 中 PTU 與碘劑的給藥順序？	先給 PTU（阻斷合成），至少 1 小時後再給碘劑，避免碘變成新甲狀腺素原料
+PTU 起始用藥後多久才見效？症狀先靠什麼控制？	需數週耗盡甲狀腺素庫存；症狀先靠 β-blocker 控制
+用抗甲狀腺藥前應做哪些基線檢查？	CBC（白血球基線）與肝功能（LFT）
+產科三大前列腺素及其類型與主用途？	Misoprostol（PGE1）引產/流產/產後出血；Dinoprostone（PGE2）子宮頸成熟引產；Carboprost（PGF2α）頑固產後出血
+所有引產用前列腺素的共同大忌是什麼？	子宮過度收縮（tachysystole）→ 胎兒窘迫與子宮破裂，需連續胎心監測
+Carboprost（PGF2α）有哪個獨特禁忌、為什麼？	氣喘禁用，因 PGF2α 造成支氣管收縮會惡化氣喘
+Misoprostol 足月引產與早孕流產的劑量差異？	足月引產是微克級（約 25 μg 陰道）；藥物流產是數百微克（如 800 μg），越足月子宮越敏感劑量越小
+哪種子宮情況引產禁用 Misoprostol/PGE2？	前胎剖腹產或古典切口等有疤子宮，過度收縮易致子宮破裂
+Carboprost 用於產後出血的角色與劑量上限？	oxytocin 無效時的二線，250 μg IM/子宮肌層 q15–90min，總量上限 2 mg（8 劑）
+Misoprostol 為何在資源有限地區特別受青睞於產後出血？	便宜、耐熱、可舌下/直腸給藥不需冷藏或靜脈輸注
+Dinoprostone 陰道栓劑出現子宮過度收縮時可以怎麼處置？	可將緩釋陰道栓劑取出以中止藥效
+前列腺素引產後接 oxytocin 為何要間隔？	避免兩種子宮收縮劑加成造成過度刺激與胎兒窘迫
+Indomethacin 安胎與產科前列腺素在機轉上有何相反關係？	Indomethacin 抑制 COX 減少前列腺素以放鬆子宮（安胎）；產科前列腺素則增加前列腺素以促收縮
+Oxytocin 的作用機轉為何？	作用於子宮平滑肌 oxytocin receptor（Gq → IP3 → 細胞內 Ca²⁺ 上升）促進子宮收縮；也促乳腺肌上皮收縮排乳
+Oxytocin 三大臨床用途？	①引產 ②產程增強（宮縮乏力）③產後出血預防與治療（第三產程首選子宮收縮劑）
+Oxytocin 過度使用最危險的併發症是什麼？	子宮過度收縮（tachysystole）→ 胎兒窘迫（胎心減速缺氧）與子宮破裂，需連續 CTG 監測、出現即減量停藥
+為什麼 Oxytocin 大劑量長時間 + 大量低張輸液會水中毒？	Oxytocin 結構近似 ADH（抗利尿激素），有抗利尿作用 → 水滯留、低血鈉 → 頭痛/抽搐/昏迷
+產後止血給 Oxytocin 為何不能 undiluted IV push？	快速大量靜脈推注會造成低血壓、反射性心搏過速與心律不整，應稀釋慢滴（尤其剖腹麻醉中）
+Oxytocin 的半衰期特性有何臨床意義？	半衰期極短（約 1–6 分鐘），故用連續滴注滴定控制，停藥後藥效迅速消退，利於調節
+Atosiban 是什麼藥、用途為何？	催產素受體競爭性拮抗劑，用於早產安胎（tocolysis），抑制子宮收縮
+Atosiban 相較 β-agonist（ritodrine/terbutaline）安胎的優點？	母體心肺副作用少很多（較少心搏過速、肺水腫、高血糖），耐受性佳
+安胎（tocolysis）的真正治療目標是什麼？	多只延長妊娠數天，爭取施打促胎肺成熟類固醇（betamethasone）與轉院時間，不改善新生兒長期預後
+Oxytocin 的絕對禁忌有哪些代表情況？	頭骨盆不對稱、胎位不正不宜陰道產、前置胎盤、臍帶脫垂、子宮破裂高風險（多次剖腹產）
+安胎藥（tocolytics）的真正治療目標是什麼？	延長妊娠約 48 小時，爭取施打促胎肺成熟類固醇（betamethasone）+ MgSO4 神經保護 + 轉院至有 NICU 的醫院；不改善長期預後
+安胎藥五大類機轉各是什麼？	β2-agonist（cAMP 上升）、Nifedipine（阻 L 型鈣通道）、MgSO4（拮抗鈣穩定膜）、Indomethacin（抑 COX 降前列腺素）、Atosiban（拮抗 oxytocin 受體）
+β-agonist（Ritodrine/Terbutaline）安胎最致命的母體副作用是什麼？	母體肺水腫；其他還有心悸、心搏過速、心律不整、高血糖、低血鉀
+MgSO4 中毒的臨床順序與解毒劑？	深部肌腱反射消失（最早）→ 呼吸抑制 → 心跳停止；解毒劑為靜脈 calcium gluconate
+Indomethacin 安胎為何孕週 ≥ 32 週要避免？	抑制前列腺素會造成胎兒動脈導管（ductus arteriosus）早閉，並致腎血流下降造成羊水過少
+Nifedipine 與 MgSO4 併用要小心什麼？	兩者加成造成母體低血壓與神經肌肉阻斷加重，避免同時大量併用
+哪些情況是安胎的禁忌（該終止妊娠而非安胎）？	絨毛膜羊膜炎、胎兒窘迫/死胎、重度子癇前症/子癇、產前大出血、胎盤早期剝離
+MgSO4 安胎/神經保護時床邊要監測哪四項？	膝反射（有無消失）、呼吸速率（≥12/min）、尿量（≥30 mL/hr）、血鎂濃度
+β-agonist 對糖尿病孕婦特別要注意什麼代謝副作用？	高血糖（β2 促糖解/糖質新生）與低血鉀，可能惡化血糖控制
+孕週 < 32 週安胎較偏好哪些藥、避開哪類？	偏好 Nifedipine 或 Atosiban（副作用少）；母體心臟病避開 β-agonist；Indomethacin 僅限早孕週短療程
+麥角生物鹼（Ergonovine/Methylergonovine）子宮收縮的機轉？	作用於子宮平滑肌 α-腎上腺素能與 serotonin（5-HT2）受體，產生強力、持續、非節律性的子宮收縮
+麥角生物鹼在產後出血的定位？	oxytocin 之後的第二線子宮收縮劑（uterotonic ladder：oxytocin → ergot → prostaglandin）
+麥角生物鹼最重要的絕對禁忌是什麼、為什麼？	高血壓 / 子癇前症 / 子癇；因全身性血管收縮會使血壓飆高，可致高血壓危象、腦中風
+麥角生物鹼對心臟有何危險？	造成冠狀動脈痙攣導致心肌缺血/梗塞，缺血性心臟病病人禁用
+為什麼麥角生物鹼不能用於胎兒娩出前？	其強力持續（非節律性）收縮會造成胎兒窘迫與子宮破裂，只能在胎兒與胎盤娩出後止血用
+麥角生物鹼建議的給藥途徑與注意？	一般肌肉注射（如 Methylergonovine 0.2 mg IM），避免 IV push（嚴重高血壓/腦血管意外），給藥前先量血壓
+什麼是 ergotism（麥角中毒）？	嚴重血管痙攣造成肢端缺血、周邊循環障礙，常見於與 CYP3A4 抑制劑併用致血中濃度過高
+哪些藥物併用麥角生物鹼會增加麥角中毒？	強效 CYP3A4 抑制劑：erythromycin/clarithromycin、蛋白酶抑制劑、azole 抗黴菌藥
+麥角生物鹼給藥前必做的床邊檢查是什麼？	量血壓（血壓偏高或子癇前症者不可給）
+麥角生物鹼可否用於孕期？	孕期禁用（會誘發子宮收縮），僅用於產後；哺乳期需謹慎短療程（可能抑制泌乳）
+雌激素治療最重要的血管性紅旗是什麼？	靜脈血栓栓塞（VTE/DVT/PE）與缺血性中風風險升高
+為什麼有子宮的女性用雌激素必須加 progestin？	單用（unopposed）雌激素會刺激子宮內膜增生，增加子宮內膜癌風險；加 progestin 保護內膜
+哪類女性用含雌激素避孕藥風險特別高？	吸菸且 ≥ 35 歲者（心血管/血栓風險大增）
+子宮已切除的女性用 HRT 可以單用雌激素嗎？	可以，因無子宮內膜癌風險，不需併 progestin
+雌激素治療的癌症禁忌有哪些？	已知或疑似乳癌、雌激素依賴性腫瘤；不明原因陰道出血須先查明
+為什麼血栓風險族群優先選經皮雌激素？	經皮不經肝首渡代謝，VTE 風險較口服低
+哪些藥會降低雌激素/口服避孕效果？	酵素誘導劑：rifampin、部分抗癲癇藥、St. John's wort
+雌激素治療前必問的病史有哪些？	血栓史、乳癌史、吸菸、肝病、不明陰道出血
+雄性素補充治療的主要適應症是什麼？	經生化確認的男性性腺功能低下（hypogonadism）併有症狀
+睪固酮治療最重要的血液副作用是什麼？如何處理？	紅血球增多症（erythrocytosis）；Hct > 54% 應暫停並考慮放血
+睪固酮治療前後應監測哪些前列腺相關項目？	PSA 與肛門指診（前列腺癌/BPH）
+為什麼想生育的男性不該用外源性睪固酮？	外源睪固酮抑制 HPG 軸 → 精子生成下降、睪丸萎縮、不孕；應改用 hCG/促性腺激素
+哪些癌症是雄性素治療的禁忌？	前列腺癌與男性乳癌（已知或懷疑）
+經皮睪固酮凝膠有什麼特殊注意事項？	會轉移給接觸者（伴侶/孩童），塗抹部位須遮蓋並洗手
+口服 17-α 烷基化雄性素製劑的特有風險是什麼？	肝毒性（故現在少用）
+睪固酮治療需監測的常規實驗室項目？	睪固酮濃度、Hct/Hb、PSA、血脂（口服者加 LFT）
+Octreotide 是什麼類的藥、核心作用？	長效體抑素（somatostatin）類似物，廣泛抑制 GH、升糖素、胰島素、腸胃胜肽與內臟血流
+Octreotide 在急性食道靜脈曲張出血怎麼用、扮演什麼角色？	IV bolus 50 µg 後 50 µg/hr 連續輸注 2–5 天，降門脈壓「輔助」止血，不取代內視鏡結紮與抗生素
+Octreotide 長期使用最常見的併發症？	膽結石 / 膽泥 / 膽囊炎（抑制膽囊收縮）
+為什麼 octreotide 會造成血糖雙向失衡？	同時抑制胰島素與升糖素，可能高血糖也可能低血糖，需密切監測
+Octreotide 有哪些心臟方面副作用？	竇性心搏過緩、QT 延長、傳導阻滯
+Octreotide 治療肢端肥大症的機轉與監測指標？	抑制生長激素分泌，追蹤 GH 與 IGF-1
+Octreotide 對類癌症候群能控制哪些症狀？	潮紅與腹瀉（也用於 VIPoma、升糖素瘤等神經內分泌腫瘤）
+Octreotide 有哪個重要藥物交互作用會影響移植病人？	降低 cyclosporine 血中濃度，可能誘發排斥
+Octreotide 長效劑型（LAR）如何給藥？	深部臀肌 IM 每 4 週一次
+急性靜脈曲張出血除 octreotide 外還需要哪些整體處置？	內視鏡靜脈曲張結紮/硬化治療 + 預防性抗生素
+Mannitol 屬哪類利尿劑、機轉為何？	滲透性利尿劑；不被再吸收的糖醇提高腎小管管腔滲透壓把水帶走利尿，並提高血漿滲透壓把腦/眼水分拉回血管
+Mannitol 降顱內壓的標準劑量是多少？	0.25–1 g/kg IV，15–30 分鐘輸注，可每 6–8 小時重複
+為什麼 mannitol 給藥一定要用 in-line filter？	高濃度（20%）低溫易析出結晶，直接輸入會造成結晶栓塞；有結晶需溫水回溶後再用
+Mannitol 為什麼可能誘發或惡化肺水腫？	初期把組織間水分拉進血管→血漿容積擴張→心臟前負荷驟增，心衰/少尿病人易肺水腫
+什麼是 mannitol 的反彈性顱內壓升高（rebound ICP）？	重複/長期給藥時 mannitol 漏入腦組織，反把水拉進腦內導致 ICP 反彈升高
+使用 mannitol 時的 serum osmolality 目標與停藥指標？	維持 serum osm < 320 mOsm/kg；滲透壓 gap 過大提示蓄積應停藥
+Mannitol 的絕對禁忌之一是什麼？	無尿/嚴重腎衰竭且對試驗劑量無反應（藥排不掉→高滲、體液過載）
+少尿或腎功能不明時使用 mannitol 前應做什麼？	先給小劑量試驗劑量，確認能產生尿量再續用
+Mannitol 與 loop diuretic 在降 ICP 上的關係？	可作為替代或併用；loop 也降 ICP，兩者利尿與電解質流失會加成需監測
+Mannitol 高劑量蓄積可造成哪種腎損傷？	滲透性腎病變（osmotic nephrosis）→急性腎損傷，原本腎功能差者風險高
+噻嗪類利尿劑作用在腎元哪一段、抑制什麼轉運子？	遠曲小管（DCT）；抑制 Na⁺-Cl⁻ 共同轉運子（NCC）
+噻嗪類利尿劑對血鈣的作用、和 loop 有何不同？	促進遠曲小管鈣再吸收→降尿鈣、可致高血鈣；loop 則排鈣（降尿鈣可防腎結石）
+噻嗪類利尿劑的代謝副作用口訣「三低三高」是什麼？	低血鉀、低血鈉、低血鎂；高血鈣、高尿酸、高血糖（另有高血脂）
+哪一族群使用噻嗪最容易發生嚴重低血鈉？	老年、低體重女性
+原發性高血壓的一線噻嗪類、哪個心血管證據較強？	Chlorthalidone / Indapamide（thiazide-like，半衰期長、降壓與心血管結果證據強於 HCTZ）
+一般噻嗪在 eGFR 多少以下會失效？哪個例外？	eGFR < 30 效果差；Metolazone 為例外，腎功能不良仍有效
+什麼是序列腎元阻斷（sequential nephron blockade）？	Metolazone（thiazide-like）＋ loop diuretic 併用，同時阻斷不同腎元節段，利尿極強但易嚴重脫水/電解質崩盤
+噻嗪類為何可用於腎結石與腎性尿崩症？	降尿鈣→減少鈣結石復發；矛盾性抗利尿→減少腎性尿崩症的多尿
+噻嗪類與 digoxin 併用的風險是什麼？	低血鉀加重洋地黃毒性→心律不整
+噻嗪類為何要監測血糖與尿酸？	可致高血糖（削弱控糖）與高尿酸（誘發痛風發作）
+HCTZ 起始使用初期罕見但要注意的眼科急症是什麼？	急性近視/急性閉角型青光眼（用藥初期數小時至數週）
+Acetazolamide 的機轉為何、作用在腎元哪一段？	抑制碳酸酐酶；近曲小管 HCO₃⁻ 再吸收受阻→碳酸氫根隨尿排出，弱利尿並使尿鹼化
+Acetazolamide 會造成哪一型的酸鹼失衡？	正常陰離子間隙（高血氯型）代謝性酸中毒——因排出 HCO₃⁻
+Acetazolamide 預防高山症的原理與用法？	誘發代謝性酸中毒刺激呼吸中樞→改善通氣與高原適應；125–250 mg Q12H，登高前 1 天開始
+Acetazolamide 治療代謝性鹼中毒的原理？	排出 HCO₃⁻，尤其矯正利尿劑引起或心衰合併的代謝性鹼中毒
+Acetazolamide 常見的神經感覺副作用是什麼？	肢端與口周感覺異常（paresthesia，麻刺感）、味覺改變（碳酸飲料變味）
+為什麼 Acetazolamide 會造成低血鉀與腎結石？	HCO₃⁻ 到遠端帶走 K⁺→低血鉀；尿液鹼化 + 枸櫞酸尿減少→促（鈣磷酸鹽）結石
+Acetazolamide 屬哪一過敏族群、有何嚴重皮膚風險？	磺胺（sulfa）衍生物；罕見 Stevens-Johnson / TEN，磺胺嚴重過敏者避免
+為什麼 Acetazolamide 的利尿與降眼壓效果會自限（產生耐受）？	數天後 HCO₃⁻ 耗竭，作用減弱，不適合長期單用利尿
+Acetazolamide 用於青光眼的機轉是什麼？	抑制睫狀體碳酸酐酶→減少房水生成→降眼內壓
+肝硬化病人使用 Acetazolamide 要注意什麼？	可能誘發肝性腦病（影響氨排泄）——嚴重肝功能不全禁用
+保鉀利尿劑作用在腎元哪一段、兩大機轉分別是什麼？	集尿管主細胞；① 醛固酮受體拮抗（MRA：spironolactone/eplerenone）② ENaC 上皮鈉通道阻斷（amiloride/triamterene）
+保鉀利尿劑最重要的紅旗副作用是什麼？	高血鉀（hyperkalemia），可致命性心律不整；併 ACEI/ARB、腎損、糖尿病、補鉀時風險最高
+Spironolactone 最著名的性荷爾蒙副作用是什麼？如何處理？	男性女乳症（gynecomastia）、乳房脹痛、性慾下降；不耐者可改選擇性較高的 Eplerenone
+Spironolactone 與 Eplerenone 有何主要差異？	Eplerenone 對雄激素/黃體受體選擇性高→性荷爾蒙副作用少，但較貴；Spironolactone 便宜、證據多但有 gynecomastia
+哪些 MRA 心衰試驗證明改善存活？	RALES（spironolactone）、EPHESUS 與 EMPHASIS-HF（eplerenone）
+肝硬化腹水利尿的經典藥物與比例？	Spironolactone 為首選，常 + furosemide，經典比例 spironolactone:furosemide = 100:40 mg
+Spironolactone 用於心衰起始劑量與監測？	12.5–25 mg QD；1 週內複查 K⁺ 與 Cr，K⁺>5.0 或腎功能惡化需減量/停藥
+保鉀利尿劑一般在 eGFR 多少以下慎用？為什麼？	eGFR < 30（依院規）；K⁺排不掉→高血鉀風險陡升
+Triamterene 特有的泌尿系統副作用是什麼？	可致腎結石（也可能間質性腎炎）
+為什麼保鉀利尿劑不適合當急性利尿主力？	利尿力弱且起效慢（spironolactone 需數天）；主要價值在保鉀、心衰/腹水存活與症狀改善
+原發性醛固酮增多症（Conn's）的內科主力藥是什麼？	Spironolactone（醛固酮受體拮抗）
+環利尿劑（loop diuretics）作用在腎元哪一段、抑制什麼轉運子？	髓袢升支粗段（TAL）；抑制 Na⁺-K⁺-2Cl⁻ 共同轉運子（NKCC2）
+環利尿劑造成的三大電解質異常是什麼？	低血鉀（hypokalemia）、低血鎂（hypomagnesemia）、低血鈉（hyponatremia）；另有低血氯性代謝性鹼中毒
+Furosemide 的 IV : PO 效價比是多少、臨床意義？	1:2（口服吸收約 50%）；由 IV 轉 PO 時劑量約需加倍
+環利尿劑的耳毒性和哪些因素有關？	快速 IV 推注、大劑量、併用 aminoglycoside、腎衰竭；Ethacrynic acid 耳毒性最強
+哪一個環利尿劑不含 sulfa 結構、適合磺胺過敏者？	Ethacrynic acid（其餘 furosemide/bumetanide/torsemide 皆為 sulfonamide 衍生物）
+Furosemide、Bumetanide、Torsemide、Ethacrynic acid 的等效劑量換算？	Furosemide 40 mg = Torsemide 20 mg = Bumetanide 1 mg = Ethacrynic acid 50 mg
+Furosemide IV 推注速率上限是多少？為什麼？	≤ 4 mg/min；避免耳毒性（大劑量宜改持續輸注）
+環利尿劑與 digoxin 併用要特別注意什麼？	低血鉀會加重洋地黃毒性→誘發心律不整，需監測 K⁺ 與心電圖
+補鉀一直補不上來（頑固低血鉀）時該先想到什麼？	合併低血鎂——鎂不補好鉀補不進去，先矯正 hypomagnesemia
+環利尿劑用於高血鈣症的前提是什麼？	先充分補液（生理食鹽水），再用 loop 促進鈣排泄；單用會加重脫水
+心衰竭腸壁水腫時為何偏好靜脈或 torsemide？	腸壁水腫使口服 furosemide 吸收不穩；torsemide 口服吸收穩定（>80%），或改 IV
+Vaptans 的作用機轉是什麼？	阻斷腎集尿管的 Vasopressin V2 受體（ADH 的水通道作用），促進排水不排鈉（aquaresis）以提升血鈉
+Vaptans 與傳統利尿劑最大的不同是什麼？	傳統利尿劑排水又排鈉；vaptan 只排自由水、不影響電解質排出比例（aquaresis）
+Vaptans 的主要適應症有哪些？	SIADH 所致低血鈉、心衰竭合併（等/高血容）低血鈉；Tolvaptan 另用於多囊腎病 ADPKD
+矯正低血鈉太快最可怕的併發症是什麼？	滲透性脫髓鞘症候群（osmotic demyelination syndrome / 中央橋腦髓鞘溶解 CPM）
+為什麼 Vaptan 起始用藥要住院？	須密切監測血鈉，避免上升過快導致滲透性脫髓鞘症候群
+Tolvaptan 的黑框警語是什麼？	肝毒性，尤其多囊腎長期使用時需限制連續天數並監測肝功能
+Conivaptan 和 Tolvaptan 在途徑與選擇性上有何不同？	Conivaptan 僅 IV、非選擇性（V1a+V2）；Tolvaptan 口服、選擇性 V2
+Conivaptan 的 V1a 活性會帶來什麼風險？	血管擴張、低血壓，低血容積性低血鈉者須謹慎
+Tolvaptan 除了低血鈉還有哪一大專屬適應症？	多囊腎病（ADPKD），減緩囊腫生長與腎功能下降
+使用 Vaptan 期間為何要解除限水？	否則排水加上限水會使血鈉上升過快，增加脫髓鞘風險
+Ondansetron 的作用機轉為何？	拮抗 5-HT3（serotonin）受體，阻斷腸道迷走神經末梢與中樞 CTZ 的訊號 → 止吐
+Ondansetron 相較 metoclopramide 的最大安全優勢？	不引起錐體外症狀（EPS），因為它不是 D2 拮抗劑
+Ondansetron 最需注意的心臟副作用？	QT 延長 → Torsades；IV 給藥風險最高，單次 IV ≤ 16 mg（32 mg IV 已下市）
+Ondansetron 最常見的兩個副作用？	頭痛（最常見）與便秘
+Ondansetron 在化療止吐的標準搭配？	5-HT3 拮抗劑 + dexamethasone ± NK1 受體拮抗劑（高致吐化療）
+Ondansetron 的絕對禁忌併用藥？	Apomorphine（曾報告嚴重低血壓與意識喪失）
+Ondansetron 肝功能不良如何調整？	中重度肝損（Child-Pugh ≥ 10）每日總量 ≤ 8 mg；腎功能一般不需調整
+Ondansetron 與哪類藥併用要注意 serotonin syndrome？	SSRI/SNRI、tramadol、linezolid、MAOI 等血清素能藥物
+Ondansetron 在孕吐的定位？	非首選（首選 doxylamine-pyridoxine/B6）；早孕與唇顎裂微幅相關性證據不一，嚴重孕吐權衡使用
+哪種劑型適合正在嘔吐無法吞藥的病人？	口溶錠（ODT），放舌上溶解
+Aprepitant 的作用機轉是什麼？	Neurokinin-1（NK1）受體拮抗劑，阻斷 substance P 在中樞嘔吐中樞的作用
+Aprepitant 對哪一期的化療引起噁心嘔吐特別有效？	延遲性化療引起噁心嘔吐（delayed CINV，>24 小時）
+化療止吐的「三合一」標準組合是什麼？	NK1 拮抗劑（aprepitant）+ 5-HT3 拮抗劑（如 ondansetron）+ dexamethasone
+Aprepitant 與 Ondansetron 的機轉如何互補？	Ondansetron（5-HT3）對急性期較強；Aprepitant（NK1）對延遲期較強，兩者併用涵蓋全程
+Aprepitant 在 CYP3A4 上扮演什麼角色？	中度抑制劑（也有誘導作用），屬雙重角色
+Aprepitant 併用 dexamethasone 要注意什麼？	會提高 dexamethasone 血中濃度，合併時 dexamethasone 常需減量
+Aprepitant 對 warfarin 有何影響？	降低 warfarin 效果，須監測 INR（尤其療程後1–2週）
+Aprepitant 對口服避孕藥有何影響？	可能降低避孕效果，需採取額外或替代避孕
+Aprepitant 是預防用藥還是解救用藥？	預防用藥，用於高致吐化療前預防急性與延遲性噁心嘔吐，不是嘔吐當下才給
+Aprepitant 的適應症除了化療止吐還有什麼？	術後噁心嘔吐（PONV）預防
+Metoclopramide 的雙重機轉是什麼？	中樞阻斷 CTZ 的 D2 受體止吐 + 周邊促進上消化道蠕動（加速胃排空、增下食道括約肌張力）
+Metoclopramide 哪些族群 EPS/急性肌張力不全風險最高？	年輕人、女性、大劑量、快速 IV 給藥
+Metoclopramide 引起急性肌張力不全如何處置？	給抗膽鹼藥 benztropine 或 diphenhydramine IM/IV（同 haloperidol dystonia 處置）
+Metoclopramide 為什麼有療程限制（≤ 12 週）？	FDA 黑框警告長期使用可能導致不可逆的遲發性運動障礙（tardive dyskinesia）
+Metoclopramide 有哪些重要禁忌症？	腸胃機械性阻塞/穿孔/出血、嗜鉻細胞瘤、癲癇病史、既往遲發性運動障礙；帕金森病相對禁忌
+Metoclopramide 與 levodopa 為何互相拮抗？	Metoclopramide 阻斷 D2、levodopa 增加多巴胺作用，兩者藥效相反，且會惡化帕金森
+Metoclopramide 在腎功能不良如何調整？	CrCl < 40 mL/min 減量約 50%（藥物與代謝物腎排泄，蓄積增 EPS 風險）
+Metoclopramide 與 ondansetron 止吐機轉與副作用差異？	Metoclopramide 是 D2 拮抗兼促動力，會 EPS；ondansetron 是 5-HT3 拮抗，不促動力也不 EPS
+Metoclopramide 為何 IV 要緩慢推注？	快速 IV 易誘發躁動與急性肌張力不全，應至少 1–2 分鐘緩推
+Metoclopramide 的內分泌副作用？	高泌乳素血症（溢乳、月經失調），因阻斷結節漏斗系統 D2
+Prochlorperazine 與 promethazine 屬哪類、止吐機轉為何？	吩噻嗪類；阻斷中樞 D2 受體（promethazine 另有強 H1/抗膽鹼作用）而止吐
+為什麼 domperidone 的錐體外副作用比 metoclopramide 少？	domperidone 不易通過血腦障壁，主要阻斷周邊 D2 受體，故中樞 EPS 少（但周邊仍可 QT 延長、升泌乳素）
+哪兩類止吐藥最適合動暈症 / 前庭性噁心？	抗組織胺 dimenhydrinate 與抗膽鹼 scopolamine（貼片）；且須「出發前」預防性給，症狀出現後效果差
+Promethazine 靜脈注射有什麼致命警訊（黑框）？	IV 外滲或誤入動脈會造成嚴重組織壞死 / 壞疽；建議深部肌注或大量稀釋慢推、大靜脈給藥
+哪些止吐藥有 D2 阻斷共同副作用、要注意什麼？	prochlorperazine、promethazine、domperidone（及 metoclopramide）→ 錐體外症狀（EPS）、NMS、QT 延長、高泌乳素血症
+抗膽鹼類止吐藥（promethazine/dimenhydrinate/scopolamine）在老人要注意什麼？	口乾、視糊、尿滯留、便秘與譫妄 / 跌倒；青光眼、前列腺肥大、腸阻塞慎用
+Domperidone 為什麼要避免高劑量 / 長療程？	周邊 D2 阻斷仍可延長 QT、引發心律不整（靜脈劑型已多國下市），高劑量風險升高
+Scopolamine 用於動暈症的劑型與使用時機？	耳後貼片，應在出發前數小時貼上，效期約 72 小時（預防性）
+Promethazine 為什麼禁用於 2 歲以下兒童？	可能造成致命呼吸抑制（FDA 黑框）
+帕金森氏症病人需止吐時，為何 domperidone 相對可選？	多數 D2 阻斷止吐藥會惡化帕金森症狀，domperidone 不過血腦障壁對中樞 D2 影響少，相對較安全
+Morphine 的作用機轉是什麼？	μ-鴉片受體（mu）促效劑，強效止痛
+Morphine 最致命的副作用是什麼？	呼吸抑制
+Opioid 過量的典型三聯徵是什麼？	針狀瞳孔（pinpoint pupil）+ 呼吸抑制 + 意識下降
+Morphine / opioid 過量的解毒劑是什麼？要注意什麼？	Naloxone；半衰期短，長效 opioid 可能需重複給或持續輸注
+為什麼腎衰竭病人要慎用 morphine？	活性代謝物 M6G 會累積，導致呼吸抑制延長，宜改 fentanyl/hydromorphone
+Morphine 哪個副作用不會產生耐受、需常規預防？	便祕（需常規給軟便劑）
+Morphine 造成低血壓的機轉是什麼？	釋放組織胺並降低前負荷/交感抑制
+哪些藥與 morphine 併用會加乘呼吸抑制？	benzodiazepine、酒精、其他 opioid、gabapentinoid
+Morphine 在心臟科的傳統用途是什麼？	急性肺水腫/心衰緩解（降前負荷、減焦躁），現代較保守使用
+孕期長期使用 opioid 對新生兒的風險是什麼？	新生兒戒斷症候群（NAS）
+NSAID 的作用機轉是什麼？	抑制環氧合酶（COX），減少 prostaglandin，達止痛、退燒、抗發炎三效
+NSAID 與 acetaminophen 最大差別是什麼？	NSAID 多了抗發炎作用，但會傷胃、傷腎、影響心血管與血小板
+NSAID 三大器官毒性是哪三個？	GI（潰瘍出血）、腎（急性腎損傷）、心血管（血栓/心衰）
+NSAID 傷胃與傷心的口訣是什麼？	ANIK 傷胃（Aspirin、Naproxen、Indomethacin、Ketorolac）、CIV 傷心（Coxib、Ibuprofen、Voren/diclofenac）
+哪個 NSAID 心血管風險相對最低？	Naproxen
+COX-2 選擇性抑制劑（coxib）的毒性特點是什麼？	傷胃少但傷心（心血管風險上升）
+NSAID 傷腎的「三重打擊」是哪三種藥合用？	NSAID + ACEI/ARB + 利尿劑
+Ketorolac 使用有什麼限制？	強效但傷胃/腎，療程限短期（一般 ≤ 5 天）
+NSAID 在孕期哪個階段禁用、為什麼？	第三孕期，會使胎兒動脈導管早閉
+Ibuprofen 與低劑量 aspirin 併用要注意什麼？	競爭 COX-1 會削弱 aspirin 心血管保護，應先服 aspirin
+Indomethacin 在新生兒的特殊用途是什麼？	促使開放性動脈導管（PDA）關閉
+Acetaminophen 與 NSAID 最大的機轉差別是什麼？	Acetaminophen 主要作用於中樞，止痛退燒但幾乎無周邊抗發炎、不傷胃、不抑制血小板
+Acetaminophen 成人每日劑量上限是多少？	4 g/day（慢性酗酒/肝病/消瘦者降至 2–3 g/day）
+Acetaminophen 過量最主要的危害是什麼？	肝毒性/猛爆性肝衰竭（NAPQI 耗竭 glutathione 致肝壞死）
+Acetaminophen 中毒用什麼工具判斷是否需解毒？	Rumack-Matthew nomogram（以攝入後 4 小時血中濃度）
+Acetaminophen 過量的解毒劑是什麼？	NAC（N-acetylcysteine），越早給越有效
+為什麼酗酒者使用 acetaminophen 風險較高？	CYP2E1 誘導使 NAPQI 生成增加、glutathione 較少，肝毒性上升
+Acetaminophen 過量早期（<24h）為何危險？	症狀輕微或無症狀，易被忽略而延誤治療
+孕婦與兒童發燒的退燒首選是什麼？	Acetaminophen（相對最安全）
+Acetaminophen 為何適合不能用 NSAID 的病人？	不傷胃、不傷腎、不抑制血小板，適合潰瘍/腎不全/抗凝血/AERD 患者
+服用綜合感冒藥時使用 acetaminophen 要注意什麼？	許多複方含 acetaminophen，可能不自覺累加超過每日上限
+Opioid 作用於哪些受體？共通效果有哪些？	μ、κ、δ 鴉片受體；止痛、鎮靜、呼吸抑制、便祕、縮瞳、依賴成癮
+所有 opioid 共通的致死風險是什麼？	呼吸抑制（合併 BZD/酒精/gabapentinoid 加乘）
+Pethidine(Meperidine) 有哪兩個特殊地雷？	代謝物 normeperidine 致癲癇（腎不全累積）；與 MAOI 併用致 serotonin syndrome
+Codeine 與 Tramadol 經哪個酵素代謝？超快代謝者有何風險？	CYP2D6；超快代謝者會產生過量嗎啡效應（兒童/哺乳婦禁 codeine）
+Tramadol 除鴉片作用外有哪些額外風險？	抑制 serotonin/NE 回收 → 降癲癇閾值、serotonin syndrome
+腎衰竭病人首選哪些 opioid？	Fentanyl、Hydromorphone（避 morphine M6G、pethidine normeperidine 累積）
+Methadone 使用要監測什麼？	QT 延長（ECG），且半衰期長換算困難
+哪種 opioid 有天花板效應、用於戒癮替代？	Buprenorphine（部分促效劑）
+Opioid 換藥時為什麼要打折 equianalgesic dose？	避免不完全交叉耐受導致過量
+哪些 opioid 用途不是止痛？	Codeine 止咳、loperamide 止瀉、methadone/buprenorphine 戒癮替代
+PPI 的作用機轉與作用位置為何？	不可逆抑制胃壁細胞頂膜的 H⁺/K⁺-ATPase（質子幫浦），是酸分泌的最終共同路徑
+PPI 應該在什麼時候服用效果最好？	一般飯前 30–60 分鐘（空腹）服用；前驅藥需在酸性小管內活化
+為什麼 PPI 起效需要 1–4 天而非立即？	需累積抑制既有幫浦並待新泌酸幫浦合成才達穩態，單劑不足以完全抑酸
+病人服用 clopidogrel 又需要 PPI，該選哪一個？為什麼？	選 Pantoprazole；Omeprazole/Esomeprazole 強抑制 CYP2C19，會降低 clopidogrel 活化減弱抗血小板效果
+上消化道出血內視鏡止血後的高劑量 PPI 輸注方案？	80 mg IV bolus 後接 8 mg/hr 連續輸注 72 小時（或高劑量間歇 40 mg IV Q12H，依院規）
+PPI 長期使用有哪些重要副作用（至少列 4 項）？	低血鎂、B12/鐵缺乏、骨質疏鬆與骨折、C. difficile 腸炎、間質性腎炎、社區型肺炎風險
+低血鎂在 PPI 病人為何重要、會併發什麼？	可續發低血鈣低血鉀、抽搐與心律不整，長期使用或併用利尿劑/digoxin 需監測血鎂
+哪些藥物因需要胃酸吸收，與 PPI 併用會失效？	atazanavir、rilpivirine、ketoconazole/itraconazole、口服鐵劑等
+壓力性潰瘍預防（stress ulcer prophylaxis）該給誰？	僅高風險 ICU 病人（機械通氣>48h、凝血異常），一般病房不應常規給
+PPI 掩蓋了什麼需要先排除的重要疾病？	胃癌等惡性；有警示症狀（體重減輕、吞嚥困難、貧血、嘔血黑便、年長新發）應先排除
+H2 blocker 的作用機轉為何？	競爭性阻斷胃壁細胞基底膜的組織胺 H2 受體，降低 cAMP 與質子幫浦活性，抑制胃酸（尤其夜間基礎泌酸）
+H2 blocker 與 PPI 相比的優缺點？	起效快、可按需即時緩解，但制酸力弱且有快速耐受性（tachyphylaxis）；長期抑酸仍首選 PPI
+哪個 H2 blocker 是首選？為什麼？	Famotidine；無 CYP450 抑制、交互作用少（腎排除需依腎減量）
+Cimetidine 有哪兩大臨床問題使其少用？	① 強抑制多種 CYP450（升高 warfarin/phenytoin/theophylline 等）② 抗雄性素作用（男性乳房發育、性功能障礙）
+Ranitidine 為何全面下市？	製程中 NDMA（致癌性亞硝胺）污染，2020 年起全球回收停用
+Famotidine 在腎功能不良病人要注意什麼？	主要腎排除，eGFR 下降需減量或延長間隔，否則累積致意識混亂/譫妄（老年尤其）
+H2 blocker 的「快速耐受性」是什麼意思？	連續使用數日後抑酸效力下降（tachyphylaxis），故不適合長期單用控制
+制酸劑與 H2 blocker 併服要注意什麼？	制酸劑會降低 H2RA 吸收，建議間隔約 1–2 小時
+老年病人使用 H2 blocker 出現意識混亂，最可能原因？	腎排除藥物（famotidine/nizatidine）未依腎減量累積，產生中樞神經副作用
+H2 blocker 在過敏反應中的角色？	可與 H1 抗組織胺併用作為輔助治療（H2 + H1 阻斷）
+H. pylori 根除療法的核心組成原則是什麼？	PPI 強力抑酸（提高抗生素胃內濃度/穩定性）＋ 兩種以上抗生素 ± 鉍鹽的多藥組合
+為什麼現在傾向含鉍四合一而非傳統三合一？	clarithromycin 抗藥性上升使三合一根除率下降，含鉍四合一(PPI+Bismuth+Metronidazole+Tetracycline)不受 clarithromycin 抗藥性影響
+傳統三合一療法的組成是什麼？何時才適用？	PPI + Amoxicillin + Clarithromycin；僅適用於當地 clarithromycin 抗藥性低且病人未用過 macrolide
+青黴素過敏病人的 H. pylori 治療該如何調整？	不能用 amoxicillin，改含鉍四合一(metronidazole+tetracycline)或含 clarithromycin+metronidazole 方案
+現行建議的 H. pylori 療程長度是幾天、為什麼？	14 天；根除率優於 7/10 天，尤其在抗藥性上升地區
+Metronidazole 在療程中最重要的衛教是什麼？	治療期間及停藥後數日禁酒（disulfiram 反應：潮紅、嘔吐、心悸）
+Clarithromycin 的重大藥物交互作用來源是什麼？	強 CYP3A4 抑制，會升高 statin(橫紋肌溶解)、warfarin、colchicine 等濃度
+除菌療效如何驗證？時間點要注意什麼？	尿素呼氣試驗或糞便抗原；需 PPI 停≥2週、抗生素停≥4週後檢測，血清抗體不能判斷除菌成功
+H. pylori 根除的主要適應症有哪些（列 3 項）？	消化性潰瘍、胃 MALT 淋巴瘤、早期胃癌切除後/胃癌家族史、長期NSAID前、不明缺鐵性貧血、ITP
+除菌失敗最常見的原因是什麼？	順從性差（未足療程/未足劑量）與抗藥性；失敗後換方案應避開已用過的抗生素
+Sucralfate 的作用機轉為何？	在酸性環境聚合形成黏稠物理屏障，覆蓋潰瘍面隔絕酸/胃蛋白酶/膽鹽，促進癒合(不抑酸)
+Sucralfate 為何不宜與 PPI/制酸劑同時服用？	它需要酸性環境才能活化聚合，抑酸/中和會削弱其作用，應錯開時間
+Misoprostol 的機轉與主要腸胃適應症？	前列腺素 E1 類似物，促黏液/碳酸氫鹽分泌並抑酸；用於 NSAID 相關潰瘍預防(高風險長期NSAID者)
+Misoprostol 最重要的絕對禁忌是什麼？	懷孕（致子宮收縮造成流產/催生），育齡女性使用前須驗孕並避孕
+Misoprostol 最常見的副作用是什麼？	腹瀉與腹絞痛（劑量相關），隨餐服用可減輕
+Sucralfate 與哪些藥物螯合、要如何處理？	fluoroquinolone、levothyroxine、phenytoin、digoxin、warfarin、四環素等；分開服用至少2小時
+Sucralfate 含什麼成分、腎損病人要注意什麼？	含鋁，嚴重腎功能不良長期使用會鋁積聚(腦病/骨病)，洗腎病人慎用
+Bismuth 服用後出現黑便黑舌代表什麼？	多為無害的鉍鹽反應，但須與消化道出血的黑便區別，事前告知病人
+含鉍療法在 H. pylori 治療的角色？	組成含鉍四合一療法(bismuth + PPI + 兩種抗生素)，尤其用於抗藥性或標準療法失敗
+孕期需要黏膜保護/胃藥時，哪個相對安全、哪個絕對禁用？	Sucralfate 極少吸收相對安全；Misoprostol 絕對禁用(流產)，Bismuth 避用(水楊酸)
+瀉劑依機轉分哪五大類，各舉一例？	滲透性(Lactulose/PEG/Mg citrate)、刺激性(Bisacodyl/Senna)、膨脹性(psyllium纖維)、軟便劑(Docusate)、潤滑劑(礦物油)
+Lactulose 治療肝性腦病的機轉為何？	酸化腸腔使 NH₃ 轉為不易吸收的 NH₄⁺ 隨糞排出而降血氨，劑量調到每天 2–3 次軟便為目標
+肝性腦病用 Lactulose 為何「不是愈瀉愈好」？	過度瀉下致脫水、低血鉀低血鈉，反而加重腦病
+腎功能不良病人為何要避免含鎂瀉劑？	鎂經腎排除，腎損易累積致高血鎂（嗜睡、低血壓、心搏過緩、呼吸抑制）
+所有瀉劑的絕對禁忌是什麼？	腸阻塞/機械性梗阻/腸穿孔/急腹症（風險：毒性巨結腸、穿孔），用前需排除
+刺激性瀉劑（Bisacodyl/Senna）的機轉與起效時間？	刺激腸肌神經叢促進蠕動、減少水分吸收；口服約 6–12 小時、栓劑 15–60 分鐘
+慢性便秘長期維持首選哪類瀉劑、為什麼？	PEG（polyethylene glycol）；安全、耐受佳、不易依賴，滲透性拉水軟化糞便
+膨脹性纖維使用要注意什麼？	必須搭配足量水分，否則反致食道/腸道阻塞；腸阻塞禁用
+Docusate（軟便劑）的臨床限制是什麼？	實證效果有限，單用對真正便秘常不足，不應作為唯一治療
+孕期便秘首選哪些瀉劑？	PEG、膨脹性纖維、Lactulose 相對安全；刺激性瀉劑短期審慎避免長期
+止瀉劑主要分哪三類，各舉一例？	鴉片類 μ 受體致效劑(Loperamide/Diphenoxylate)、吸附劑(Kaolin-Pectin/活性碳)、體抑素類似物(Octreotide)
+為什麼感染性/血便腹瀉不應用 Loperamide？	抑制腸蠕動會延長毒素滯留，增加毒性巨結腸、腸穿孔、敗血症風險（C. difficile 尤其禁）
+Loperamide 過量會造成什麼致命後果？	阻斷心臟鈉/鉀通道致 QT 延長、QRS 增寬、torsades、猝死；勿超過每日 16 mg
+急性腹瀉治療的核心是什麼（比止瀉更重要）？	補液（口服電解質液或靜脈輸液）與找病因；止瀉只是輔助症狀控制
+Diphenoxylate 為何要加 atropine？帶來什麼風險？	加少量 atropine 防止濫用；過量會產生抗膽鹼中毒（口乾、視力模糊、尿滯留、心搏過速、譫妄）
+Loperamide 為何幾乎不引起中樞鴉片作用？	它是周邊選擇性 μ 受體致效劑，極少通過血腦障壁（且為 P-gp 受質被排出中樞）
+Octreotide 的止瀉適應症與特殊副作用？	用於分泌性/腫瘤性腹瀉、傾食症候群、胰廔；副作用含膽結石/膽泥、血糖異常、心搏過緩
+Bismuth subsalicylate 服用會出現什麼易被誤解的現象？	黑便與黑舌（可能與消化道出血黑便混淆），含水楊酸兒童病毒感染避用（Reye）
+造口高輸出（high-output stoma）可用哪個止瀉劑減量？	Loperamide（可增劑量減少腸道輸出，依臨床調整）
+吸附劑（kaolin、bismuth）與其他口服藥併用要注意什麼？	會螯合/降低他藥吸收，應間隔服用
+Simethicone 的作用機轉為何？	界面活性 silicone 降低腸胃氣泡表面張力，使小氣泡聚合成大氣泡較易經噯氣/排氣排出，緩解脹氣
+Simethicone 為什麼安全性極高、幾乎無交互作用？	它是惰性物質、不被腸道吸收、無全身作用，故無明顯毒性也不與全身藥物交互
+Simethicone 使用最重要的臨床警惕是什麼？	只緩解症狀不治病因，伴警示症狀(劇痛/嘔吐/無排氣排便/發燒)須先排除腸阻塞、腹膜炎等
+Simethicone 除緩解脹氣外還有什麼臨床用途？	內視鏡/腹部影像檢查前消除腸道泡沫以改善視野
+Simethicone 在孕婦與哺乳可以用嗎？	可以，因不吸收視為安全，常作為孕期脹氣的選擇
+Simethicone 需要依腎肝功能調整劑量嗎？	不需要，因不被吸收無全身代謝/排泄考量
+嬰兒腸絞痛可以用 Simethicone 嗎？	可作為輔助（安全性高），但實證效果因人而異
+Simethicone 常與哪類藥物做成複方？	制酸劑（緩解消化不良合併脹氣）
+輕中度潰瘍性結腸炎（UC）的第一線用藥是什麼？	5-ASA（Mesalamine），可誘導也可維持緩解
+Sulfasalazine 進入結腸後被細菌分解成哪兩部分、療效與副作用各來自哪個？	分解為 5-ASA（療效部分）+ sulfapyridine（大多數副作用來源）
+Azathioprine / 6-MP 用藥前為什麼必須檢查 TPMT？	TPMT（thiopurine methyltransferase）缺乏者無法代謝 thiopurine，會導致致命性骨髓抑制
+Allopurinol 與 Azathioprine/6-MP 併用為什麼危險、如何處理？	Allopurinol 抑制 xanthine oxidase 使 thiopurine 代謝物暴增 → 嚴重骨髓抑制；必須併用時 thiopurine 減量至 1/4 並密切監測
+類固醇在 IBD 中扮演什麼角色、能不能長期維持？	只用於「誘導緩解」，不可長期維持（骨鬆/感染/腎上腺抑制），停藥須逐步 taper
+Infliximab 等 anti-TNF 生物製劑使用前必須篩檢什麼？	潛伏結核（IGRA/TST + 胸片）與 B 型肝炎（HBsAg/anti-HBc），避免結核與 B 肝再活化
+Vedolizumab 的作用機轉與優勢是什麼？	抗 α4β7 integrin，具腸道選擇性，全身免疫抑制較少
+Sulfasalazine 有哪個對年輕男性重要的可逆副作用？	可逆性精子減少（男性不孕），停藥後恢復；並會抑制葉酸吸收故建議補葉酸
+中毒性巨結腸（toxic megacolon）時哪類藥物要避免？	止瀉劑與抗膽鹼藥（會抑制腸蠕動使病情惡化），是外科急症
+5-ASA 需長期監測哪個器官的少見但重要副作用？	腎臟（間質性腎炎），需定期追腎功能
+制酸劑與 PPI/H2 blocker 的機轉差異？	制酸劑是弱鹼直接中和已分泌的胃酸(不影響泌酸)，起效最快但作用短；PPI/H2 抑制泌酸、起效較慢作用較長
+「鋁便秘、鎂腹瀉」怎麼記與應用？	氫氧化鋁致便秘、含鎂致腹瀉；臨床用鋁鎂複方讓腸道副作用互相抵消
+制酸劑最常見、值班易忽略的交互作用是什麼？	螯合/降低多種口服藥吸收(四環素、fluoroquinolone、鐵、levothyroxine、bisphosphonate)，需間隔至少2小時
+Milk-alkali syndrome 的三聯徵是什麼？	高血鈣 + 代謝性鹼中毒 + 急性腎損傷（大量碳酸鈣+鹼引起）
+碳酸氫鈉作為制酸劑有哪些缺點？	高鈉負荷(心腎病慎用)、產CO₂脹氣、酸反彈、可致系統性代謝性鹼中毒
+腎功能不良病人使用制酸劑要避免什麼？	含鎂(高血鎂)、長期含鋁(鋁腦病/骨病)、大量鈣(高血鈣)
+氫氧化鋁除中和胃酸外還有什麼用途？	作為磷結合劑治療慢性腎病的高磷血症
+什麼是「酸反彈(acid rebound)」？哪些成分較明顯？	中和後刺激後續胃酸分泌增加，碳酸鈣、碳酸氫鈉較明顯
+孕期胃灼熱較安全的制酸劑選擇？	鈣基或鋁鎂制酸劑相對安全；避免大量碳酸氫鈉(鈉負荷)與長期高鈣
+制酸劑的作用維持時間大約多久？	僅約30分鐘到數小時（故適合按需即時緩解，非長期控制）
+促動力藥三大機轉類別各舉一例？	D2 多巴胺拮抗(Metoclopramide/Domperidone)、5-HT4 致效(Mosapride/Prucalopride)、motilin 受體致效(Erythromycin)
+Metoclopramide 最重要的神經副作用是什麼？如何預防？	錐體外症候群(EPS)含遲發性運動障礙(可能不可逆)；限療程≤5天、避免長期、老年兒童慎用
+Domperidone 相較 Metoclopramide 的優缺點？	優：不過血腦障壁故 EPS 少；缺：仍有 QT 延長與心因性猝死風險，需最低劑量最短療程
+哪些促動力藥會延長 QT？值班要先查什麼？	Domperidone、Metoclopramide、靜脈 Erythromycin；先查電解質(低鉀低鎂)與基礎 ECG，避免併用其他 QT 藥
+Erythromycin 作為促動力藥的機轉與限制？	motilin 受體致效強力促胃排空；限制是快速耐受(tachyphylaxis)與抗藥性，僅短期用
+促動力藥的絕對禁忌（消化道相關）是什麼？	腸道機械性阻塞、穿孔、消化道出血（促動力會加重）
+D2 拮抗型促動力藥為何造成高泌乳素血症？	阻斷下視丘-腦垂體多巴胺對泌乳素的抑制 → 泌乳素上升 → 溢乳、月經異常、男性乳房發育
+Metoclopramide 在腎功能不良病人要如何調整？	腎排除故需減量，且腎損/老年 EPS 風險上升
+為什麼帕金森病與癲癇病人要避免 Metoclopramide？	D2 拮抗惡化帕金森症狀；且降低癲癇閾值可能誘發發作
+糖尿病胃輕癱的常用促動力藥有哪些？	Metoclopramide（FDA 核准）、急性期可短期用 Erythromycin；Domperidone 亦可（心臟考量）
+Ursodeoxycholic acid 的三大作用機轉是什麼？	① 親水性膽酸取代肝內累積的疏水性毒性膽酸 ② 降低膽固醇在膽汁中的飽和度促進膽固醇結石溶解 ③ 細胞保護與輕度免疫調節
+UDCA 的第一線適應症是什麼疾病？	原發性膽汁性膽管炎（PBC, primary biliary cholangitis）
+UDCA 溶石療法只對哪種膽結石有效？	小型、純膽固醇、非鈣化、且膽囊功能正常者；鈣化石與色素石無效
+為何現在 UDCA 溶石療法臨床上少用？	療程長（數月至數年）、停藥易復發，多被腹腔鏡膽囊切除取代，僅保留給不適開刀者
+UDCA 最常見的副作用是什麼？	腹瀉（整體耐受性佳）
+UDCA 有哪一項重要禁忌？	膽道完全阻塞禁用
+PBC 病人使用 UDCA 反應不佳時該怎麼辦？	考慮加上二線藥物，如 obeticholic acid
+UDCA 在孕期的用途是什麼？	妊娠期肝內膽汁淤積症（ICP），緩解搔癢並改善生化指標
+哪些藥物會降低 UDCA 的吸收、需錯開服用？	膽酸結合劑（cholestyramine、colestipol）與含鋁制酸劑
+追蹤 PBC 對 UDCA 的反應要看哪些指標？	ALP、膽紅素等膽汁鬱積相關生化與肝功能
+碳酸氫鈉在 TCA 中毒的兩個機轉？	血清鹼化 + 鈉負荷，逆轉 TCA 對心肌 Na 通道的阻斷（改善 QRS 增寬 / 低血壓 / 心律不整）
+TCA 中毒給碳酸氫鈉的心電圖指標？	QRS > 100 ms（或 aVR 終末 R 波 / 右軸偏移），給 1–2 mEq/kg IV bolus 至 QRS 變窄
+TCA 中毒碳酸氫鈉的血 pH 目標？	約 7.45–7.55（血清鹼化）
+水楊酸中毒碳酸氫鈉的兩個目的？	鹼化血清減少水楊酸入腦 + 鹼化尿液（尿 pH 7.5–8）促排泄（離子捕捉）
+水楊酸中毒鹼化尿液時為何一定要補鉀？	低血鉀會使腎小管交換 H⁺ 保留，尿液無法有效鹼化，且低鉀致心律不整
+水楊酸 / TCA 中毒插管後最危險的通氣錯誤？	分鐘通氣不足導致酸中毒惡化 → 水楊酸更易入腦、TCA 心毒性加劇，可致死
+碳酸氫鈉常見的電解質副作用？	低血鉀、低血鈣（游離鈣下降）、代謝性鹼中毒
+嚴重水楊酸中毒何時需血液透析？	濃度極高、意識改變、肺水腫、腎衰竭、酸鹼難矯正時；碳酸氫鈉只是橋接
+水楊酸中毒容積相關的嚴重併發症？	肺水腫（本就易發生，加上碳酸氫鈉鈉/容積負荷）
+碳酸氫鈉輸注管路相容性要注意什麼？	與含鈣輸液會沉澱、與 catecholamine 不相容，需分開管路
+Methylene blue 解變性血紅素血症的機轉？	作為電子載體被 NADPH-MetHb reductase 還原，把 methemoglobin 的 Fe³⁺ 還原回 Fe²⁺ 恢復攜氧
+變性血紅素血症的典型臨床線索？	SpO₂ 卡在約 85% 對 O₂ 無反應、血呈巧克力棕色、發紺與 PaO₂ 不成比例；以 co-oximetry 確診
+Methylene blue 的絕對禁忌？	G6PD 缺乏症 —— 缺 NADPH 使其無效且誘發嚴重溶血
+Methylene blue 的起始劑量與給法？	1–2 mg/kg IV 稀釋輸注 5 分鐘以上，30–60 分鐘可重複 1 mg/kg
+Methylene blue 累積劑量上限與過量後果？	約 7 mg/kg；過量反而氧化血紅素造成變性血紅素血症 / 溶血
+Methylene blue 與哪類藥併用會血清素症候群？	serotonergic 藥（SSRI/SNRI/MAOI）—— 本身具 MAO 抑制活性
+打完 methylene blue 為何脈搏血氧會假性下降？	染料干擾脈搏血氧讀值，暫時假性下降，應以 co-oximetry 為準
+哪些藥物常引起後天性變性血紅素血症？	dapsone、benzocaine / lidocaine、亞硝酸鹽 nitrates/nitrites、苯胺 aniline 染料
+G6PD 缺乏或 methylene blue 無效時的替代治療？	換血、輸紅血球、高壓氧、ascorbic acid（維生素 C）
+一般什麼程度的 MetHb 需要治療？	有症狀者（通常 MetHb > 20–30%），缺氧 / 心肺疾病者門檻更低
+Glucagon 作為解毒劑的機轉？	活化 adenylyl cyclase 繞過被阻斷的 β 受體直接升高 cAMP，增強心肌收縮力與心率
+Glucagon 主要用於哪種中毒？	β-blocker（乙型阻斷劑）過量，症狀性心搏過緩 / 低血壓對輸液 atropine 無反應者
+Glucagon 解毒的負荷劑量？	3–10 mg IV 慢推，無反應可重複；起效後接持續輸注
+Glucagon 持續輸注時速如何設？	約等於起效 bolus 劑量 per hour（例 5 mg 起效 → 5 mg/h）
+Glucagon 最常見且需防範的副作用？	嘔吐（劑量相關），意識抑制者需先保護氣道防吸入；另有高血糖
+CCB 中毒為何 glucagon 只是輔助？	CCB 中毒需多管齊下 —— IV 鈣、高劑量胰島素-葡萄糖（HIET）、升壓劑、脂肪乳，glucagon 效果不如對 β-blocker 穩定
+Glucagon 的兩個內分泌腫瘤禁忌？	嗜鉻細胞瘤（高血壓危象）、胰島素瘤（反跳性低血糖）
+Glucagon 解毒常見的代謝副作用？	高血糖（預期效應）與低血鉀，需監測補正
+β-blocker 過量心搏過緩對 atropine 無反應時，除 glucagon 還可考慮？	高劑量胰島素-葡萄糖、升壓劑、必要時經皮 / 經靜脈節律器
+大劑量 glucagon 的供藥實務問題？	每支多為 1 mg，需多支，院內存量可能不足，應早通知藥局備藥
+NAC 解 acetaminophen 中毒的機轉？	補充 glutathione 前驅物，中和肝毒性代謝物 NAPQI
+Acetaminophen 中毒給 NAC 的黃金時間窗？	攝入後 8–10 小時內啟動，肝毒性幾乎可完全預防
+是否需要治療 acetaminophen 急性單次中毒依何判定？	Rumack-Matthew nomogram（攝入後 4 小時起的血中濃度對時間）
+若攝入已超過 8 小時或濃度來不及測，該怎麼辦？	先給 NAC 不要等，晚到仍有效，不可為等 nomogram 而延誤
+IV NAC 21 小時三段式劑量？	150 mg/kg 輸 1h → 50 mg/kg 輸 4h → 100 mg/kg 輸 16h（總量 300 mg/kg）
+IV NAC 第一段最常見的不良反應是什麼？	類過敏反應（anaphylactoid）—— 潮紅、蕁麻疹、支氣管痙攣、低血壓，多與快速輸注相關
+出現 NAC 類過敏反應該如何處理？	暫停或減慢輸注 + 抗組織胺後多可續用，非真過敏（真性嚴重過敏才停）
+Nomogram 不適用於哪些情況？	慢性、分次、攝入時間不明的中毒；此時看肝功能 + acetaminophen level + 臨床
+孕婦 acetaminophen 過量要給 NAC 嗎？	要，照常給，母體救命優先且可過胎盤保護胎兒肝
+NAC 療程何時可停？	acetaminophen 測不到 + 肝功能 / INR 改善；異常則延長第 3 段，不是跑完固定時數就停
+Deferoxamine 解急性鐵中毒的機轉？	螯合血中游離鐵形成 ferrioxamine 經腎排出（尿呈玫瑰紅 vin rosé）
+急性鐵中毒何時給 deferoxamine？	休克 / 代謝性酸中毒 / 意識改變 / 顯著症狀，或 serum iron >500 µg/dL（>350 有症狀即治），或大量攝入 X 光見鐵錠
+Deferoxamine 的起始輸注速度與最大副作用？	15 mg/kg/h IV；輸速過快致低血壓，需減速
+「vin rosé」尿代表什麼？	deferoxamine 螯合到鐵（ferrioxamine 排出），傳統指標但敏感/特異性不足，臨床改善才是主要終點
+Deferoxamine 長時間輸注（>24h）的兩大風險？	急性呼吸窘迫症候群（ARDS）與 Yersinia enterocolitica 敗血症
+急性鐵中毒的腸胃道去污為何不用活性碳？	鐵不被活性碳吸附；大量攝入 / X 光見鐵錠時用全腸道灌洗（whole-bowel irrigation）
+Deferoxamine 的停藥終點？	臨床穩定、酸中毒緩解、尿色轉正常、鐵濃度下降；儘量縮短療程
+孕婦急性鐵中毒要給 deferoxamine 嗎？	要，母體致命毒性優先於藥物風險
+為什麼 deferoxamine 會增加 Yersinia 感染？	鐵螯合物提供該菌生長所需鐵源，促其增殖
+嚴重腎功能不全用 deferoxamine 要注意什麼？	ferrioxamine 經腎排泄會蓄積，需評估透析清除
+Naloxone 的作用機轉？	純競爭性 μ-opioid 受體拮抗劑，逆轉鴉片造成的呼吸抑制與昏迷
+鴉片過量的典型三聯徵？	呼吸抑制（<12/min）、針狀瞳孔（pinpoint pupils）、意識抑制
+慢性鴉片成癮者給 Naloxone 為何要小劑量滴定？	避免完全逆轉誘發急性戒斷（躁動、嘔吐吸入、交感風暴、甚至肺水腫）；目標是恢復呼吸而非完全清醒
+慢性成癮者的 Naloxone 起始滴定劑量？	0.04–0.4 mg IV，每 2–3 分鐘視呼吸加倍向上滴定
+為什麼 Naloxone 救回後病人可能再度昏睡？	半衰期（30–90min）遠短於多數 opioid（尤其 methadone / 緩釋 / fentanyl patch），需重複給藥或持續輸注
+Naloxone 持續輸注的起始時速如何估？	約為使病人甦醒之有效總劑量的 2/3 per hour，再依呼吸滴定
+哪些鴉片救回後需特別長時間留觀？	methadone（半衰期 15–60h）、緩釋劑、fentanyl patch —— 常需 ≥24h 收住院監測
+為何 fentanyl / carfentanil 過量可能需大劑量 Naloxone？	合成高效鴉片受體親和力高，常需累加數 mg 甚至更多才能逆轉
+Naloxone 對 benzodiazepine 或酒精中毒有效嗎？	無效；它只拮抗鴉片受體
+Naloxone 快速大劑量完全逆轉最危險的併發症？	急性肺水腫與交感風暴（心律不整、心肌缺血），以及嘔吐吸入
+活性碳的作用機轉？	多孔性吸附劑，在腸胃道吸附尚未吸收的毒物，阻斷其進入血液
+活性碳給藥的最佳時機？	攝入後 1 小時內效益最大，越早越好
+活性碳的絕對禁忌是什麼？	氣道未保護的意識障礙 / 抽搐 / 無嘔吐反射（吸入致化學性肺炎、ARDS）；需給則先插管
+活性碳對哪些毒物無效（PHAILS）？	Pesticides(部分)/Hydrocarbons、Alcohols/Acids-alkali(腐蝕劑)、Iron、Lithium、Solvents/Salts（金屬與離子小分子吸附差）
+活性碳成人單劑常用量？	25–100 g PO/NG（約 1 g/kg），炭:毒物比約 10:1
+為什麼腐蝕劑（強酸強鹼）不給活性碳？	無吸附效果，且妨礙內視鏡評估並增加嘔吐 / 穿孔風險
+多劑活性碳（MDAC）用於哪些藥物？	carbamazepine、theophylline、phenobarbital、dapsone、quinine（促進腸道清除）
+活性碳最致命的併發症？	吸入造成化學性 / 阻塞性肺炎與 ARDS（氣道未保護時）
+活性碳與口服 NAC 併用要注意什麼？	活性碳會吸附口服 NAC，建議分開時間給予
+MDAC 反覆給為何不建議配瀉劑（sorbitol）？	造成脫水與電解質紊亂
+螯合劑降低重金屬毒性的共同機轉是什麼？	用多齒配位基與游離金屬離子形成穩定水溶性複合物，經腎或腸道排出
+鉛腦病（lead encephalopathy）的螯合給藥順序為何？	先給 Dimercaprol（BAL），數小時後再加 CaNa2EDTA；順序顛倒會使鉛再分布入腦
+為什麼鉛腦病不能單獨先給 EDTA？	EDTA 會把周邊組織的鉛動員入血並再分布進腦，惡化腦病
+EDTA 螯合鉛時必須用哪一種鹽型？誤用哪種會致命？	必須用 Calcium disodium EDTA（CaNa2EDTA）；誤用 disodium EDTA（Na2EDTA）會螯合血鈣造成致命性低血鈣
+Dimercaprol（BAL）禁用於哪些金屬中毒？	鐵與鎘（cadmium）中毒，會形成更毒的複合物
+Dimercaprol 對哪種酵素缺乏的病人可能引起溶血？	G6PD 缺乏
+兒童輕中度鉛中毒常用哪種口服螯合劑？	Succimer（DMSA），方便且不需靜脈給藥
+Penicillamine 是哪種中毒的第一線螯合劑？	銅中毒／威爾森氏症（Wilson disease）
+Penicillamine 的特徵性嚴重副作用有哪些？	紅斑性狼瘡樣症候群、骨髓抑制、蛋白尿；且會消耗維生素 B6 需併補
+Prussian Blue（亞鐵氰化鐵）用於哪兩種金屬中毒？機轉為何？	銫-137 與鉈（thallium）中毒；在腸道與這些離子交換、阻斷腸肝循環再吸收，經糞便排出
+Dimercaprol 的劑型與給藥途徑為何？	油性製劑，深部肌肉注射
+Prussian Blue 常見的副作用是什麼？	便秘與糞便藍色染色
+有機磷中毒中 atropine 的作用與劑量終點？	拮抗蕈毒鹼症狀；終點是支氣管分泌乾燥、肺乾、氧合改善（不是瞳孔或心率）
+Atropine 在有機磷中毒如何滴定？	起始 2–5 mg IV，每 5 分鐘加倍直到肺乾；可能需累加數十至上百 mg，達終點後持續輸注
+Pralidoxime（2-PAM）的作用機轉？	重活化被磷酸化的乙醯膽鹼酯酶（AChE），改善菸鹼型症狀（肌無力 / 呼吸肌麻痺）
+為什麼 pralidoxime 要早給？	AChE 被磷酸化後會隨時間「老化 aging」變不可逆，老化前給效益最佳
+Pralidoxime 的負荷劑量與輸注注意？	1–2 g IV 稀釋輸注 15–30 分鐘（勿快推，快推致低血壓/心跳停），之後持續輸注約 500 mg/h
+氨基甲酸酯（carbamate）中毒為何通常只需 atropine？	carbamate 抑制 AChE 可自行水解回復，pralidoxime 非必要（部分意見認為對嚴重 carbaryl 無益/有害）
+有機磷中毒的蕈毒鹼症狀記憶法？	SLUDGE — Salivation, Lacrimation, Urination, Defecation, GI cramps, Emesis（加支氣管漏、瞳孔縮小）
+有機磷中毒的主要死因？	呼吸衰竭（菸鹼型肌無力 + 支氣管分泌 + 中樞抑制）—— 需早期插管與呼吸支持
+有機磷中毒插管時要避免哪個肌鬆劑？	succinylcholine（被抑制的 AChE 延長其麻痺作用）
+處理有機磷污染病人自身要注意什麼？	去污 + 個人防護裝備（PPE），避免醫護二次暴露
+Digoxin Immune Fab 的作用機轉？	綿羊來源 digoxin 特異性抗體 Fab 片段，直接結合中和血中 digoxin
+急性毛地黃中毒給 Fab 最重要的實驗室指標？	高血鉀（K⁺ > 5.0–5.5 mmol/L），反映 Na-K-ATPase 大量被抑制，預後不良指標
+毛地黃中毒的高血鉀為何不建議急著給 IV 鈣？	傳統認為可能誘發「石頭心 stone heart」（爭議），首選 Fab 而非給鈣
+依血中濃度估算 Fab vial 數的公式？	vials = [serum digoxin (ng/mL) × 體重(kg)] / 100（1 vial 中和約 0.5 mg digoxin）
+不明攝入量的急性毛地黃中毒經驗劑量？	危急時 10–20 vials；慢性中毒常 3–6 vials 滴定
+給 Fab 後為何要警惕低血鉀？	digoxin 被中和後細胞回收 K⁺，血鉀下降，需監測補鉀
+給 Fab 後 digoxin level 還能判讀嗎？	不能；total digoxin 濃度會假性上升（含被結合的），失去意義
+毛地黃中毒給 Fab 的心律適應症？	惡性室性心律不整、對 atropine/節律器無反應的症狀性緩脈或高度 AV block
+依攝入量估算 Fab 的公式？	vials = 攝入量(mg) × 0.8（生體可用率）/ 0.5
+Fab 可用於哪些非藥物性強心苷中毒？	夾竹桃（oleander）等含強心苷植物、蟾蜍毒素（交叉結合，效益個別）
+Fomepizole 的作用機轉？	競爭性抑制 alcohol dehydrogenase（ADH），阻斷甲醇→甲酸、乙二醇→草酸的毒性代謝
+Fomepizole 用於哪兩種中毒？	甲醇中毒（失明）與乙二醇中毒（草酸鈣致急性腎衰竭）
+Fomepizole 的負荷劑量？	15 mg/kg IV 輸注 ≥30 分鐘
+Fomepizole 維持劑量與 48h 後為何要增量？	前 48h 每 12 小時 10 mg/kg × 4 劑；48h 後改 15 mg/kg Q12H，因自我誘導代謝
+為什麼甲醇/乙二醇中毒要「懷疑就早給」fomepizole？	它阻斷母醇轉成毒酸，一旦大量毒酸生成（酸中毒、失明、腎損傷）效益下降
+Fomepizole 能取代血液透析嗎？	不能；嚴重酸中毒、末器官損傷、高濃度仍需 HD 清除毒醇與毒酸
+透析中 fomepizole 劑量要怎麼調整？	HD 會清除 fomepizole，需縮短給藥間隔 / 加量（依方案）
+甲醇中毒與乙二醇中毒各補什麼輔助維生素？	甲醇補 folinic acid/folate；乙二醇補 thiamine + pyridoxine
+異丙醇（isopropanol）中毒需要 fomepizole 嗎？	不需要，其代謝物 acetone 無毒酸、不造成陰離子間隙酸中毒
+Fomepizole 相較 ethanol 療法的優點？	劑量穩定、無醉態、無低血糖/呼吸抑制、不需頻繁監測血中酒精
+氰化物中毒的核心機轉是什麼？	抑制粒線體細胞色素 c 氧化酶（cytochrome c oxidase），阻斷有氧代謝，造成組織缺氧與乳酸中毒（動脈血氧仍正常）
+氰化物中毒為何動脈血氧看似正常卻嚴重缺氧？	細胞無法利用氧（histotoxic hypoxia），氧留在血中送不進粒線體，故 SaO2 正常但組織缺氧、乳酸飆高
+傳統氰化物解毒套組的三個藥物與順序？	Amyl nitrite 吸入（過渡）→ Sodium nitrite IV → Sodium thiosulfate IV
+Sodium nitrite 的解毒機轉為何？	誘導 methemoglobinemia，將血紅素 Fe²⁺ 氧化成 Fe³⁺，高鐵血紅素與 CN⁻ 結合成 cyanmethemoglobin，把 CN⁻ 從細胞色素氧化酶拉走
+Sodium thiosulfate 的解毒機轉為何？	提供硫供體，經 rhodanese 酶將 CN⁻ 轉成毒性較低的 thiocyanate 經腎排出
+火場煙霧吸入合併 CO 中毒時，為何禁用亞硝酸鹽類？	亞硝酸鹽誘導 methemoglobinemia，會再降低已被 CO 佔據的攜氧能力，兩者疊加致命
+火場煙霧合併疑似 CO + 氰化物中毒時首選哪個解毒劑？	Hydroxocobalamin（Cyanokit）
+Hydroxocobalamin 的解毒機轉為何？	直接與 CN⁻ 結合形成無毒的 cyanocobalamin（維生素 B12）經尿排出，不影響攜氧能力
+Hydroxocobalamin 常見且可辨識的副作用是什麼？	皮膚、黏膜、尿液暫時性紅色（洋紅色），並會干擾比色法檢驗
+給 Sodium nitrite 時要監測什麼血流動力學副作用？	低血壓（血管擴張）與反射性心搏過速
+指向氰化物中毒的實驗室線索是什麼？	不明原因的嚴重乳酸中毒（lactate 常 ≥8–10）合併動脈血氧正常、心血管崩潰
+Hydroxocobalamin 與 Sodium thiosulfate 併用要注意什麼？	兩者不要同一條 IV line 同時輸（會反應），需分開給
+Betahistine 的機轉與主要適應症？	組織胺 H1 弱促效 + H3 拮抗，改善內耳（耳蝸/前庭）微循環；主要用於梅尼爾氏症
+Betahistine 有哪兩類病人要慎用、為什麼？	氣喘與消化性潰瘍——因其 H1 促效活性理論上可能誘發支氣管收縮與胃酸相關症狀
+Flunarizine 的機轉與兩大適應症？	鈣通道阻斷；用於前庭性眩暈與偏頭痛預防
+Flunarizine 長期使用最重要的三個不良反應是什麼？	藥物性帕金森症 / 錐體外症候群（EPS）、憂鬱、體重增加與嗜睡（老人風險最高）
+Meclizine 屬哪一類藥、主要副作用？	第一代抗組織胺（H1 拮抗）；抗膽鹼副作用（嗜睡、口乾、視力模糊、便祕、尿滯留），老人易譫妄
+Diphenidol 的作用與需注意的中樞副作用？	作用於前庭系統止暈止吐；腎功能不良或老人可能出現幻覺/意識混亂
+Scopolamine 的機轉、劑型與適應症？	抗膽鹼（muscarinic 拮抗）；貼片劑型；用於動暈症預防與術後噁心嘔吐
+Scopolamine 有哪個眼科絕對禁忌？	隅角閉鎖性青光眼（抗膽鹼致瞳孔散大惡化眼壓）
+為什麼貼 Scopolamine 貼片後要洗手？	手指殘留藥物，未洗手揉眼會致單側瞳孔散大（anisocoria），易被誤認為神經急症
+止暈藥使用最重要的診斷陷阱是什麼？	可壓住症狀但延誤中樞病因（後循環中風/小腦病變）；有 HINTS 陽性、複視、構音障礙、肢體無力等紅旗勿只給止暈藥
+抗膽鹼類止暈藥（Meclizine/Scopolamine）在哪類病人特別危險？	老人（譫妄）、攝護腺肥大/尿滯留、青光眼、失智者
+帕金森病的核心神經化學缺陷是什麼？	黑質-紋狀體路徑的多巴胺神經退化（多巴胺缺乏）
+Carbidopa 加在 Levodopa 裡的作用是什麼？	抑制周邊 dopa 去羧酶，減少 levodopa 在周邊被代謝 → 增加進入腦的量、減少噁心與姿勢性低血壓
+為什麼 Levodopa 絕對不可突然停藥？	會誘發 parkinsonism-hyperpyrexia syndrome（類 NMS：高燒、肌僵直、意識改變、CK 上升），可致命
+Pramipexole / Ropinirole 這類 DA agonist 最需衛教的兩大副作用？	衝動控制障礙（賭博/購物/性慾/暴食）與突發性睡眠發作
+Levodopa 長期使用會出現哪些運動併發症？	異動症（dyskinesia）與藥效波動 on-off / wearing-off
+Selegiline / Rasagiline 屬哪類、主要用途？	選擇性 MAO-B 抑制劑，作為 levodopa 佐劑延長作用；避免與 SSRI/pethidine/tramadol 併用（serotonin 症候群）
+Entacapone（COMT 抑制劑）使用有何前提與典型副作用？	只在同時有 levodopa 時才有效；尿液呈橘紅色、腹瀉、加重異動症
+Amantadine 在帕金森治療的特殊角色與需注意的排泄？	可減輕 levodopa 誘發的異動症；經腎排泄，腎功能不良需減量，副作用 livedo reticularis、下肢水腫、幻覺
+帕金森病人需要止吐時，為何不能用 metoclopramide？	它是中樞抗多巴胺藥，會拮抗療效並惡化帕金森 → 改用 domperidone 或 ondansetron
+高蛋白飲食為何會影響 Levodopa 療效？	大量胺基酸與 levodopa 競爭腸道與血腦障壁的轉運系統 → 降低藥效（建議餐前服用）
+住院 NPO 的帕金森病人抗帕金森藥該怎麼辦？	不可停，改 NG 給藥或 rotigotine 透皮貼片，與神經科討論劑量換算
+阿茲海默症失智藥物分哪兩大機轉類別？	膽鹼酯酶抑制劑（AChEI，增乙醯膽鹼）與 NMDA 受體拮抗劑（Memantine，減麩胺酸興奮毒性）
+三種主要 AChEI 是哪些？	Donepezil、Rivastigmine、Galantamine
+AChEI 適用於哪個失智分期，Memantine 又用於哪期？	AChEI 用於輕–中度（Donepezil 到重度亦可）；Memantine 用於中–重度，可與 AChEI 併用
+AChEI 最需注意的心臟副作用是什麼？	迷走神經興奮造成心搏過緩、房室傳導阻滯、暈厥與跌倒
+為什麼 AChEI 會增加消化道潰瘍出血風險？	增加乙醯膽鹼 → 促進胃酸分泌，尤其有潰瘍史或併用 NSAID 者
+Rivastigmine 貼片的優點與換片時的關鍵注意事項？	貼片減少胃腸道副作用；換片時務必撕除舊片，否則兩片並存易致膽鹼性危象（過量）
+Memantine 的作用機轉與需依器官功能調整的原因？	NMDA 受體拮抗劑，減少麩胺酸興奮毒性；經腎排泄，腎功能不良須減量
+失智老人同時服用 AChEI 與抗膽鹼藥（如 oxybutynin）有何問題？	兩者作用相反互相抵消，是常見不合理多重用藥，應檢視移除抗膽鹼藥
+哪種失智特別偏好使用 Rivastigmine？	路易體失智 / 帕金森病失智（對認知與精神症狀證據較佳）
+抗失智藥能治癒阿茲海默症嗎？	不能，只能延緩症狀進展、不逆轉病程
+中樞肌鬆劑依適應症可分成哪兩大類、各代表藥？	① 痙攣 spasticity（上運動神經元病變）→ Baclofen / Tizanidine / 肉毒桿菌素；② 急性肌肉骨骼疼痛 spasm → Cyclobenzaprine
+Baclofen 的作用機轉為何？	GABA-B 受體促效，抑制脊髓單/多突觸反射 → 降低肌張力
+Baclofen 為什麼絕對不能突然停藥？	驟停致嚴重戒斷症候群（高燒、肌肉僵直、癲癇、幻覺，臨床類似 NMS/惡性高熱），鞘內幫浦故障尤其致命
+Tizanidine 的機轉與最主要循環副作用？	中樞 α2 促效（類 clonidine）；主要副作用為低血壓與鎮靜，另需注意肝毒性
+哪兩個藥與 Tizanidine 併用為禁忌、為什麼？	ciprofloxacin 與 fluvoxamine（強效 CYP1A2 抑制劑）→ 使 tizanidine 濃度暴增致嚴重低血壓與過度鎮靜
+Cyclobenzaprine 結構像什麼藥、因此有哪些禁忌？	結構類三環抗憂鬱劑（TCA）→ 抗膽鹼副作用、禁與 MAOI 併用（血清素症候群）、老人 Beers list 應避免
+Cyclobenzaprine 的建議療程長度？	急性肌肉骨骼疼痛短期使用（≤2–3 週），不用於慢性
+肉毒桿菌素（Botulinum toxin）的機轉為何？	抑制神經肌肉接合處乙醯膽鹼（ACh）釋放 → 局部肌肉麻痺
+肉毒桿菌素的黑框警告內容是什麼？	毒素可能從注射部位擴散，造成遠端吞嚥困難、呼吸肌無力甚至致死
+Baclofen 過量會有什麼危險表現？	呼吸抑制與昏迷（腎排泄，腎功能不良者更易累積中毒）
+一位裝有 baclofen 鞘內幫浦的病人突然高燒、僵直、意識改變，最該先想什麼？	幫浦故障導致急性 baclofen 戒斷（急症），須緊急處理
+Triptans 的作用機轉為何？	促效 5-HT1B/1D 受體 → 顱內血管收縮 + 抑制三叉神經血管系統釋放 CGRP 等神經肽 → 中止急性偏頭痛
+Triptans 是預防藥還是急性中止藥？	急性中止藥（abortive），愈早（頭痛初起）服用愈有效；頻繁發作需另用預防藥
+Sumatriptan 口服的起始劑量與 24 小時上限？	50–100 mg PO 起始，部分反應者 2 小時後可重複，24h 上限 200 mg
+哪些心腦血管情況是 triptans 的禁忌？	缺血性心臟病/冠心病、心肌梗塞病史、未控制高血壓、缺血性腦血管病（中風/TIA）、周邊血管病（血管收縮致缺血）
+Triptans 與麥角類（ergotamine/DHE）為何、需間隔多久？	兩者皆強力血管收縮，併用加重缺血，須間隔至少 24 小時
+Triptans 為何與 MAOI 併用為禁忌？	sumatriptan/rizatriptan/zolmitriptan 部分經 MAO-A 代謝 → 併 MAOI 濃度升高，且增加血清素症候群風險
+嚴重偏頭痛併嘔吐、無法口服時，sumatriptan 該用哪種劑型？	皮下注射 6 mg SC（或鼻噴），繞過口服吸收；亦用於叢發性頭痛急性發作
+服用 triptan 出現胸悶緊繃感（triptan sensations）代表什麼？	多為非心因性的常見副作用，但仍須與真正心肌缺血/心絞痛鑑別，尤其有心血管風險者
+哪些偏頭痛亞型使用 triptans 需避免/慎用？	半身麻痺型（hemiplegic）與基底動脈型（basilar）偏頭痛
+什麼是藥物過量性頭痛（MOH）、triptan 使用頻率如何限制？	過度頻繁使用止痛/triptan（triptan 約 ≥10 天/月）反使頭痛慢性化；需限制月使用天數並轉預防治療
+Eletriptan 有何重要藥物交互作用？	經 CYP3A4 代謝，強效 CYP3A4 抑制劑（ketoconazole 等）大幅提高其濃度 → 應避免併用
+Triptans 與 SSRI/SNRI 併用需警覺什麼？	血清素症候群（躁動、發熱、反射亢進、肌陣攣、自律神經不穩）
+Calcitonin 由哪裡分泌、作用為何？	甲狀腺 C 細胞（濾泡旁細胞）分泌；抑制蝕骨細胞降低骨吸收、降血鈣，並促腎排鈣（作用與 PTH 相反）
+Calcitonin 治療高血鈣的兩大特性是什麼？	起效快（數小時降鈣）但維持短、快速去敏（tachyphylaxis，約 48h 後效果衰減）
+為什麼 calcitonin 不能單獨長期治療高血鈣？	因快速去敏效果只暫時，只能當橋接爭取時間，需同時給生理食鹽水水化 + IV 雙磷酸鹽等持久藥
+臨床用的 calcitonin 為何多用鮭魚來源？	鮭魚抑鈣素效價（活性）比人類的高、作用較強
+Calcitonin 鼻噴劑（骨鬆用）常見的局部副作用？	鼻炎、鼻黏膜刺激、鼻出血、鼻乾結痂
+Calcitonin 在骨質疏鬆治療中的定位為何降級？	因長期使用有惡性腫瘤風險訊號，且療效不如雙磷酸鹽/denosumab，僅為次選，特別用於急性椎體壓迫骨折止痛
+Calcitonin 在急性椎體壓迫骨折的額外好處？	具止痛作用，可短期緩解疼痛
+高血鈣的三合一處置策略是什麼？	生理食鹽水水化（增加尿鈣排出）+ calcitonin（快速降鈣）+ 雙磷酸鹽（持久降鈣）
+使用 calcitonin 要注意哪種過敏來源？	鮭魚蛋白過敏（來源為鮭魚抑鈣素），高風險者可先皮膚測試
+Calcitonin 急性高血鈣的常用劑量？	鮭魚抑鈣素 4 IU/kg SC/IM q12h，可增至 8 IU/kg q6–12h
+維生素 D 的活化路徑為何？	皮膚/飲食來的 D3/D2 → 肝臟 25-羥化成 25-OH-D → 腎臟 1α-羥化成 1,25-(OH)₂-D（calcitriol，活性型），促腸道鈣吸收
+為什麼 CKD 病人要用 calcitriol 而非普通 D3？	腎衰竭時腎臟 1α-hydroxylase 失能無法把 25-OH-D 活化成活性型，補普通 D3 無效，需直接給已活化的 calcitriol
+Calcium carbonate 與 Calcium citrate 的服用時機差異？	碳酸鈣需胃酸溶解 → 隨餐服；檸檬酸鈣不需胃酸 → 可空腹，適合 PPI/制酸劑/胃切除/胃酸不足者
+鈣補充過量的兩大危害是什麼？	高血鈣（噁心/便祕/多尿/意識改變/心律不整）與腎結石
+哪些藥物與鈣同服會因螯合降低吸收、須錯開？	雙磷酸鹽、levothyroxine、四環黴素、氟喹諾酮抗生素、鐵劑
+Milk-alkali syndrome 是什麼？	大量攝取鈣（碳酸鈣）+ 可吸收鹼 → 高血鈣、代謝性鹼中毒、急性腎損傷三聯
+為什麼鈣與維生素 D 是所有抗骨鬆藥的「地基」？	雙磷酸鹽/denosumab 等抑制骨吸收會降血鈣，若無足夠鈣與維生素 D 會低血鈣且療效打折，故須先補足
+Thiazide 利尿劑與鈣/維生素 D 併用要注意什麼？	Thiazide 減少尿鈣排出，會增加高血鈣風險
+Calcitriol 相較普通維生素 D 最需警惕的副作用？	作用強、半衰期短，最容易造成高血鈣，需密切監測血鈣
+碳酸鈣單次吸收較佳的元素鈣量約為多少？	每次 ≤ 500–600 mg 元素鈣，分次服用吸收較佳並降低結石風險
+雙磷酸鹽的作用機轉為何？	結構類似焦磷酸鹽、對骨羥磷灰石高親和；被蝕骨細胞吞噬後抑制其活性並促凋亡（含氮者抑制甲羥戊酸途徑的 FPP synthase）→ 減少骨吸收
+雙磷酸鹽的三大招牌嚴重副作用？	顎骨壞死（ONJ）、非典型股骨骨折、口服食道炎/食道潰瘍
+口服雙磷酸鹽（如 Alendronate）正確服法為何？	空腹、配整杯白開水、服後保持直立至少 30 分鐘、不躺下、不配食物或鈣片（吸收極差且防食道炎）
+雙磷酸鹽引起顎骨壞死最常見的誘因？	侵入性牙科手術（拔牙），尤其 IV 高劑量（腫瘤病人）；故用藥前先完成牙科處理
+用雙磷酸鹽前為什麼一定要矯正低血鈣、補維生素 D？	抑制骨吸收會使血鈣下降，未矯正的低血鈣/維生素 D 不足會導致抽搐、心律不整
+Zoledronate（IV）在腎功能上的限制是什麼？	CrCl < 30–35 mL/min 禁用；需慢輸（≥15 分鐘）+ 充分水化避免腎毒性
+IV 雙磷酸鹽首次輸注後常見的「急性期反應」是什麼？	發燒、肌肉關節痛、類流感症狀（1–3 天自解，可用 acetaminophen 緩解）
+惡性腫瘤高血鈣的處置中雙磷酸鹽扮演什麼角色？	持久降鈣主力（IV Zoledronate/Pamidronate），與快速起效的 calcitonin 及生理食鹽水水化互補
+長期使用雙磷酸鹽出現大腿或腹股溝隱痛要警覺什麼？	非典型股骨骨折的前兆（不完全骨折），應照 X 光評估
+Alendronate 骨鬆常用劑量與頻率？	口服 70 mg 每週一次
+什麼是雙磷酸鹽的「藥物假期（drug holiday）」概念？	長期使用後因藥物骨內半衰期長、殘留藥效持續，適時暫停以降低非典型骨折/ONJ 風險（依骨折風險個別評估）
+Cyclosporine 屬於哪一類免疫抑制劑？	Calcineurin inhibitor（CNI）
+Cyclosporine 的作用機轉是什麼？	與 cyclophilin 結合抑制 calcineurin，阻斷 IL-2 轉錄，抑制 T 細胞活化
+Cyclosporine 最重要、劑量相關的毒性是什麼？	腎毒性（nephrotoxicity）
+Cyclosporine 為何一定要監測 trough level（C0）？	治療窗窄，濃度過高會腎毒性/神經毒性，過低會排斥
+哪些藥會升高 Cyclosporine 濃度導致毒性？	CYP3A4 抑制劑：azole 抗黴菌、macrolide、diltiazem、verapamil、葡萄柚汁
+哪些藥會降低 Cyclosporine 濃度導致排斥？	CYP3A4 誘導劑：rifampin、phenytoin、phenobarbital、carbamazepine、St. John's wort
+Cyclosporine 有兩個很有辨識度的副作用是？	牙齦增生（gingival hyperplasia）與多毛症（hirsutism）
+Cyclosporine 與 Tacrolimus 在副作用上的差別？	CsA 較多牙齦增生與多毛；Tacrolimus 較多糖尿病與神經毒性，較少毛
+移植病人腎功能惡化時，除了排斥還要想到什麼？	Cyclosporine（CNI）腎毒性，需查血中濃度區分「排斥 vs 藥物毒性」
+Azacitidine 屬於哪一類藥物？	去甲基化藥（hypomethylating agent, HMA）
+Azacitidine 的作用機轉是什麼？	抑制 DNA methyltransferase (DNMT)，降低異常高甲基化，重新活化被沉默的腫瘤抑制基因，恢復骨髓分化
+Azacitidine 主要治療哪些疾病？	中高風險骨髓化生不良症候群（MDS）、老年/不適合強化療的 AML、CMML
+為什麼 Azacitidine 治療早期血球反而更低？	骨髓抑制是預期反應，早期 cytopenia 惡化不代表無效，需持續並支持治療
+Azacitidine 大約需要幾個療程才評估療效？	至少 4–6 個療程，不要因早期血球下降就過早停藥
+Azacitidine 的常用劑量與給法？	75 mg/m²/day SC/IV ×7 天，每 28 天一療程
+Azacitidine 與哪個藥同屬去甲基化藥？	Decitabine
+ATRA 用於治療哪一種白血病？	急性前骨髓細胞白血病（APL / AML-M3）
+ATRA 的作用機轉是什麼（殺死還是分化）？	促使被 PML-RARα 卡住的不成熟前骨髓細胞「分化成熟」並正常凋亡，而非直接毒殺
+APL 的關鍵融合基因是什麼？	PML-RARα（t(15;17)）
+什麼是 differentiation syndrome、有哪些表現？	分化症候群：發燒、呼吸窘迫、體重增加/水腫、肺浸潤、肋膜/心包積液、低血壓、腎衰竭，可致命
+Differentiation syndrome 如何處理？	立即給 dexamethasone 10mg IV BID，嚴重時暫停 ATRA
+為什麼懷疑 APL 要立即開始 ATRA、不等基因報告？	APL 有嚴重 DIC/出血風險（顱內出血是早期死因），ATRA 能快速改善凝血病變，越早越好
+ATRA 常與哪個藥物併用治療 APL？	Arsenic trioxide（ATO / 三氧化二砷）
+ATRA 對孕婦為何禁用？	強致畸胎（維生素A衍生物），治療期間需嚴格避孕
+Differentiation syndrome 的前兆之一是什麼血球變化？	白血球快速上升（leukocytosis）
+標靶治療與傳統化療的根本差別？	標靶藥針對癌細胞特定分子標的（激酶/表面抗原/血管新生），選擇性阻斷；傳統化療無差別殺快速分裂細胞
+藥名結尾 -nib 和 -mab 分別代表什麼？	-nib = 小分子激酶抑制劑（TKI，多口服）；-mab = 單株抗體（monoclonal antibody，注射）
+Imatinib 的標的與主要適應症？	抑制 BCR-ABL tyrosine kinase，治療慢性骨髓性白血病（CML）與 GIST
+Rituximab 的標的是什麼？用前必須篩檢什麼？	anti-CD20 單株抗體；用前必篩 B 型肝炎（HBsAg/anti-HBc），帶原者防 HBV 再活化
+Trastuzumab 的標的與最重要的毒性？	anti-HER2；心臟毒性/心衰竭，用前後需追蹤 LVEF
+Bevacizumab 的機轉與特徵性副作用？	anti-VEGF 抑制血管新生；高血壓、出血、蛋白尿、傷口不癒、腸穿孔、血栓
+單株抗體（-mab）首次輸注常見的即時反應是什麼、如何預防？	輸注反應（發燒、寒顫、蕁麻疹、低血壓）；前置給藥抗組織胺+acetaminophen±類固醇、慢速輸注
+R-CHOP 中的 R 代表什麼？	Rituximab（治療 B 細胞淋巴瘤，標靶藥與傳統化療組合）
+Decitabine 屬於哪一類藥物？	去甲基化藥（hypomethylating agent, HMA）
+Decitabine 的作用機轉是什麼？	嵌入 DNA 並抑制 DNA methyltransferase (DNMT)，降低異常高甲基化，重新活化被沉默的腫瘤抑制基因
+Decitabine 與 Azacitidine 的機轉差別？	Decitabine 只嵌入 DNA；Azacitidine 同時嵌入 RNA 與 DNA，兩者臨床適應症相近
+Decitabine 主治哪些疾病？	中高風險 MDS、老年/不適合強化療的 AML、CMML
+Decitabine 常見靜脈給法劑量？	20 mg/m²/day IV ×5 天，每 28 天一療程
+Decitabine 療效大約需幾個療程評估？	至少 4–6 個療程，勿因早期血球下降過早停藥
+Erythropoietin（EPO）的作用機轉？	刺激骨髓紅血球前驅細胞增生分化，提升血紅素，模擬腎臟分泌的內源性 EPO
+EPO 的主要兩大適應症？	慢性腎病腎性貧血與化療引起的貧血
+使用 ESA 時目標 Hb 應維持在多少、為什麼不能太高？	約 10–11.5 g/dL 不超過 12；過度矯正（>13）增加中風、血栓、心血管事件與死亡
+ESA 最常見且需監測的心血管副作用是什麼？	高血壓（甚至高血壓腦病/癲癇），需控壓後使用並監測血壓
+為什麼 ESA 反應不佳時要先評估鐵？	鐵不足（功能性缺鐵）時 ESA 無效，必須補足鐵（ferritin、transferrin saturation）
+ESA 有哪些重大血栓風險？	DVT/PE、透析瘻管栓塞、心肌梗塞、中風，圍手術期 VTE 上升
+ESA 罕見但嚴重的純紅血球問題是什麼？	純紅血球再生不良（PRCA），由抗 EPO 中和抗體引起
+Hb 上升速率以多少為宜？	約 ≤1 g/dL/2 週，避免過快與過度矯正
+CKD 病人用 ESA 前的重要前提是什麼？	確保鐵充足（多數需併補鐵，尤其透析病人）
+腫瘤病人使用 ESA 需注意什麼？	某些癌症 ESA 可能促進腫瘤進展/縮短存活，需嚴格適應症、化療結束即停
+缺鐵性貧血的第一線補鐵途徑為何？	口服 ferrous 鹽（sulfate/gluconate/fumarate），便宜有效；口服不耐/吸收不良/CKD 才用靜脈鐵
+Ferrous sulfate 325 mg 一錠約含多少元素鐵？	約 65 mg 元素鐵（成人治療目標約 100–200 mg 元素鐵/日）
+口服鐵劑何時吸收最佳、可搭配什麼增加吸收？	空腹（餐前 1h 或餐後 2h）吸收最佳；搭配維生素 C 助吸收
+哪類靜脈鐵過敏/過敏性休克風險最高、如何預防？	iron dextran；給 test dose 25mg 觀察並床邊備急救藥（epinephrine）
+口服鐵劑造成黑便代表什麼？要與什麼鑑別？	多為正常的鐵染色；需與消化道出血的黑色柏油便（melena）鑑別
+哪些藥物需與口服鐵間隔給藥？	制酸劑/PPI/H2 blocker（升胃 pH）、鈣鹽、tetracycline、fluoroquinolone、levothyroxine → 間隔至少 2 小時
+兒童鐵劑過量的解毒劑是什麼？	deferoxamine（去鐵胺）；鐵過量是兒童中毒常見致死原因
+缺鐵性貧血 Hb 恢復正常後還要補多久？為什麼？	再續補 3–6 個月以回填鐵庫（ferritin），否則容易復發
+評估鐵庫最有用的兩個指標是什麼？	ferritin（鐵儲存）與 transferrin saturation（TSAT）
+ferric carboxymaltose 長期/重複使用要注意哪個電解質異常？	低磷血症（hypophosphatemia）
+Vitamin B12 缺乏會造成哪兩大類問題？	巨球性貧血 + 神經病變（亞急性合併退化 SCD，本體感覺喪失、步態不穩、麻木）
+B12 吸收需要什麼、缺什麼會導致惡性貧血？	需胃壁內因子（intrinsic factor）；自體免疫破壞胃壁細胞/內因子造成惡性貧血
+巨球性貧血同時缺 B12 與葉酸時，補充順序為何？	先給 B12 再給葉酸，避免只補葉酸讓神經病變（SCD）持續惡化
+為什麼 B12 缺乏要及早治療？	神經損害（亞急性合併退化）延誤數月以上可不可逆
+惡性貧血為何常需肌肉注射而非口服？	缺乏內因子時口服吸收有限，故用 1000 µg IM，維持每月一次終身
+B12 治療初期要監測哪個電解質、為什麼？	血鉀（K⁺）——紅血球大量生成消耗鉀可致低血鉀
+哪些常用藥長期使用會降低 B12 吸收？	Metformin、PPI、H2 blocker
+比 B12 濃度更早、更敏感的缺乏指標是什麼？	methylmalonic acid 與 homocysteine 上升
+素食者為何是 B12 缺乏高風險族群？	B12 主要來自動物性食物，嚴格素食攝取不足
+Hydroxocobalamin 高劑量除補血外還有什麼特殊用途？	氰化物中毒的解毒劑
+葉酸（Vitamin B9）在造血中的角色？	作為一碳單位轉移輔酶，參與 DNA/嘌呤/胸腺嘧啶合成與紅血球成熟；缺乏致巨球性貧血
+為什麼巨球性貧血不能在排除 B12 缺乏前單補葉酸？	葉酸可矯正貧血血液學表現卻無法阻止 B12 缺乏的神經病變（亞急性合併退化）持續惡化，還會掩蓋診斷
+孕期葉酸補充預防什麼、要何時開始？	預防胎兒神經管缺損，須受孕前 1 個月即開始（神經管早期就閉合）
+一般孕期與高風險（曾生神經管缺損兒）葉酸劑量？	一般 0.4–0.8 mg/day；高風險 4–5 mg/day
+Methotrexate 過量解毒該用 folic acid 還是 folinic acid？	folinic acid（leucovorin，亞葉酸）；folic acid 在 DHFR 被抑制時無法繞過
+葉酸缺乏治療的常用口服劑量？	1–5 mg PO QD
+評估巨球性貧血時，除葉酸外必須一起驗什麼？	血清 Vitamin B12（先確認/排除 B12 缺乏）
+哪些藥物是葉酸的拮抗劑（抗葉酸藥）？	Methotrexate、trimethoprim、pyrimethamine
+葉酸與 phenytoin 的交互作用？	互相降低血中濃度，可能影響癲癇控制
+葉酸的毒性風險主要是什麼？	本身毒性極低（水溶性），主要「危害」是大劑量掩蓋 B12 缺乏使神經病變被延誤
+G-CSF（filgrastim）的作用機轉？	刺激骨髓嗜中性球前驅細胞增生、分化與釋放，提升嗜中性球數量
+G-CSF 的主要臨床用途？	縮短化療後嗜中性球低下期、預防/治療發熱性嗜中性球低下（FN），以及幹細胞動員
+G-CSF 最常見的副作用是什麼？	骨痛 / 肌肉骨骼痛（刺激骨髓所致）
+G-CSF 左上腹或左肩痛要警覺什麼致命併發症？	脾腫大 / 脾破裂（尤其幹細胞動員的健康捐贈者）
+為什麼 G-CSF 不與化療同一時段給藥？	分裂中的骨髓細胞對化療更敏感，應在化療後約 24–72 小時再起始
+短效與長效 G-CSF 代表藥各是什麼？	短效 Filgrastim（Neupogen）每日注射；長效 Pegfilgrastim（Neulasta）每化療週期單次
+哪類血液病人使用 G-CSF 要極為謹慎、可能誘發危象？	鐮刀型細胞疾病（可誘發嚴重血管阻塞危象）
+G-CSF 罕見但嚴重的肺部併發症？	急性呼吸窘迫症候群（ARDS）/ 肺浸潤
+Pegfilgrastim 的給藥時機原則？	化療後 ≥24 小時給一次，且距下一次化療 ≥14 天
+使用 G-CSF 主要監測哪個血球指標？	CBC 中的 ANC（絕對嗜中性球數），依回升情況決定停藥
+Fondaparinux 的機轉是什麼？	合成戊多醣，透過 antithrombin 選擇性抑制第 Xa 因子（不抑制凝血酶 IIa）
+Fondaparinux 為什麼可以用於 HIT 病人？	不與 PF4 結合，不引起典型 HIT
+Fondaparinux 的腎功能禁忌是什麼？	CrCl <30 禁用（治療劑量）；經腎排泄、半衰期長會累積
+Fondaparinux 的半衰期多長、給藥頻率？	約 17–21 小時，皮下一天一次（QD）
+Fondaparinux 大出血能用 protamine 逆轉嗎？	不能，protamine 無效，且無專一逆轉劑
+Fondaparinux VTE 治療劑量如何依體重給？	<50kg 5mg、50–100kg 7.5mg、>100kg 10mg，SC QD
+Fondaparinux VTE 預防與 ACS 的劑量？	2.5 mg SC QD
+Fondaparinux 需要常規監測凝血嗎？	不需要（固定劑量，不需 aPTT/INR）；必要時測抗 Xa（特定校準）
+Fondaparinux 的半衰期長對圍手術期有何影響？	難快速逆轉，術前需停夠久（依腎功能常 ≥2–4 天）
+Cilostazol 的機轉與主要適應症？	PDE3 抑制劑，抗血小板 + 血管擴張；用於間歇性跛行（周邊動脈疾病）改善行走距離
+Cilostazol 的絕對禁忌是什麼、為什麼？	任何嚴重程度心衰竭禁用；PDE3 抑制劑（如 milrinone）已知增加心衰病人死亡率
+Dipyridamole 的臨床主要用途？	緩釋 dipyridamole + aspirin 複方（Aggrenox）做缺血性中風/TIA 二級預防；靜脈型用於心肌灌注壓力測試
+Dipyridamole 最常見的副作用是什麼？	頭痛（血管擴張所致）
+什麼是冠狀動脈竊血（coronary steal）、與哪個藥有關？	Dipyridamole 血管擴張使血流從缺血區「偷走」到正常區，可致心絞痛；也是其用於藥物性負荷測試的原理
+Cilostazol 常見的心血管副作用？	頭痛、心悸 / 心搏過速
+Cilostazol 的劑量與吸收注意事項？	100 mg PO BID，空腹（飯前30分或飯後2小時）吸收較好；起效需數週
+Cilostazol 與哪類藥併用需減量？	CYP3A4/2C19 抑制劑（ketoconazole、erythromycin、diltiazem、omeprazole、葡萄柚汁）→ 減至 50mg BID
+Dipyridamole 與 adenosine 的交互作用？	Dipyridamole 抑制 adenosine 代謝/再攝取，會增強 adenosine 作用，併用需注意
+Aspirin 抗血小板的機轉是什麼？	不可逆乙醯化 COX-1，抑制 thromboxane A2（TXA2），阻止血小板凝集
+為什麼 Aspirin 的抗血小板作用能持續 7–10 天？	血小板無細胞核，無法重新合成 COX，作用維持整個血小板壽命
+懷疑急性心肌梗塞時 Aspirin 該給多少、怎麼給？	160–325mg 嚼服（嚼碎加速吸收）
+心血管二級預防的 Aspirin 維持劑量是多少？	75–100mg PO QD（台灣常用 100mg）
+兒童病毒感染為何禁用 Aspirin 退燒？	可能誘發 Reye syndrome（急性腦病＋肝衰竭）
+AERD 是什麼？	Aspirin-exacerbated respiratory disease，氣喘＋鼻息肉＋ASA 敏感，ASA 可誘發嚴重支氣管痙攣
+Aspirin 最常見的嚴重副作用是什麼？	GI 出血 / 消化性潰瘍
+水楊酸中毒的典型酸鹼變化是什麼？	呼吸性鹼中毒 + 代謝性酸中毒的混合型
+Aspirin 在孕期哪個階段禁用、為什麼？	第三孕期，會使胎兒動脈導管早閉並增加產程出血
+GP IIb/IIIa 抑制劑的機轉是什麼？	阻斷血小板 GP IIb/IIIa 受體，阻止 fibrinogen 交聯，抑制血小板聚集的「最終共同路徑」
+三個 GP IIb/IIIa 抑制劑分別是？	Abciximab（單株抗體）、Tirofiban、Eptifibatide（小分子）
+GP IIb/IIIa 抑制劑主要用於什麼情境？	高危險急性冠心症與 PCI 術中輔助抗血小板
+使用 GP IIb/IIIa 抑制劑需監測什麼、何時？	CBC 血小板，給藥後 2–4 小時及 24 小時（急性重度血小板低下風險，abciximab 尤甚）
+哪個 GP IIb/IIIa 抑制劑作用最久、血小板功能恢復最慢？	Abciximab（單株抗體，恢復需 24–48 小時）；小分子 tirofiban/eptifibatide 數小時恢復
+哪個 GP IIb/IIIa 抑制劑在嚴重腎衰竭禁用？	Eptifibatide（CrCl <30 或透析禁用）；tirofiban 腎功能不良需減量
+GP IIb/IIIa 抑制劑血小板低到多少要停藥？	<50,000 需停藥；abciximab 可驟降至 <20,000
+GP IIb/IIIa 抑制劑是口服還是靜脈？	靜脈注射，僅限住院/導管室使用，非口服長期藥
+Abciximab 再次使用的特殊風險？	為嵌合抗體，可產生抗體，再次使用有過敏與加重血小板低下風險
+LMWH 相較 UFH 主要抑制哪個凝血因子？為什麼？	主要抑制 Factor Xa（anti-Xa ≫ anti-IIa），因鏈太短無法橋接 thrombin
+為什麼 LMWH 一般不需常規監測？	藥動可預測、劑量反應穩定，SC 給藥即可
+哪些族群使用 LMWH 需要監測 anti-Xa？	腎功能不全、極端體重（肥胖/過輕）、孕婦
+LMWH 用什麼監測？為何不用 aPTT？	用 anti-Xa level；aPTT 對 LMWH 反應不敏感、不準
+LMWH 出血時 protamine 的逆轉效果？	僅部分逆轉（約 60%），不像對 UFH 可完全逆轉
+Enoxaparin 的 VTE 治療劑量？	1 mg/kg SC Q12H（或 1.5 mg/kg SC QD）
+CrCl <30 時 enoxaparin 治療劑量如何調整？	減為 1 mg/kg SC QD（末期腎病常改 UFH）
+LMWH 的 anti-Xa 應在給藥後多久抽（peak）？	給藥後約 4 小時
+有 HIT 病史的病人可以用 LMWH 嗎？	不可，LMWH 與 UFH 有交叉反應，HIT 病史為禁忌
+末期腎病/透析病人抗凝為何常改回 UFH？	LMWH 靠腎排除會蓄積增加出血，UFH 靠肝/網狀內皮代謝較安全
+Desmopressin（DDAVP）的止血機轉是什麼？	刺激血管內皮釋放儲存的 von Willebrand factor（vWF）與 factor VIII，提升止血
+DDAVP 止血適用於哪些疾病？	輕型血友病 A、type 1 von Willebrand disease、尿毒症血小板功能異常
+DDAVP 最重要的併發症是什麼？	低血鈉 / 水中毒（抗利尿作用致水滯留，可致抽搐）
+DDAVP 止血的標準劑量與途徑？	0.3 mcg/kg IV 稀釋緩慢輸注 20–30 分鐘（或 SC）
+為什麼 DDAVP 不能長期反覆給？	快速耐受（tachyphylaxis），vWF/VIII 儲存被排空，約 2–4 次後效果遞減
+哪一型 von Willebrand disease 用 DDAVP 反而不好？	Type 2B（可加重血小板低下）；type 3 與嚴重血友病 A 則無效
+DDAVP 用藥期間需注意什麼監測？	限水、監測血鈉與體液平衡（尤其兒童、老人、重複給藥時）
+DDAVP 起效時間多久？	IV 給後約 30–60 分鐘 vWF/VIII 達高峰
+哪些藥併用 DDAVP 會增加低血鈉風險？	SSRI、carbamazepine、chlorpropamide、NSAID 等促 SIADH/低血鈉藥物
+DDAVP 除止血外的用途？	中樞性尿崩症、兒童夜間遺尿（劑型不同，勿與止血劑型混用）
+Prasugrel 的機轉與可逆性？	第三代 thienopyridine，經肝活化後「不可逆」阻斷血小板 P2Y12 (ADP) 受體
+Prasugrel 相比 clopidogrel 的優缺點？	優：起效快、抗血小板更強、較不受 CYP2C19 基因影響；缺：出血（尤其顱內）風險更高
+Prasugrel 的絕對禁忌是什麼？	中風 / TIA 病史（顱內出血風險顯著增加，淨害處）
+Prasugrel 哪些族群需慎用/減量？	≥75 歲慎用；體重 <60kg 維持劑量減至 5 mg QD
+Prasugrel 的負荷與維持劑量？	負荷 60 mg PO 單次；維持 10 mg PO QD（<60kg 減 5mg）
+Prasugrel 停藥後血小板功能多久恢復、術前停幾天？	不可逆抑制，恢復需 7–10 天；CABG/大手術前停 7 天
+Prasugrel 適用於哪種 ACS 病人？	擬接受 PCI 的 ACS（與 aspirin 做 DAPT）；不用於未計畫 PCI 的保守治療
+Prasugrel 是前驅藥嗎？需要活化嗎？	是前驅藥，需經肝 CYP 活化，但活化較 clopidogrel 一致、較不受 CYP2C19 多型性影響
+三個 P2Y12 抑制劑分別是？	Clopidogrel（可逆性低、受 CYP2C19 影響）、Prasugrel（不可逆、強）、Ticagrelor（可逆、非 thienopyridine）
+UFH 的抗凝機轉是什麼？	結合並活化 antithrombin III，加速抑制 thrombin (IIa) 與 Factor Xa（1:1 抑制兩者）
+UFH 治療劑量用什麼實驗室數值監測？目標範圍？	aPTT，目標為正常值的 1.5–2.5 倍（或 anti-Xa 0.3–0.7）
+HIT Type II 的機轉與典型時間？	免疫性，抗 PF4-heparin 抗體，用藥後第 4–14 天，血小板下降 >50%
+HIT 弔詭的臨床表現是什麼？處理原則？	造成血栓（非出血）；立即停所有 heparin，改 argatroban/fondaparinux，絕不輸血小板
+UFH 過量出血怎麼逆轉？	Protamine sulfate（1mg 中和約 100U heparin，可完全逆轉）
+為什麼腎衰竭病人抗凝常選 UFH 而非 LMWH？	UFH 主要經肝/網狀內皮代謝，不依賴腎排除，CrCl 很低時較安全可控
+UFH VTE 治療的 weight-based 起始劑量？	Bolus 80 U/kg IV，接 18 U/kg/hr infusion，依 aPTT nomogram 調整
+UFH 長期（>1 個月）使用的特殊副作用？	骨質疏鬆、以及抑制醛固酮造成的高血鉀
+孕婦抗凝為何選 heparin 而非 warfarin？	Heparin 分子大不過胎盤，孕期安全；warfarin 有致畸性
+UFH 半衰期多長？臨床意義？	約 1–1.5 小時，很短，可快速 titrate 且停藥後迅速消退，適合高出血風險/術前情境
+肝素（UFH）的逆轉劑是什麼？	Protamine sulfate（1mg 中和約 100 units 肝素）
+Warfarin 大出血的標準逆轉組合？	停 warfarin + Vitamin K 10mg IV + 4-factor PCC（PCC 立即補因子，Vit K 維持後續）
+Dabigatran 的專一逆轉劑是什麼？	Idarucizumab（5g IV，單株抗體片段）
+Xa 抑制劑（-xaban）的逆轉選擇？	Andexanet alfa（專一但貴/不普及）或 4-factor PCC
+為什麼 warfarin 急性大出血不能只靠 Vitamin K？	Vitamin K 起效慢（6–24 小時），急救需併用 PCC（分鐘級）快速補凝血因子
+Protamine 快速輸注會有什麼危險？	低血壓、心搏過緩、過敏性休克；須慢速 IV（≥10 分鐘）
+Protamine 對 LMWH 的逆轉效果如何？	只能部分逆轉（約 60%），不如對 UFH 完全
+PCC 相比 FFP 的優點？	濃縮、體積小、起效快、不需解凍配血、無容積負荷；急救首選
+Protamine 過敏高風險族群有哪些？	魚類過敏、曾用魚精蛋白胰島素(NPH)、輸精管結紮者
+Fondaparinux 有專一逆轉劑嗎？	沒有專一逆轉劑（可考慮 PCC / andexanet 部分處理，效果有限）
+Enoxaparin 屬於哪一類抗凝血劑、機轉為何？	LMWH，透過 antithrombin 主要抑制 Factor Xa
+Enoxaparin 的 VTE 預防劑量？	40 mg SC QD
+Enoxaparin 一般需要監測嗎？哪些人需要？	一般不需；腎不全、肥胖、孕婦需監測 anti-Xa（給藥後 4h）
+Enoxaparin 出血的逆轉劑與效果？	protamine，僅部分逆轉（約 60%）
+有 HIT 病史能用 enoxaparin 嗎？	不能，與 UFH 交叉反應，屬禁忌
+什麼是 warfarin bridging？enoxaparin 扮演什麼角色？	warfarin 起效慢，高血栓風險者先用 enoxaparin 過渡抗凝直到 INR 達標
+Enoxaparin 在脊椎/硬膜外麻醉前要注意什麼？	需與最後治療劑量間隔足夠時間（至少 24h）避免硬膜外血腫
+孕婦抗凝為何常選 enoxaparin？	分子大不過胎盤，孕期安全，可取代有致畸性的 warfarin
+Clopidogrel 的機轉是什麼？	不可逆阻斷血小板 P2Y12（ADP）受體，抑制血小板活化與凝集
+Clopidogrel 為什麼要注意 CYP2C19？	它是 prodrug，需 CYP2C19 活化；基因差或併用抑制劑療效不足
+哪些 PPI 會削弱 clopidogrel 療效？該怎麼選？	omeprazole/esomeprazole 會抑制 CYP2C19；改用 pantoprazole 或 H2 blocker
+Clopidogrel 手術前該停多久？	5–7 天（不可逆抑制，需等新血小板生成）
+Clopidogrel 的 ACS/PCI loading 與維持劑量？	loading 300–600mg（PCI 常 600mg），維持 75mg QD
+Clopidogrel 與 aspirin 機轉如何互補？	clopidogrel 走 ADP/P2Y12、aspirin 走 COX-1/TXA2，兩路徑互補故合用（DAPT）
+Clopidogrel 罕見但致命的血液副作用？	TTP（血栓性血小板減少性紫斑），用藥初期警覺
+CYP2C19 loss-of-function 病人可改用什麼抗血小板藥？	ticagrelor 或 prasugrel（不需 CYP2C19 活化）
+Clopidogrel 停藥後血小板功能多久恢復？	約 5–7 天
+直接凝血酶抑制劑的機轉、與肝素最大不同？	直接結合並抑制凝血酶(IIa)，不需 antithrombin，且能抑制已結合在血塊上的凝血酶
+注射型 DTI 最重要的臨床定位是什麼？	肝素誘發血小板減少症（HIT）需抗凝時的首選
+HIT 病人合併腎衰竭，抗凝首選哪個 DTI、為什麼？	Argatroban（主要經肝代謝，腎衰竭仍可用）
+Bivalirudin 代謝途徑與注意事項？	酵素分解 + 部分經腎，腎功能不良需調量；半衰期短（~25 分）
+DTI 用什麼監測抗凝程度？	aPTT（靜脈輸注，目標約 1.5–3× baseline）；bivalirudin PCI 中用 ACT
+DTI 有專一逆轉劑嗎？出血怎麼辦？	無專一逆轉劑；停藥（半衰期短）+ 支持性處置，嚴重時考慮 PCC，bivalirudin 部分可透析
+Argatroban 對 INR/PT 有什麼干擾？	會延長 PT/INR，由 argatroban 轉 warfarin 時 INR 判讀受干擾，需特殊 overlap 規則
+Lepirudin 的特殊風險是什麼？	重組水蛭素具抗原性，重複使用可產生抗體致過敏性休克，現多退場
+懷疑 HIT 的第一步處置是什麼？	停用所有肝素（含 UFH/LMWH/沖管肝素），改用非肝素抗凝（DTI 或 fondaparinux）
+肝功能不良的 HIT 病人 argatroban 要如何調整？	減量（argatroban 經肝代謝，肝損會累積）
+DOAC 分成哪兩大機轉、各代表藥？	直接凝血酶(IIa)抑制劑 Dabigatran；第Xa因子抑制劑 Rivaroxaban / Apixaban / Edoxaban（-xaban 結尾）
+哪類病人絕對不能用 DOAC，只能用 warfarin？	機械性人工心臟瓣膜、中重度風濕性二尖瓣狹窄
+四種 DOAC 中哪個腎排泄比例最高、CrCl 多少禁用？	Dabigatran 約 80% 腎排；CrCl <30 禁用
+腎功能差的病人相對最能用哪個 DOAC？	Apixaban（腎排泄比例最低約 27%）
+Dabigatran 的逆轉劑是什麼？	Idarucizumab（單株抗體，快速專一逆轉）
+Xa 抑制劑（-xaban）出血時的逆轉選擇？	Andexanet alfa（專一但昂貴/不普及）或 4-factor PCC
+DOAC 相比 warfarin 的三大優點？	固定劑量、起效快、不需常規監測 INR、食物藥物交互作用少、顱內出血較低
+Apixaban 用於 AF 何時需減量到 2.5 mg BID？	符合三項中至少兩項：年齡≥80歲、體重≤60kg、血肌酸酐≥1.5 mg/dL
+DOAC 最常見的出血部位是哪裡？	消化道出血（GI bleeding）
+為什麼 DOAC 正常 PT/aPTT 不能排除藥效？	DOAC 不需常規監測、常規凝血檢驗對其不敏感，正常值不代表無抗凝作用
+Warfarin 的機轉是什麼？	抑制 VKORC1，減少維生素 K 依賴因子 II、VII、IX、X 及 protein C、S 的合成
+Warfarin 用什麼監測？一般目標範圍？	INR，一般目標 2–3（機械瓣膜 2.5–3.5）
+什麼是 warfarin-induced skin necrosis？如何避免？	起始期 protein C 先降造成短暫高凝血→皮膚壞死；高風險者起始用 heparin/LMWH bridging
+Warfarin 起效為何慢？	需等既有凝血因子耗盡，約 36–72h 才見效、5–7 天達穩定
+哪些藥/食物會增強 warfarin 藥效（增出血）？	amiodarone、metronidazole、azole、TMP-SMX、statin、NSAID、抗生素
+哪些藥/食物會減弱 warfarin 藥效（增血栓）？	rifampin、barbiturate、phenobarbital、carbamazepine、大量深綠蔬菜（維生素 K）
+Warfarin 大出血怎麼緊急逆轉？	維生素 K（IV）+ PCC（4-factor 凝血酶原複合體），優於 FFP（較快）
+哪類病人抗凝只能用 warfarin、不能用 DOAC？	機械性人工心臟瓣膜（及抗磷脂質症候群）
+孕婦能用 warfarin 嗎？	不能，致畸（fetal warfarin syndrome）過胎盤，孕期改 heparin/LMWH
+Warfarin 經哪個 CYP 代謝？為何劑量因人而異？	主要 CYP2C9；CYP2C9 與 VKORC1 基因多型性造成個體劑量差異大
+Ticagrelor 的機轉與 clopidogrel 有何關鍵不同？	可逆、直接抑制 P2Y12，非 prodrug、不需 CYP2C19 活化（clopidogrel 是不可逆 prodrug）
+Ticagrelor 的維持劑量與服藥頻率？	90mg PO BID（一天兩次），與 clopidogrel 的 QD 不同
+Ticagrelor 併用 aspirin 有什麼劑量限制？為什麼？	aspirin 須 ≤100mg/day，高劑量會削弱 ticagrelor 療效（PLATO）
+Ticagrelor 特徵性的非出血副作用是什麼？	呼吸困難（dyspnea，10–20%，多良性自限）與心搏過慢/ventricular pauses
+Ticagrelor 的 ACS loading 劑量？	180mg PO ×1
+Ticagrelor 手術前停藥多久？為何比 clopidogrel 短？	3–5 天；因為是可逆抑制，血小板功能恢復較快
+Ticagrelor 在肝腎功能上的使用限制？	嚴重肝病禁用（肝代謝）；腎功能不需調整
+哪類病人特別適合改用 ticagrelor 而非 clopidogrel？	CYP2C19 poor metabolizer 或 clopidogrel 反應不足者（ticagrelor 不需 CYP2C19 活化）
+血栓溶解劑的共同機轉是什麼？	把 plasminogen 活化成 plasmin，分解 fibrin，溶解已形成的血栓
+血栓溶解劑最致命的併發症是什麼？	顱內出血（ICH）
+急性缺血性中風使用 alteplase 的時間窗與劑量？	症狀發作 ≤4.5 小時；0.9 mg/kg（上限 90mg），10% bolus + 90% 60 分鐘輸注
+急性缺血性中風給 tPA 前必做什麼檢查、為什麼？	先做腦部 CT 排除出血性中風（給溶栓於出血會致命）
+大塊肺栓塞的 alteplase 劑量是多少？	100 mg IV 於 2 小時輸注
+STEMI 溶栓最常用哪個藥、給法有何優點？	Tenecteplase（TNK），可單次 IV bolus（依體重），操作簡便
+Streptokinase 有什麼特殊限制？	具抗原性（來自鏈球菌），一生只能用一次，重複給無效且會過敏，且易致低血壓
+血栓溶解劑的絕對禁忌至少舉三個？	曾顱內出血、已知顱內血管畸形/腫瘤、近3個月缺血性中風或頭部外傷/顱內手術、活動性內出血、疑主動脈剝離
+中風溶栓給藥前血壓上限是多少？	<185/110 mmHg 才可給；給後維持 <180/105
+血栓溶解劑劑量為什麼不能跨適應症套用？	中風、STEMI、肺栓塞劑量與給法各不同（例中風 0.9mg/kg vs PE 固定 100mg），套錯會過量出血或無效
+Tranexamic acid 的止血機轉是什麼？	離胺酸類似物，阻斷 plasminogen 與 fibrin 結合，抑制纖維蛋白溶解，穩定血塊（antifibrinolytic）
+TXA 的機轉與哪類藥相反？	血栓溶解劑（tPA 等，促纖溶）；TXA 是抑纖溶
+創傷出血給 TXA 的關鍵時間窗？	受傷 ≤3 小時內給（CRASH-2）；>3 小時給可能反而增加死亡
+創傷出血的 TXA 標準劑量？	1 g IV / 10 分鐘，接著 1 g IV / 8 小時輸注
+TXA 高劑量最需警覺的神經副作用是什麼？	癲癇 / 抽搐（心臟手術大劑量、腎功能不良累積時）
+TXA 的主要禁忌情境？	活動性血栓栓塞（DVT/PE）、蛛網膜下腔出血、後天色覺障礙
+為什麼上泌尿道出血血尿使用 TXA 要小心？	抑制纖溶會使血塊不易溶解，可能阻塞輸尿管
+TXA 腎功能不良為何要減量？	主要經腎排泄，CrCl 下降會累積，增加癲癇/血栓風險
+產後出血 TXA 的給法？	1 g IV，20–30 分鐘無效可再給 1 g（WOMAN 試驗，≤3h）
+TXA 除止血外的常見非適應症用途？	美白淡斑（低劑量口服/外用抑制黑色素），但本卡討論止血用途
+Sulfonylurea 的作用機轉是什麼？	抑制胰臟 β 細胞的 ATP-sensitive K⁺ channel → 去極化 → 促進胰島素分泌（不依賴血糖濃度）
+為什麼 SU 特別容易造成低血糖？	促泌作用不依賴血糖濃度，禁食/進食少/腎差時仍持續分泌胰島素
+哪一個 SU 低血糖風險最高、為什麼？	Glibenclamide（Glyburide），因代謝後有 active metabolite，老人與肝腎差者尤其危險
+SU 造成的低血糖為什麼要住院觀察？	半衰期長、會遷延復發，一次 D50 拉起後可能再掉下去，需持續 glucose 輸注 + 數十小時監測
+老年人或腎功能不佳者該選哪類 SU？	短效型（Glipizide / Gliclazide），避免長效的 Glibenclamide
+SU 除了低血糖還有什麼常見副作用？	體重增加
+SU 適合哪類第 2 型糖尿病病人？	β 細胞仍有分泌功能、非肥胖、以飯前血糖偏高為主者
+SU 與 Glinide 機轉的異同？	作用位點相同（ATP-sensitive K⁺ channel 促泌），但 Glinide 短效、隨餐給、主要降飯後血糖
+哪些藥會加強 SU 的低血糖？	酒精、β-blocker、水楊酸、fluconazole、warfarin、其他降糖藥
+SU 的服用時機？	餐前約 30 分鐘（配合進食降低低血糖風險）
+DPP-4 抑制劑的作用機轉是什麼？	抑制分解 GLP-1 的 DPP-4 酵素 → 延長腸泌素作用 → 葡萄糖依賴性促胰島素分泌 + 抑制升糖素
+為什麼 DPP-4 抑制劑單用不會低血糖？	促胰島素分泌是「葡萄糖依賴性」的，血糖低時不再刺激分泌
+哪一個 DPP-4 抑制劑不需依腎功能調整劑量？	Linagliptin（Trajenta），主要經肝膽排除，腎差者可用
+哪些 DPP-4 抑制劑有心衰住院風險訊號？	Saxagliptin 與 Alogliptin，心衰病人優先避開
+DPP-4 抑制劑降 HbA1c 的強度？	約 0.5–0.8%（二等，較弱）
+DPP-4 抑制劑何時會造成低血糖？	與 SU 或 insulin 併用時，需減併用藥劑量
+Vildagliptin 使用時要監測什麼？	肝功能（可能肝酵素上升）
+DPP-4 抑制劑需警覺哪些少見但嚴重的副作用？	急性胰臟炎、嚴重關節痛、類天疱瘡、（併 ACEI）血管性水腫
+DPP-4 抑制劑適合哪類病人？	老人、腎差（Linagliptin）、怕低血糖、需體重中性者
+TZD 的作用機轉是什麼？	活化細胞核 PPAR-γ 受體，增加組織對胰島素敏感度（↑ GLUT-4、脂肪重分布）
+TZD 最重要的值班雷（副作用）是什麼？	水鈉滯留造成水腫、體重增加，可誘發或惡化心衰
+TZD 在哪類心衰病人禁用？	NYHA III–IV（有症狀心衰）禁用
+TZD 與 insulin 併用要注意什麼？	水腫與心衰風險加乘
+Pioglitazone 有哪個癌症的風險訊號？	膀胱癌（有膀胱癌病史/不明血尿者避用）
+TZD 對骨骼的副作用？	增加骨折風險，尤其停經後女性
+TZD 單用會不會低血糖？	不會（屬增敏劑，不促泌）
+TZD 的藥效多久顯現？	較慢，數週至數月才完全顯現
+使用 TZD 前與期間要監測哪個器官功能？	肝功能（LFT），活動性肝病或 ALT > 2.5×ULN 禁用
+SGLT2 抑制劑的作用機轉是什麼？	抑制近端腎小管 SGLT2，阻斷葡萄糖再吸收 → 尿糖排出（glucosuria）降血糖，不依賴胰島素
+為什麼 SGLT2 抑制劑單用低血糖風險低？	降糖機轉不依賴胰島素分泌（排尿糖），除非合併 SU/胰島素才明顯升高低血糖風險
+SGLT2 抑制劑最危險且易漏診的代謝併發症是什麼？	正常血糖酮酸中毒（euglycemic DKA），血糖可 <200 mg/dL 卻已酮酸中毒
+SGLT2 抑制劑何時要「sick day」暫停？	急性病、禁食、嘔吐腹瀉脫水、大手術前 3–4 天（降低 euDKA 與容積耗竭風險）
+SGLT2 抑制劑會陰劇痛紅腫發燒要警覺什麼致命併發症？	Fournier 壞疽（會陰壞死性筋膜炎），外科急症
+SGLT2 抑制劑除了降糖還有哪兩大器官保護？	心臟衰竭住院↓（HFrEF/HFpEF）與慢性腎臟病進展↓，且不限有無糖尿病
+三個代表性 SGLT2 抑制劑（含中文商品名）？	Empagliflozin（恩排糖 Jardiance）、Dapagliflozin（福適佳 Forxiga）、Canagliflozin（可拿糖 Invokana）
+Canagliflozin 早期試驗出現哪些安全訊號？	下肢截肢與骨折風險（與脫水/末梢灌流有關）
+SGLT2 抑制劑最常見的感染副作用？	生殖泌尿道黴菌感染（女性外陰陰道炎、男性龜頭炎）與 UTI
+SGLT2 抑制劑在孕婦可以用嗎？	不建議（動物毒性、影響胎兒腎發育），孕期禁用
+GLP-1 受體促效劑的核心機轉有哪四項？	葡萄糖依賴性促胰島素、抑制升糖素、延緩胃排空、抑制食慾中樞
+為什麼 GLP-1 促效劑單用低血糖風險低？	促胰島素作用是「葡萄糖依賴性」的，血糖低時不會強迫分泌胰島素
+GLP-1 促效劑哪類病史是絕對禁忌？	甲狀腺髓質癌（MTC）個人/家族史或 MEN2（動物出現甲狀腺 C 細胞腫瘤，黑框警語）
+服用 GLP-1 促效劑出現持續上腹痛放射至背要懷疑什麼？	急性胰臟炎，應停藥並查 lipase/amylase
+GLP-1 促效劑最常見的副作用類別？	腸胃道（噁心、嘔吐、腹瀉、便秘），通常隨時間耐受
+如何減輕 GLP-1 促效劑的腸胃道副作用？	劑量緩慢向上滴定，不要一次用到目標劑量
+每週一次給藥的 GLP-1 促效劑有哪些？	Dulaglutide（易週糖 Trulicity）、長效 Semaglutide（Ozempic）、長效 Exenatide（Bydureon）
+GLP-1 促效劑除降糖外兩大額外效益？	顯著減重與心血管保護（部分藥物降 MACE）
+GLP-1 促效劑為何麻醉/內視鏡前要暫停？	延緩胃排空 → 胃內殘留內容物增加吸入性肺炎風險
+GLP-1 促效劑與 DPP-4 抑制劑的機轉差別？	GLP-1 促效劑直接活化受體（有減重）；DPP-4 抑制劑是抑制 GLP-1 降解（體重中性、效力較弱）
+Glinide 的作用機轉跟哪類藥相同？	跟 Sulfonylurea 相同（抑制 β 細胞 ATP-sensitive K⁺ channel 促泌胰島素），但起效快、半衰期短
+Glinide 主要降哪一段血糖？	飯後血糖（隨餐服用、短效）
+Glinide 的服藥口訣是什麼？	一餐一顆、餐前給，不吃飯就不吃這顆（避免低血糖）
+Glinide 相較 SU 在低血糖上的差別？	仍會低血糖，但因短效通常較短暫、少遷延
+為什麼 Glinide 適合老人或腎功能不佳者？	短效、作用時間短，低血糖風險相對長效 SU 低
+Repaglinide 有什麼重要的禁忌併用？	與 gemfibrozil 併用會抑制代謝、致濃度暴增與嚴重低血糖，屬禁忌
+Glinide 除了低血糖還有什麼副作用？	體重增加
+Repaglinide 建議的給藥時機？	餐前約 1–15 分鐘（隨餐 TID）
+α-glucosidase inhibitor 的作用機轉是什麼？	抑制腸道 α-glucosidase，延緩寡醣分解成單醣的吸收，主要降飯後血糖
+Acarbose 使用者若發生低血糖，為何不能用蔗糖救？	蔗糖是雙醣需 α-glucosidase 分解，被本藥擋住而無效；須用葡萄糖（單醣）或牛奶（乳糖）
+Acarbose 的正確服用方式？	隨每餐第一口飯一起嚼服（沒吃飯就不吃）
+α-glucosidase inhibitor 最常見的副作用是什麼？	腸胃道症狀：脹氣、腹脹、腹瀉（未吸收寡醣在大腸發酵）
+α-glucosidase inhibitor 單用會不會低血糖或增體重？	都不會（不促泌、不增體重）
+α-glucosidase inhibitor 降 HbA1c 的強度？	約 0.5–0.8%（二等，較弱）
+哪些腸胃/腎狀況不宜使用 Acarbose？	發炎性腸道疾病、腸阻塞、吸收不良、嚴重腎功能不全（Cr > 2）
+如何減少 Acarbose 的腸胃副作用？	從小劑量開始緩慢加量
+Metformin 的主要作用機轉是什麼？	抑制肝臟糖質新生（降空腹血糖為主）+ 增加周邊組織對胰島素敏感度
+Metformin 單用會不會造成低血糖？	不會；它不刺激胰島素分泌，單用不會低血糖也不增體重
+Metformin 最嚴重罕見的副作用是什麼？	Lactic acidosis（乳酸中毒），死亡率高，好發於腎/肝/缺氧/敗血症病人
+Metformin 的腎功能使用界線？	eGFR < 30 禁用；30–45 減量且勿新開；≥ 45 可全量
+為什麼打含碘顯影劑要停 Metformin？	顯影劑可誘發 AKI，腎排除下降 → metformin 蓄積 → 增加 lactic acidosis 風險；當天停、48h 後確認腎功能穩定再恢復
+Metformin 最常見的副作用是什麼？如何緩解？	腸胃道副作用（噁心/腹瀉/腹脹），隨餐服用或改緩釋劑（XR）可緩解
+Metformin 長期使用要監測哪個維生素？	維生素 B12（缺乏可致貧血/周邊神經病變）
+Metformin 降 HbA1c 的強度大約多少？	約 1.0–1.5%（強效一等）
+哪些「組織缺氧」情境要暫停 Metformin？	失代償心衰、休克、急性心梗、呼吸衰竭、敗血症、大手術
+Metformin 對第 2 型糖尿病的地位？	第一線首選用藥（單用或合併）
+Glucagon 升血糖的主要機轉是什麼？	促進肝臟肝醣分解（glycogenolysis）與糖質新生，快速釋出葡萄糖入血
+低血糖急救時 glucagon 的定位是什麼（相對 IV glucose）？	「打不上 IV 的替代」；有靜脈通路一律優先給 D50，glucagon 用於意識不清且無法建立 IV 時的 IM/SC/鼻噴急救
+哪些病人打 glucagon 幾乎無效？為什麼？	慢性酗酒、長期飢餓/營養不良、肝衰竭、剛用過一次者 — 因肝醣庫存已耗竭，glucagon 無醣可釋放
+低血糖救援的成人 glucagon 劑量與途徑？	1 mg IM / SC / IV（鼻噴劑 3 mg 一噴）；兒童 <25 kg 用 0.5 mg
+Glucagon 施打後最常見的副作用是什麼？要注意什麼？	噁心嘔吐；病人清醒時易吐，須側躺防吸入性肺炎
+病人打完 glucagon 清醒後，最重要的下一步是什麼？	立即給口服/靜脈碳水補充肝醣庫存，否則作用僅 60–90 分鐘會二次低血糖
+低血糖救援與 β-blocker 中毒解毒的 glucagon 劑量差多少？	救援 1 mg；解毒 3–10 mg IV bolus 後續輸注（差 3–10 倍，勿混淆）
+Glucagon 有哪兩個腫瘤相關禁忌？	嗜鉻細胞瘤（誘發兒茶酚胺致高血壓危象）、胰島素瘤（刺激胰島素釋放致反彈低血糖）
+Glucagon 對電解質有什麼影響？	可致低血鉀（促進 K⁺ 移入細胞內）
+打了 1 mg glucagon 病人 15 分鐘仍未醒，該想什麼？	肝醣可能已耗竭或有其他病因；設法建立 IV 給葡萄糖，並重新評估低血糖成因
+急性單關節炎需首先排除何種情況？	化膿性關節炎
+瀰漫性淋病雙球菌感染的典型症狀有哪些？	移動性多關節、腱鞘炎、膿皰疹
+痛風急性發作時，最常見受累部位是哪個？	第一蹠趾（podagra）
+化膿性關節炎的關節液細胞數和中性球比例是多少？	>50,000, >90%
+急性單關節熱腫應首先考慮何種情況？	先當 septic arthritis 處理
+痛風的決定性診斷是什麼？	單鈉尿酸鹽針狀負雙折射結晶
+急性關節炎時，哪種情況需考慮關節穿刺？	急性單關節熱腫
+化膿性關節炎的治療首選是什麼？	經驗性抗生素
+痛風急性發作時，常見的治療藥物有哪些？	NSAID/秋水仙鹼/類固醇
+化膿性關節炎與其他情況鑑別時，哪種檢查最關鍵？	關節穿刺
+雷擊頭痛應先排除何種疾病？	蜘蛛膜下腔出血（SAH）
+發燒、頸僵、意識改變時疑何病？	腦膜炎或腦炎
+>50歲新發頭痛應考慮何病？	巨細胞動脈炎GCA
+急性隅角閉鎖性青光眼的典型症狀是？	單眼劇痛、紅眼、視力模糊、噁心嘔吐
+偏頭痛POUND評分4-5分代表？	高可能性，很可能是偏頭痛
+Ottawa SAH Rule的哪一項不是指標？	頸部屈曲受限
+SAH患者CT陰性後應做何檢查？	腰椎穿刺看RBC/xanthochromia
+急性青光眼需進行哪一項檢查？	眼壓測量
+雷擊頭痛的特徵是？	數秒內到最痛
+GCA患者常見症狀有哪些？	顳部壓痛、顎跛行、視力變化
+單側急性下肢水腫需先排除何病？	深部靜脈栓塞（DVT）
+哪種情況會考慮直接做下肢靜脈多普勒超音波？	Wells 分數 ≥3
+急性雙側水腫需排除何病？	心力衰竭（CHF）
+哪種情況會考慮先驗高敏 D-dimer？	Wells 分數 1–2
+哪種水腫是非凹陷性？	甲狀腺機能低下引起的 myxedema
+哪種水腫病人會考慮查癌症？	無明顯病因的雙側水腫
+哪種水腫病人會考慮查蛋白 C/S 和抗磷脂綜合症？	無明顯病因的雙側水腫
+哪種藥物可能引起單側急性下肢水腫？	深部靜脈栓塞（DVT）
+哪種水腫病人會考慮查甲狀腺功能？	無明顯病因的雙側水腫
+哪種水腫需要先排除呼吸道阻塞？	血管性水腫（angioedema，尤其舌/喉）
+躁動病人首步驟是什麼？	量SpO2及血糖
+哪種情況需立即給氧？	低血氧Hypoxia
+哪種情況需立即給糖？	低血糖Hypoglycemia
+酒精戒斷症狀有哪些？	顫抖、冒汗、心搏過速、幻覺
+何時考慮腰椎穿刺？	發燒+意識改變+頸僵
+哪種情況需停藥並積極降溫？	血清素症候群/Malignant Syndrome NMS
+RASS分數多少為攻擊性Combative？	+4
+CAM診斷譫妄的必要條件是什麼？	急性起病+波動病程
+何時考慮使用鎮靜藥物？	有危及安全之虞
+RASS分數多少為清醒平靜？	0
+急性尿滯留紅旗警訊	馬尾症候群、阻塞性腎病、泌尿道感染
+鑑別診斷神經性膀胱	鞍區麻木、下肢無力、反射異常、肛門張力↓
+急性尿滯留第一步治療	放置 Foley 導尿減壓
+泌尿道感染支持特徵	發燒、寒顫、血壓下降
+膀胱過度膨脹破裂	外傷/長時間未解，罕見
+前列腺肥大症支持特徵	男性最常見；老年、夜尿/尿柱變細病史、DRE 攝護腺對稱腫大平滑
+前列腺癌支持特徵	DRE 硬結/不規則、PSA↑、體重減輕/骨痛
+逼尿肌無力支持特徵	長期憋尿/糖尿病、無阻塞證據、殘尿多但無明顯出口阻力
+急性尿滯留導尿引流量分類	< 200 mL 萬一真性滯留，200–400 mL 支持滯留，> 400 mL 明確急性滯留
+急性尿滯留腎功能監測	Cr、K、酸鹼
+腹痛的紅旗警訊有哪些？	出血、缺血、阻塞、穿孔、感染發炎
+急性膽囊炎支持特徵是什麼？	Murphy sign(+)，Charcot 三徵（發燒+黃疸+右上腹痛）
+急性心肌梗塞的腹痛如何鑑別？	上腹壓迫感、放射下巴/手臂、ECG 變化、troponin↑
+闌尾炎的典型轉移痛型態是什麼？	臍周痛→轉移右下腹(McBurney)
+急性胰臟炎嚴重度如何評分？	Ranson criteria（入院 5 項 + 48h 6 項）
+急性腸胃出血風險如何評分？	Glasgow-Blatchford score
+腹痛的板硬腹指什麼？	腹膜炎
+育齡女性下腹痛必須先做哪個檢查？	驗孕
+急性膽管炎如何治療？	抗生素+ERCP 引流
+急性胰臟炎的止痛劑量是什麼？	嚴重腹痛給適當止痛
+頭暈最怕漏掉的是什麼？	中樞中風
+HINTS 指向中樞的標準有哪些？	HI 正常 / 變向眼震 / 有 skew（任一）
+BPPV 的典型特徵是什麼？	耳石脫位、變換頭位誘發、每次數秒
+前庭神經炎的症狀有哪些？	感冒後突發、嚴重且持續數天、噁心嘔吐步態不穩、無聽力損失
+Meniere 病的典型症狀是什麼？	內淋巴水腫、耳鳴 + 感音聽損 + 耳脹 + 眩暈數分至數小時、反覆發作
+急性持續性眩暈時，HINTS 三項中哪一項若正常則提示中樞？	Head Impulse 正常
+ABCD2 分數為 4-5 分的短期中風風險是多少？	中（~4%）
+HINTS+ 是指什麼？	加測聽力異常（HINTS+）可再提升敏感度
+前庭性偏頭痛的典型症狀是什麼？	反覆 + 偏頭痛
+中樞型眼震有哪些特徵？	方向會變 / 垂直 / 純旋轉、凝視不抑制
+UGIB 紅旗警訊首點是什麼？	血流動力學不穩定
+UGIB 持續嘔鮮血 / 大量黑便 + 生命徵象惡化表示？	活動性出血
+靜脈曲張出血需考慮哪三種治療？	血管收縮劑、預防性抗生素、內視鏡結紮/硬化
+UGIB 休克指標為何？	Shock Index↑
+UGIB 醫生首步是什麼？	量生命徵象 + 建立 2 條大孔 IV + 抽血驗血 + type & cross
+UGIB 疑靜脈曲張出血需考慮哪種藥物？	血管收縮劑（如 terlipressin / octreotide 類）
+UGIB 疑潰瘍出血需考慮哪種藥物？	PPI
+UGIB 醫生如何評估失血程度？	用生命徵象 + Shock Index + 尿量評估失血程度
+UGIB 準備內視鏡前需考慮哪種因素？	先復甦後鏡檢
+心悸先排哪兩種情況？	惡性心律不整、結構性心臟病
+何時需同步電擊治療？	血流動力學不穩的快速心律
+WPW + AF 禁用哪種藥物？	AV node blocker（如 digoxin/verapamil/adenosine）
+何時需做 12-lead ECG？	症狀發作當下捕捉心律
+SVT 的典型治療為？	Valsalva 或 adenosine
+AF/Aflutter 控速/控律的藥物？	依院內指引，常見有 β 適應素、胺碘酮等
+何時需考慮心臟超音波？	疑結構性/瓣膜/心肌病變
+低血糖的典型症狀？	冒冷汗+心悸+手抖（交感）
+高危特徵中，何種情況需住院監測？	任一高危特徵
+SVT 的 ECG 特徵為？	窄 QRS、規則、快
+喘氣的紅旗警訊先看哪兩項？	上呼吸道阻塞 / 過敏性喉頭水腫, 張力性氣胸
+急性肺水腫或心衰竭惡化的典型症狀是什麼？	端坐呼吸, 粉紅泡沫痰, 雙側濕囓音, S3
+大量肺栓塞的臨床表現有哪些？	突發喘 + 低血氧, 心搏過速, 單側腿腫, RV strain
+重度氣喘或COPD惡化的關鍵指標是什麼？	講不出完整句子, 腹肌 / tripod, silent chest
+代謝性酸中毒的典型呼吸模式是什麼？	Kussmaul 深快呼吸
+喘氣時SpO₂低於多少需要立即處理？	持續 < 90%
+急性肺水腫或心衰竭惡化的即刻處置是什麼？	坐起 + 硝酸鹽 + 利尿, 考慮NIV
+張力性氣胸的處理方法是什麼？	立刻針刺減壓
+CURB-65分數多少表示肺炎嚴重度高？	≥3
+Wells評分用於評估什麼疾病的可能？	肺栓塞
+昏厥的定義是什麼？	暫時性全腦灌流不足 → 短暫意識喪失，且快速、完全自行恢復
+哪種情況屬於紅旗警訊？	運動中/用力時昏厥、心悸後突發、無預兆瞬間倒下、胸痛/背痛/呼吸困難合併昏厥、結構/大血管問題、家族猝死史
+反射性昏厥的前驅症有哪些？	久站、疼痛、情緒、悶熱、排尿/咳嗽/排便後，出現噁心、冷汗、臉色蒼白、視野發黑
+姿勢性低血壓的典型特徵是什麼？	站立後即刻發作、量躺-坐-站血壓收縮壓↓≥20 或舒張↓≥10
+心因性昏厥的紅旗警訊有哪些？	運動中或平躺發作、無預兆瞬間倒、心悸先兆、ECG異常、新雜音、家族猝死史
+哪種情況需要考慮做 tilt table test？	疑反射且反覆的昏厥患者
+昏厥病人初步工作up必做的檢查是什麼？	12-lead ECG（找心律不整/傳導阻滯/預激/長 QT/Brugada/缺血）＋臥立血壓
+ECG正常不能完全排除哪種情況？	陣發性心律不整
+昏厥病人生命徵象穩定時，下一步該做什麼？	ECG + 臥立血壓 + 三段式病史
+哪種昏厥合併外傷暗示無預兆的心因性？	運動中/無預兆的昏厥合併外傷
+急性膽管炎的紅旗警訊是什麼？	發燒+右上腹痛+黃疸；進展成Reynolds五徵
+猛爆性肝衰竭的主要症狀有哪些？	黃疸、凝血異常（INR↑）、肝腦病變
+總膽管結石阻塞的典型症狀是什麼？	右上腹絞痛、clay-color stool、茶色尿、ALP/GGT↑
+溶血危象的主要症狀有哪些？	間接膽紅素↑、貧血、LDH↑、haptoglobin↓
+惡性阻塞的黃疸有何特徵？	無痛性黃疸+可觸及脹大膽囊
+急性膽管炎的Charcot三徵是什麼？	發燒+右上腹痛+黃疸
+Reynolds五徵有哪些症狀？	發燒+右上腹痛+黃疸+低血壓+意識改變
+急性膽管炎的初步工作up包括哪些檢查？	腹部超音波、膽紅素分餾、肝功能組合、CBC/DC、肝炎血清學
+Tokyo Guidelines中急性膽管炎分級為III級的定義是什麼？	合併任一器官衰竭：心血管（升壓劑）、神經（意識改變）、呼吸（P/F<300）、腎（Cr>2）、肝（INR>1.5）、血液（血小板<10萬）
+急性膽管炎分級為II級的定義是什麼？	符合下列任二：WBC>12k或<4k、發燒≥39°C、年齡≥75、T-bil≥5、Alb 低下
+乳房硬塊的紅旗警訊有哪些？	乳癌、皮膚變化、發炎性乳癌、腋下淋巴結腫大、血性乳頭分泌物、乳腺膿瘍
+BI-RADS 分級 4a 細胞學風險是多少？	2–10%
+BI-RADS 分級 5 的惡性風險是多少？	≥95%
+乳房硬塊的鑑別診斷中，哪種情況需要立即引流？	乳腺膿瘍
+BI-RADS 分級 4b 細胞學風險是多少？	10–50%
+乳房硬塊的紅旗警訊中，哪種情況需要考慮轉移可能？	腋下淋巴結腫大
+BI-RADS 分級 4c 細胞學風險是多少？	50–95%
+乳房硬塊的紅旗警訊中，哪種情況需要考慮急性乳腺炎？	發炎性乳癌、急性紅腫熱痛
+BI-RADS 分級 3 的惡性風險是多少？	<2%
+乳房硬塊的紅旗警訊中，哪種情況需要考慮乳頭內縮？	皮膚變化
+胸痛紅旗警訊有幾種？	6種
+急性冠心症（ACS）的典型症狀是什麼？	壓迫性、放射左臂/下巴、冷汗、噁心
+主動脈剝離的紅旗警訊有哪些？	突發撕裂痛、前胸↔背移動、兩側血壓差 >20 mmHg
+肺栓塞的典型症狀是什麼？	胸膜性痛、呼吸急促、tachycardia、單側腿腫
+心包填塞的紅旗警訊有哪些？	低血壓 + 頸靜脈怒張 + 心音遙遠；奇脈
+急性冠心症（ACS）的 HEART 分數 7-10 被視為何種風險？	高風險
+ADD-RS 索引分數 ≥2 表示什麼？	高風險，需直接 CTA / 定義性影像
+急性冠心症（ACS）的 HEART 分數 4-6 被視為何種風險？	中風險
+發燒、腰痛和頻尿應先排除何病？	急性腎盂腎炎 / 尿敗血症
+無痛性血尿伴隨頻尿和體重減輕可能為何？	膀胱癌等泌尿道惡性腫瘤
+神經學缺損、鞍區麻木或尿滯留/溢尿提示何病？	脊髓 / 馬尾病變（神經性膀胱）
+多喝多尿伴體重減輕和意識改變提示何病？	新發糖尿病 / 糖尿病酮酸中毒
+頻尿在育齡女性應先驗什麼試驗？	尿妊娠試驗
+老年男性頻尿伴解不出來可能為何？	溢流型尿滯留，注意不要誤診為單純頻尿
+急性尿敗血症的初步治療是什麼？	抽血+血/尿培養、輸液、經驗性抗生素（依院內指引）
+IPSS總分8-19分，應如何處理？	藥物治療（α-blocker / 5-ARI，依科別建議）
+IPSS總分20-35分，應如何處理？	積極藥物+評估手術、泌尿科轉診
+頻尿伴發燒和腰痛提示何病？	急性腎盂腎炎 / 尿敗血症
+慢性咳嗽的紅旗警訊有哪些？	咳血、體重減輕、喘、燒、異物、心
+急性咳嗽伴發症狀有哪些？	呼吸窘迫/低血氧
+慢性咳嗽患者一定要做什麼檢查？	胸片
+TB 7 分篩檢法的分數是多少時需高度警覺 TB？	≥5 分
+CURB-65 中的 C 是指什麼？	Confusion 新出現意識混亂
+慢性咳嗽三巨頭是哪三個疾病？	上呼吸道咳嗽症候群、氣喘、胃食道逆流
+急性感染時 CURB-65 分數多少建議住院或密切觀察？	2 分
+慢性咳嗽患者常見的病因有哪些？	上呼吸道咳嗽症候群、氣喘、胃食道逆流
+肺結核 7 分篩檢法中哪些項目各得 1 分？	咳嗽（有痰）、咳嗽超過 2 周、體重減輕、沒有食慾、胸痛
+慢性咳嗽患者治療反應無效時，下一步應做什麼檢查？	胸部 CT / 支氣管鏡
+多尿的紅旗警訊有哪些？	糖尿病酮酸血症、高血糖高滲透壓、重度高血鈉、高血鈣危象、中樞性尿崩
+先驗檢查應該做什麼？	指尖血糖 + 抽血鈉/鈣
+多尿的常見原因是什麼？	糖尿病
+鑑別診斷時，如何區分滲透性利尿和水利尿？	通過尿滲透壓檢查
+中樞性尿崩症的主要治療藥物是什麼？	desmopressin (dDAVP)
+高血鈣危象的臨床表現有哪些？	多尿、便秘、意識混亂、心律失常
+術後的稀尿和血鈉快速上升應考慮什麼？	中樞性尿崩症
+鑑別診斷時，如何區分原發性多飲與中樞性尿崩症？	desmopressin 挑戰反應
+血鈉偏高的患者傾向於哪種疾病？	尿崩症（DI）
+水剝奪試驗的脫水風險如何監測？	嚴密監測血鈉、體重和生命體徵
+休克的紅旗警訊是什麼？	低血壓（MAP < 65）+ 組織低灌流徵象
+休克分為哪四種型態？	低容積、心因性、阻塞、分佈性
+RUSH POCUS 的順序是什麼？	Pump-Tank-Pipes
+休克的 SI 值正常範圍是多少？	< 0.7
+qSOFA 指標總分多少時需高度警覺敗血症風險？	≥2
+低容積型休克的主要支持特徵是什麼？	前負荷↓、CO↓、SVR↑、四肢冷；IVC 塌陷
+心因性休克的主要支持特徵是什麼？	前負荷↑（肺水腫、頸靜脈怒張）、CO↓、SVR↑、四肢冷
+阻塞型休克的常見病因有哪些？	張力性氣胸、心包填塞、大量肺栓塞
+分佈性休克的主要支持特徵是什麼？	前負荷↓/正常、CO↑（早期）、SVR↓、四肢暖
+休克初期的目標 MAP 是多少？	≥ 65 mmHg
+吞嚥困難的紅旗警訊	進行性、減重、血、卡、嗆
+食道癌的主要症狀	進行性固體→液體吞嚥困難，體重減輕
+急性完全性食物梗塞的處理	NPO + 急診內視鏡取出
+體重減輕和貧血是什麼警訊？	惡性警訊
+嗆咳/誤吸的風險因素有哪些？	中風、神經退化
+口咽型吞嚥困難的病因	中風、運動神經元疾病、重症肌無力等
+食道型吞嚥困難的常見病因	食道癌/惡性狹窄，食物梗塞，良性狹窄等
+EAT-10評分≥3的意義	提示吞嚥效率或安全異常，需進一步評估
+GUSS評分20分表示什麼？	無/輕微風險，可正常飲食
+機械性 vs 動力性定位的首選檢查	只卡固體、進行性→EGD + 切片；固體+液體皆卡→鋇劑攝影 + HRM
+GCS <8 表現	保護呼吸道、插管
+瞳孔不等大表示	天幕疝脫（uncal herniation）
+Cushing 三徵指什麼	高血壓 + 心搏過緩 + 呼吸不規則
+顱底骨折典型症狀	熊貓眼、Battle sign、耳/鼻漏 CSF、鼓室積血
+抗凝患者頭部外傷應如何處理	放寬 CT 標準
+硬腦膜上腔出血典型症狀	顳骨骨折 + 中腦膜動脈、lucid interval、CT 凸透鏡（biconvex）不越縫合線
+硬腦膜下腔出血支持特徵	老人 / 抗凝 / 酗酒、橋靜脈、CT 新月形（crescent）越縫合線
+蛛網膜下腔出血支持特徵	劇烈頭痛、頸僵、CT 陰性
+腦挫傷/出血 contusion 特點	對衝傷（contrecoup）、局部神經缺損、CT 陰性
+瀰漫性軸突損傷 DAI 分流標準	MRI 陰性
+馬尾症候群的紅旗警訊有哪些？	鞍區麻木、雙側坐骨神經痛、尿滯留/失禁、大便失禁、肛門張力↓
+脊椎硬膜外膿瘍的紅旗警訊有哪些？	發燒+背痛+神經缺損、IVDU/免疫低下、近期感染/手術、結核（Pott）
+惡性腫瘤骨轉移的紅旗警訊有哪些？	年齡>50、癌症史、夜間痛/休息不緩解、體重減輕
+脊椎壓迫性骨折的紅旗警訊有哪些？	高齡/骨鬆/類固醇/創傷、突發劇痛
+腹主動脈瘤或主動脈剝離的紅旗警訊有哪些？	撕裂痛、搏動性腫塊、低血壓
+非特異性機械性下背痛的支持特徵有哪些？	活動加劇/休息緩解、無神經缺損、無紅旗、自限
+椎間盤突出或神經根病變的支撐症狀有哪些？	放射至下肢皮節（L5/S1 最常見）、SLRT(+)、麻木/無力
+僵直性脊椎炎的紅旗警訊有哪些？	發炎性背痛（晨僵>30min、活動改善、半夜痛）
+初步工作up中，有紅旗時應開哪些檢查？	MRI（cauda equina / 膿瘍 / 轉移 / 脊髓壓迫首選）
+無紅旗的急性下背痛 6 個月內不需常規影像，但有哪種情況例外？	鞍區麻+解尿障礙
+意識障礙的紅旗警訊先做什麼？	ABC + 指尖血糖
+AEIOU-TIPS 中 A 為何？	酒精、酒精戒斷、貧血
+代謝性昏迷常見於哪種電解質異常？	電解質不平衡（Na/Ca）
+低血糖的 GCS 分數範圍是？	<8
+FOUR Score 中哪一項評估腦幹反射？	Brainstem
+急性癲癇狀態（NCSE）需做何檢查？	EEG
+中風溶栓的 LKW 時間窗是？	3 小時內
+哪種昏迷會出現撲翼樣震顫？	代謝性
+急性發燒、頸僵、意識改變，疑何病？	腦膜炎/腦炎
+低血糖的急救順序是？	thiamine → 葡萄糖
+大量咳血定義	>600 cc/24h 或 >100–150 cc/h
+大量咳血的死因	窒息（asphyxiation）
+低血氧症狀	呼吸窘迫 / 意識改變
+急性腎損傷與咳血相關疾病	肺腎症候群 (Goodpasture’s syndrome, Wegener’s granulomatosis)
+VITAMIN 系統性思考中的血管類疾病	動靜脈血管畸形、心臟衰竭、肺栓塞
+咳血 vs 吐血 vs 假性咳血的區別	咳血=鮮紅帶泡沫、鹼性；吐血=暗紅/咖啡渣、酸性；假性=鼻咽/上呼吸道來源
+急性腎損傷與哪些疾病相關	肺腎症候群 (Goodpasture’s syndrome, Wegener’s granulomatosis)
+大量咳血的初步處置	保護呼吸道、bad lung down、大 IV、備血
+非大量咳血的處理	保守治療 + 找病因
+咳嗽帶血絲定義	輕微 (mild) 嚴重度分級
+紅旗警訊中高血糖兩大急症是哪兩個？	DKA、HHS
+昏迷或意識改變病人首先應該做什麼？	fingerstick 血糖
+低血糖的 Whipple 三徵包含哪些內容？	交感（冒冷汗等）、低血糖值、給糖緩解
+DKA 的 pH 規範是什麼？	<7.3
+HHS 的血漿滲透壓通常超過多少？	>320 mOsm/kg
+DKA 和 HHS 在血糖上的區別是？	DKA 一般 <600，HHS 常 >600
+DKA 的治療首選為何？	大量生理食鹽水
+低血鉀時是否可以給胰島素？	不可以
+HHS 治療中補液的目的是什麼？	緩慢矯正滲透壓，避免腦水腫
+DKA 重度分級的 pH 下限是多少？	<7.00
+發燒病人 qSOFA ≥2 的指標有哪些？	意識改變、低血壓（<100 mmHg）、呼吸次數≥22/min
+疑似敗血症的紅旗警訊是什麼？	qSOFA ≥2 或休克徵象
+嗜中性球低下發燒應立即給予何種抗生素？	廣效經驗性抗生素，含抗綠膿桿菌
+敗血症黃金第一步是什麼？	抽兩套血培養（不同部位）並驗 lactate
+懷疑腦膜炎時應先做何種檢查？	腰椎穿刺（LP），有意識改變/局部神經缺損先做腦部影像
+急性膽管炎的典型症狀是什麼？	Charcot 三徵：發燒+黃疸+右上腹痛
+敗血性休克的定義是什麼？	需升壓劑維持 MAP ≥65 mmHg ＋ lactate >2 mmol/L（已充分液體復甦後）
+發燒病人找感染灶時，哪些情況應考慮皮膚軟組織感染？	疼痛不成比例、皮膚瘀黑/水泡、捻髮音、毒性外觀
+急性心內膜炎的典型症狀有哪些？	新雜音、栓塞徵象、持續菌血症、IVDU/瓣膜病史
+發燒病人退燒藥反應如何？	退燒藥無效常暗示菌血症
+非預期體重減輕的定義是什麼？	6–12 個月內體重掉 > 5% 或 > 4.5 kg
+哪些情況屬於快速 / 大幅減輕？	短期掉很多，且食慾明顯改變
+非預期體重減輕的紅旗警訊有哪些？	年齡 > 50、貧血 / 缺鐵、上消化道出血 / 血便、吞嚥困難、淋巴結腫大、腫塊、夜間盜汗
+非預期體重減輕的鑑別診斷主要分為哪八大類？	癌·內分泌·腸胃·感染·精神·慢病·藥物·社會
+惡性腫瘤警訊有哪些特徵？	年齡 > 50、貧血 / 缺鐵、上消化道出血 / 血便、吞嚥困難、淋巴結腫大、腫塊、夜間盜汗
+內分泌代謝疾病如何鑑別診斷？	甲亢：怕熱手抖心悸 + 食慾↑卻變瘦；DM：吃多喝多尿多（連多尿）
+腸胃道疾病的常見支持特徵有哪些？	腹痛腹瀉、脂肪便、食慾差、消化道症狀
+慢性感染的常見疾病是哪些？	結核病、人類免疫缺乏病毒、C型肝炎、寄生蟲
+精神 / 認知疾病的常見支持特徵有哪些？	情緒 / 食慾 / 認知改變、進食行為異常
+嚴重慢性病的常見疾病是哪些？	心臟衰竭、慢性阻塞性肺病、CKD、肝硬化
+下消化道出血紅旗警訊？	血流動力學不穩
+快速血便可能是什麼？	上消化道大出血
+缺血性大腸炎的關鍵症狀？	突發腹絞痛 + 血便
+抗凝/抗血小板相關出血，首先要問什麼？	有沒有用抗凝血/抗血小板/NOAC
+鮮紅血便不一定是下消化道出血？	快速上消化道大出血也可能鮮紅
+Oakland Score 分數多少可考慮安全出院？	≤8分
+BUN/Cr比值升高提示什麼？	上消化道大出血
+CTA/介入栓塞適用於哪種情況？	不穩且持續出血
+DRE+糞便檢查主要看什麼？	血色、潛血
+門診處理的Oakland Score分數上限是多少？	8分
+無痛性肉眼血尿主要見於何種疾病？	泌尿道惡性腫瘤
+發燒、腰痛及血尿可能指示哪種急性症狀？	急性腎盂腎炎
+凝塊伴隨血尿提示哪些情況？	膀胱填塞
+血尿伴有高血壓、水腫和蛋白尿，最可能的疾病是？	腎絲球腎炎
+肉眼血尿與顯微血尿如何區分？	肉眼血尿為肉眼可見，顯微血尿需鏡檢確認
+假性血尿常見於哪些情況？	食物、藥物（如rifampin）、肌紅蛋白尿、血紅素尿
+AUA分層中低風險的定義是？	女<50歲/男<40歲，從不抽菸或<10包年，3-10 RBC/HPF，無其他危險因子
+高血壓、水腫和蛋白尿支持哪種疾病診斷？	腎絲球腎炎
+泌尿科性血尿常見於哪些部位？	膀胱、尿道、攝護腺
+急性腎盂腎炎的典型症狀是？	發燒+腰痛+血尿

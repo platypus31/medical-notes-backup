@@ -1,0 +1,49 @@
+---
+tags: [疾病, 血液腫瘤科]
+aliases: [Thrombosis, 血栓]
+type: disease
+status: 🌱seedling
+sources_reviewed:
+---
+# Thrombosis（血栓）
+
+> [!abstract] 一句話：
+
+## 📖 定義 / 病生理（這是什麼）
+- 抗凝因子(Natural anticoagulant)缺乏->高凝固狀態(Hypercoagulable state)
+
+| **血栓相關整理表格**                |                  |                       |
+| --------------------------- | ---------------- | --------------------- |
+| 抗凝因子(Natural anticoagulant) | Antithrombin III | Protein C/輔酶Protein S |
+| 作用(分解活化的)                   | Factor 10a       | Factor 5a、8a          |
+
+## 🩺 臨床表現（症狀 / 徵象）
+> 連症狀卡 [[]]、[[]]
+
+
+## 🔬 診斷（診斷標準 / 要開的檢查影像）
+> 檢查 [[]]　影像 [[]]
+
+
+## ⭐ 特徵 / 注意（pearls & pitfalls，易漏易考）
+- 台灣常見缺: Protein S>Protein C>Antithrombin III
+- 西方常見Factor V Leiden(病患對Activated Protein C resistance)：西方國家[[Deep Vein Thrombosis(深部靜脈栓塞)]](50%)是因為此
+
+## 💊 治療（Acute / Chronic）
+> 用藥 [[]]
+
+
+## ⚠️ 併發症
+
+
+## 📊 嚴重度評分 / 風險分層（scoring）
+> 用哪個 score 判斷 severity / 預後 / treatment 強度
+| 評分 | 用途 | 分數 → 意義 |
+| --- | --- | --- |
+|  |  |  |
+
+## 🔗 相關
+- 鑑別：[[]]　用藥：[[]]
+
+## 📚 來源
+[^1]:
