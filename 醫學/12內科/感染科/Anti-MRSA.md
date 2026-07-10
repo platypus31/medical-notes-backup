@@ -142,4 +142,4 @@ sources_reviewed: 2026-07-06
 ## 📚 來源
 [^1]: Liu C, et al. **IDSA Clinical Practice Guidelines for the Treatment of MRSA Infections in Adults and Children.** *Clin Infect Dis.* 2011;52(3):e18–e55. PMID: 21208910
 [^2]: Rybak MJ, et al. **Therapeutic monitoring of vancomycin for serious MRSA infections: A revised consensus guideline (ASHP/IDSA/PIDS/SIDP).** *Am J Health Syst Pharm.* 2020;77(11):835–864. PMID: 32191793（AUC/MIC 監測依據）
-[^3]: 長庚銀蛋口袋書（印）— 抗生素部分（泰叡親手標註原始資料，見上方 PDF 引用區塊）
+[^3]: 長庚銀蛋口袋書（印）— 抗生素部分（手寫標註原始資料，見上方 PDF 引用區塊）

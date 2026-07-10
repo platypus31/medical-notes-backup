@@ -82,4 +82,4 @@ sources_reviewed: 2026-07-06
 ## 📚 來源
 [^1]: Stout KK, et al. **2018 AHA/ACC Guideline for the Management of Adults With Congenital Heart Disease.** *Circulation.* 2019;139(14):e698–e800. PMID: 30586768（CoA 介入門檻與追蹤）
 [^2]: Baumgartner H, et al. **2020 ESC Guidelines for the management of adult congenital heart disease.** *Eur Heart J.* 2021;42(6):563–645. PMID: 32860028
-[^3]: 《長庚銀蛋口袋書》p.20（泰叡既有 PDF 引用，見病生理段嵌入）
+[^3]: 《長庚銀蛋口袋書》p.20（館藏 PDF 引用，見病生理段嵌入）

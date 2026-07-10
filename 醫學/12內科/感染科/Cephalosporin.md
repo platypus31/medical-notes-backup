@@ -177,4 +177,4 @@ sources_reviewed: 2026-07-06
 ## 📚 來源
 [^1]: **Cephalosporins.** In: Bennett JE, Dolin R, Blaser MJ, eds. *Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases.* 9th ed. Elsevier.（各世代抗菌範圍與臨床應用標準參考）
 [^2]: Pichichero ME. **A review of evidence supporting the American Academy of Pediatrics recommendation for prescribing cephalosporin antibiotics for penicillin-allergic patients.** *Pediatrics.* 2005;115(4):1048–1057. PMID: 15805383（cephalosporin 與 penicillin 交叉過敏率低的依據）
-[^3]: 長庚銀蛋口袋書（印）— 抗生素部分（泰叡親手標註原始資料，見上方 PDF 引用區塊）
+[^3]: 長庚銀蛋口袋書（印）— 抗生素部分（手寫標註原始資料，見上方 PDF 引用區塊）

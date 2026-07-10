@@ -60,7 +60,7 @@ sources_reviewed: 2026-07-03
 
 ## 📚 來源
 [^1]: UpToDate — Overview of targeted therapy for cancer
-[^2]: 泰叡原筆記標靶藥物表格（Gefitinib / Bevacizumab / Rituximab / Bortezomib）
+[^2]: 原筆記標靶藥物表格（Gefitinib / Bevacizumab / Rituximab / Bortezomib）
 [^3]: 各藥物仿單 / NCCN Guidelines
 
 ## 🎴 Flashcards & 自我測驗

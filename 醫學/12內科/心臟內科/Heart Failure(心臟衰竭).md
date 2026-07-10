@@ -93,5 +93,5 @@ sources_reviewed: 2026-07-05
 - 誘因／共病：[[Acute Coronary Syndrome(急性冠心症)]]、[[Arrythmia(心律不整)]]、[[Hypertension(高血壓)]]、[[Valvular Heart Disease(瓣膜性心臟病)]]
 
 ## 📚 來源
-[^1]: 《Pocket Medicine》8th ed.（MGH Handbook，泰叡既有 PDF 引用，見上文各段嵌入）
+[^1]: 《Pocket Medicine》8th ed.（MGH Handbook，館藏 PDF 引用，見上文各段嵌入）
 [^2]: Heidenreich PA, et al. **2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure.** *Circulation.* 2022;145(18):e895–e1032. PMID: 35363499（GDMT 四支柱、LVEF 分型依據）

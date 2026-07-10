@@ -75,4 +75,4 @@ sources_reviewed: 2026-07-05
 ## 📚 來源
 [^1]: Sgarbossa EB, et al. **Electrocardiographic diagnosis of evolving acute myocardial infarction in the presence of left bundle-branch block.** *N Engl J Med.* 1996;334:481–487. PMID: 8559200
 [^2]: Meyers HP, Smith SW, et al. **Validation of the modified Sgarbossa criteria for acute coronary occlusion in LBBB.** *Am Heart J.* 2015;170(6):1255–1264. PMID: 26678648
-[^3]: 《Pocket Medicine》8th ed.（MGH Handbook，泰叡既有 PDF 引用，見上文嵌入 p.20）
+[^3]: 《Pocket Medicine》8th ed.（MGH Handbook，館藏 PDF 引用，見上文嵌入 p.20）

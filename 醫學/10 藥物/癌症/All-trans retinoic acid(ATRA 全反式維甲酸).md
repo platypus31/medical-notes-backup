@@ -51,7 +51,7 @@ sources_reviewed: 2026-07-03
 
 ## 📚 來源
 [^1]: UpToDate — Initial treatment of acute promyelocytic leukemia in adults
-[^2]: 泰叡原筆記：differentiation syndrome 診斷「7 取 3」徵象（發燒、體重增加、ARDS/呼吸窘迫、影像浸潤、肋膜/心包積液、低血壓、腎衰竭）
+[^2]: 原筆記：differentiation syndrome 診斷「7 取 3」徵象（發燒、體重增加、ARDS/呼吸窘迫、影像浸潤、肋膜/心包積液、低血壓、腎衰竭）
 [^3]: NCCN Guidelines — AML (APL section)
 
 ## 🎴 Flashcards & 自我測驗

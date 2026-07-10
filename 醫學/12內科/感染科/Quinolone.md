@@ -49,7 +49,7 @@ sources_reviewed: 2026-07-06
 ![[長庚銀蛋口袋書(印).pdf#page=15&rect=33,566,497,695&color=red|長庚銀蛋口袋書(印), p.15]]
 
 ## 💊 治療（各藥 spectrum / dosage）
-> 用藥速查（銀蛋口袋書表格為泰叡親手標註原始資料，一字不動）
+> 用藥速查（銀蛋口袋書表格為手寫標註原始資料，一字不動）
 > ⚠️ 劑量依最新指引與腎功能，用藥前查藥典
 
 | Ciprofloxacin (IV, Ciproxin®)                                                                  |                                                                                                                                                                            |
@@ -108,7 +108,7 @@ sources_reviewed: 2026-07-06
 - 副作用相關：[[Aortic dissection(主動脈剝離)]]、[[Tendon rupture(肌腱斷裂)]]、[[QT prolongation(QT間期延長)]]
 
 ## 📚 來源
-[^1]: 長庚銀蛋口袋書（印）— Quinolone 章節（泰叡親手標註 PDF 摘錄，見上方 特徵/治療區）
+[^1]: 長庚銀蛋口袋書（印）— Quinolone 章節（手寫標註 PDF 摘錄，見上方 特徵/治療區）
 [^2]: **FDA Drug Safety Communications on Fluoroquinolones**（肌腱、周邊神經、主動脈瘤/剝離、血糖與 CNS 之黑框警語，2016–2018）
 [^3]: Aldred KJ, et al. **Mechanism of Quinolone Action and Resistance.** *Biochemistry.* 2014;53(10):1565–1574. PMID: 24576155
 [^4]: Bennett JE, et al. **Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, 9e** — Quinolones

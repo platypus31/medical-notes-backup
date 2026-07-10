@@ -124,4 +124,4 @@ sources_reviewed: 2026-07-06
 ## 📚 來源
 [^1]: Tamma PD, et al. **IDSA Guidance on the Treatment of ESBL, AmpC, and Carbapenem-Resistant Enterobacterales (最新版).** *Clin Infect Dis.*（ESBL 首選 carbapenem、CRE 選藥權威指引）PMID: 39108079
 [^2]: Papp-Wallace KM, et al. **Carbapenems: Past, Present, and Future.** *Antimicrob Agents Chemother.* 2011;55(11):4943–4960. PMID: 21859938（碳青黴烯藥理與抗藥機轉綜述）
-[^3]: 長庚銀蛋口袋書（印）— 抗生素部分（泰叡親手標註原始資料，見上方 PDF 引用區塊）
+[^3]: 長庚銀蛋口袋書（印）— 抗生素部分（手寫標註原始資料，見上方 PDF 引用區塊）

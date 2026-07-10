@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Acute intramural hematoma(急性壁內血腫)",
+      "path": "醫學/12內科/心臟內科/Acute intramural hematoma(急性壁內血腫).md"
+    },
+    {
+      "basename": "Pulmonary Edema(肺水腫)",
+      "path": "醫學/12內科/胸腔內科/Pulmonary Edema(肺水腫).md"
+    },
+    {
+      "basename": "Aortic Regurgitation(主動脈瓣逆流)",
+      "path": "醫學/12內科/心臟內科/Aortic Regurgitation(主動脈瓣逆流).md"
+    },
+    {
+      "basename": "Pocket Medicine The Massachusetts General Hospital Handbook of Internal Medicine, 8th Edition",
+      "path": "醫學/1醫學原文書籍/內科/Pocket Medicine The Massachusetts General Hospital Handbook of Internal Medicine, 8th Edition.pdf"
+    },
+    {
       "basename": "Acute pericarditis(急性心包膜炎)",
       "path": "醫學/12內科/心臟內科/Acute pericarditis(急性心包膜炎).md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "心電圖模板",
       "path": "模板/心電圖模板.md"
-    },
-    {
-      "basename": "放射檢查模板",
-      "path": "模板/放射檢查模板.md"
-    },
-    {
-      "basename": "Conscious Change(意識障礙)",
-      "path": "醫學/5值班/主訴/Conscious Change(意識障礙).md"
-    },
-    {
-      "basename": "值班心電圖",
-      "path": "醫學/5值班/值班心電圖.md"
-    },
-    {
-      "basename": "長庚銀蛋口袋書(印)",
-      "path": "醫學/1醫學原文書籍/筆記書/長庚銀蛋口袋書(印).pdf"
     }
   ],
   "omittedPaths": [],

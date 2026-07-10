@@ -44,7 +44,7 @@ sources_reviewed: 2026-07-03
   - **心血管**：心肌梗塞、中風、心衰惡化、高血壓
   - 抑制血小板（可逆，與 aspirin 不可逆不同）、AERD 支氣管痙攣
 
-> [!note] 🧠 GI vs CV 毒性（泰叡口訣）
+> [!note] 🧠 GI vs CV 毒性（記憶口訣）
 > **「一個叫尼克的人肚子痛，讓整個文明很傷心」** → **ANIK 傷胃、CIV 傷心**
 > - **傷胃（GI）**：**A**spirin、**N**aproxen、**I**ndomethacin、**K**etorolac
 > - **傷心（CV）**：**C**oxib、**I**buprofen、**V**oren(diclofenac)
@@ -84,7 +84,7 @@ sources_reviewed: 2026-07-03
 ## 📚 來源
 [^1]: UpToDate — NSAIDs: Adverse cardiovascular / GI / renal effects
 [^2]: Katzung — NSAIDs and COX selectivity
-[^3]: 泰叡藥理筆記（ANIK 傷胃 / CIV 傷心口訣、GI 出血風險排序）
+[^3]: 藥理原筆記（ANIK 傷胃 / CIV 傷心口訣、GI 出血風險排序）
 
 ## 🎴 Flashcards & 自我測驗
 <!-- flashcard-gen:start -->

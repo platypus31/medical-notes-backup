@@ -49,7 +49,7 @@ sources_reviewed: 2026-07-06
 - β-lactam 是 **time-dependent** 殺菌 → 靠增加給藥頻率/延長輸注提高 T>MIC，而非單次大劑量。
 
 ## 💊 治療（各次類 spectrum / dosage）
-> 用藥速查（銀蛋口袋書表格為泰叡親手標註原始資料，一字不動）
+> 用藥速查（銀蛋口袋書表格為手寫標註原始資料，一字不動）
 > ⚠️ 劑量依最新指引與腎功能，用藥前查藥典
 
 | PCN-G, PCN-V |                                                                                        |
@@ -167,7 +167,7 @@ sources_reviewed: 2026-07-06
 - 對照藥類：[[Quinolone]]
 
 ## 📚 來源
-[^1]: 長庚銀蛋口袋書（印）— Penicillin 章節（泰叡親手標註 PDF 摘錄，見上方 治療區）
+[^1]: 長庚銀蛋口袋書（印）— Penicillin 章節（手寫標註 PDF 摘錄，見上方 治療區）
 [^2]: Sabih A, et al. **Penicillin.** In: StatPearls. NCBI Bookshelf, 2023 update.
 [^3]: Shenoy ES, et al. **Evaluation and Management of Penicillin Allergy: A Review.** *JAMA.* 2019;321(2):188–199. PMID: 30644987
 [^4]: Bennett JE, et al. **Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, 9e** — β-lactam antibiotics（機轉/抗菌譜整理）

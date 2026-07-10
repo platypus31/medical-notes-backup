@@ -73,4 +73,4 @@ sources_reviewed: 2026-07-05
 
 ## 📚 來源
 [^1]: Surawicz B, et al. **AHA/ACCF/HRS Recommendations for the Standardization and Interpretation of the Electrocardiogram, Part III: Intraventricular Conduction Disturbances.** *Circulation.* 2009;119(10):e235–e240. PMID: 19228822
-[^2]: 《Pocket Medicine》8th ed.（MGH Handbook，泰叡既有 PDF 引用，見上文嵌入 p.20）
+[^2]: 《Pocket Medicine》8th ed.（MGH Handbook，館藏 PDF 引用，見上文嵌入 p.20）

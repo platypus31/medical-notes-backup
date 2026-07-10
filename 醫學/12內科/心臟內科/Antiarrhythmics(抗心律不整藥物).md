@@ -85,4 +85,4 @@ sources_reviewed: 2026-07-05
 [^1]: January CT, et al. **2019 AHA/ACC/HRS Focused Update on the Management of Patients With Atrial Fibrillation.** *Circulation.* 2019;140(2):e125–e151. PMID: 30686041
 [^2]: Panchal AR, et al. **2020 AHA Guidelines for CPR and ECC (ACLS drug doses).** *Circulation.* 2020;142(16_suppl_2):S366–S468. PMID: 33081529
 [^3]: Echt DS, et al. **Mortality and morbidity in patients receiving encainide, flecainide, or placebo (CAST).** *N Engl J Med.* 1991;324:781–788. PMID: 1900101
-[^4]: 長庚銀蛋口袋書 p.142（泰叡既有 PDF 引用，見上文嵌入）
+[^4]: 長庚銀蛋口袋書 p.142（館藏 PDF 引用，見上文嵌入）

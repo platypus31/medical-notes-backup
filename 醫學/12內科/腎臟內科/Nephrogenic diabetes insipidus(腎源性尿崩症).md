@@ -42,7 +42,7 @@ sources_reviewed: 2026-07-06
 - **Lithium** 是最常考、最常見的後天 NDI 病因 → 用鋰鹽病人多尿先想 NDI。
 - 先矯正**高血鈣、低血鉀**，NDI 可能可逆。
 - 跟 [[Primary Polydipsia(原發性多飲症)]] 鑑別：primary polydipsia 血鈉偏**低**、禁水後尿可濃縮；NDI 血鈉偏**高**、禁水尿仍稀。
-- **Thiazide 治 NDI 的機轉**（見下方泰叡標註）：藉排鈉造成輕度容積收縮 → 促近曲小管等滲吸收 → 到達集尿管的水量減少。
+- **Thiazide 治 NDI 的機轉**（見下方筆者標註）：藉排鈉造成輕度容積收縮 → 促近曲小管等滲吸收 → 到達集尿管的水量減少。
 
 > [!PDF|red] [[長庚銀蛋口袋書(印).pdf#page=28&selection=3,0,85,33&color=red|長庚銀蛋口袋書(印), p.28]]
 > > 【Q1 】為何 Thiazide 可以治療 Nephrogenic DI （腎源性尿崩症，NDI ）?
